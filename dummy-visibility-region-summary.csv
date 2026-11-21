@@ -1,0 +1,1501 @@
+YEAR,MONTH,WEEK,REGION,SITE,SALESMAN,CHANNEL,CATEGORY_GROUP,ACTIVITY_DATE,TOTAL_SUBMISSION,AVAILABLE,NO_DISPLAY,PHOTO_ISSUE,NO_PHOTO
+2026,May,WEEK 18,Region B,Site 009,Salesman 01,SPORT,No Display,2026-05-05,2,0,2,0,0
+2026,April,WEEK 15,Region B,Site 010,Salesman 07,MAIN ROAD,Photo Issue,2026-04-10,2,0,0,2,0
+2026,August,WEEK 32,Region B,Site 005,Salesman 07,SCHOOL,Available,2026-08-10,7,7,0,0,0
+2026,July,WEEK 27,Region B,Site 006,Salesman 08,PUBLIC TRANSPORT,Available,2026-07-05,1,1,0,0,0
+2026,August,WEEK 35,Region C,Site 007,Salesman 05,SPORT,Available,2026-08-29,8,8,0,0,0
+2026,July,WEEK 28,Region C,Site 007,Salesman 04,TOURISM,Available,2026-07-14,5,5,0,0,0
+2026,January,WEEK 1,Region A,Site 005,Salesman 02,SPORT,Photo Issue,2026-01-02,2,0,0,2,0
+2026,November,WEEK 41,Region A,Site 010,Salesman 01,PUBLIC TRANSPORT,Available,2026-11-04,10,10,0,0,0
+2026,July,WEEK 29,Region B,Site 007,Salesman 02,PUBLIC TRANSPORT,No Display,2026-07-20,5,0,5,0,0
+2026,September,WEEK 35,Region C,Site 005,Salesman 05,TOURISM,Available,2026-09-02,8,8,0,0,0
+2026,July,WEEK 31,Region B,Site 010,Salesman 08,SCHOOL,No Display,2026-07-31,9,0,9,0,0
+2026,May,WEEK 21,Region A,Site 009,Salesman 01,SPORT,Available,2026-05-21,2,2,0,0,0
+2026,August,WEEK 32,Region C,Site 009,Salesman 06,SPORT,Available,2026-08-08,7,7,0,0,0
+2026,April,WEEK 15,Region B,Site 010,Salesman 08,SCHOOL,Photo Issue,2026-04-15,1,0,0,1,0
+2026,July,WEEK 26,Region C,Site 002,Salesman 08,SCHOOL,Available,2026-07-01,12,12,0,0,0
+2026,November,WEEK 41,Region C,Site 007,Salesman 06,TOURISM,Available,2026-11-02,7,7,0,0,0
+2026,February,WEEK 5,Region A,Site 010,Salesman 02,SPORT,Available,2026-02-02,10,10,0,0,0
+2026,July,WEEK 29,Region A,Site 003,Salesman 02,MAIN ROAD,No Display,2026-07-19,4,0,4,0,0
+2026,May,WEEK 20,Region B,Site 006,Salesman 04,PUBLIC TRANSPORT,Available,2026-05-15,1,1,0,0,0
+2026,October,WEEK 40,Region B,Site 011,Salesman 02,MAIN ROAD,Available,2026-10-06,3,3,0,0,0
+2026,April,WEEK 14,Region A,Site 002,Salesman 06,TOURISM,Photo Issue,2026-04-05,10,0,0,10,0
+2026,January,WEEK 2,Region C,Site 005,Salesman 03,TOURISM,Photo Issue,2026-01-13,4,0,0,4,0
+2026,August,WEEK 31,Region A,Site 004,Salesman 07,TOURISM,No Photo,2026-08-01,9,0,0,0,9
+2026,January,WEEK 1,Region A,Site 002,Salesman 07,SCHOOL,Photo Issue,2026-01-07,12,0,0,12,0
+2026,February,WEEK 8,Region A,Site 005,Salesman 08,SPORT,Photo Issue,2026-02-21,4,0,0,4,0
+2026,August,WEEK 31,Region C,Site 005,Salesman 01,TOURISM,Available,2026-08-02,8,8,0,0,0
+2026,September,WEEK 37,Region C,Site 008,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-09-15,7,0,0,0,7
+2026,April,WEEK 14,Region C,Site 010,Salesman 05,TOURISM,Available,2026-04-02,11,11,0,0,0
+2026,April,WEEK 16,Region C,Site 009,Salesman 02,PUBLIC TRANSPORT,Available,2026-04-22,1,1,0,0,0
+2026,July,WEEK 30,Region A,Site 008,Salesman 04,PUBLIC TRANSPORT,Available,2026-07-23,6,6,0,0,0
+2026,September,WEEK 38,Region C,Site 002,Salesman 07,TOURISM,No Display,2026-09-23,11,0,11,0,0
+2026,February,WEEK 7,Region C,Site 010,Salesman 07,TOURISM,No Photo,2026-02-13,1,0,0,0,1
+2026,June,WEEK 24,Region B,Site 007,Salesman 08,MAIN ROAD,Available,2026-06-11,2,2,0,0,0
+2026,August,WEEK 32,Region A,Site 001,Salesman 03,SPORT,Photo Issue,2026-08-06,1,0,0,1,0
+2026,March,WEEK 12,Region A,Site 001,Salesman 06,PUBLIC TRANSPORT,Available,2026-03-20,1,1,0,0,0
+2026,June,WEEK 23,Region B,Site 010,Salesman 07,MAIN ROAD,Available,2026-06-04,2,2,0,0,0
+2026,January,WEEK 1,Region C,Site 001,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-07,10,10,0,0,0
+2026,May,WEEK 18,Region A,Site 009,Salesman 01,PUBLIC TRANSPORT,Available,2026-05-02,7,7,0,0,0
+2026,March,WEEK 12,Region B,Site 006,Salesman 01,PUBLIC TRANSPORT,No Display,2026-03-21,12,0,12,0,0
+2026,August,WEEK 33,Region B,Site 007,Salesman 06,MAIN ROAD,Available,2026-08-19,7,7,0,0,0
+2026,January,WEEK 1,Region A,Site 004,Salesman 04,SCHOOL,Available,2026-01-05,9,9,0,0,0
+2026,September,WEEK 39,Region B,Site 008,Salesman 03,PUBLIC TRANSPORT,Available,2026-09-24,2,2,0,0,0
+2026,July,WEEK 28,Region B,Site 001,Salesman 03,SCHOOL,Available,2026-07-15,10,10,0,0,0
+2026,February,WEEK 9,Region C,Site 003,Salesman 03,SPORT,Available,2026-02-27,4,4,0,0,0
+2026,October,WEEK 41,Region C,Site 001,Salesman 06,SCHOOL,Available,2026-10-14,6,6,0,0,0
+2026,April,WEEK 13,Region B,Site 007,Salesman 02,TOURISM,Available,2026-04-01,4,4,0,0,0
+2026,May,WEEK 21,Region A,Site 005,Salesman 07,TOURISM,Photo Issue,2026-05-25,1,0,0,1,0
+2026,September,WEEK 39,Region A,Site 006,Salesman 05,PUBLIC TRANSPORT,Available,2026-09-26,8,8,0,0,0
+2026,March,WEEK 11,Region C,Site 007,Salesman 04,SCHOOL,Available,2026-03-12,5,5,0,0,0
+2026,July,WEEK 29,Region C,Site 006,Salesman 02,MAIN ROAD,Available,2026-07-18,5,5,0,0,0
+2026,October,WEEK 41,Region C,Site 004,Salesman 06,MAIN ROAD,Available,2026-10-12,11,11,0,0,0
+2026,June,WEEK 22,Region C,Site 003,Salesman 01,PUBLIC TRANSPORT,No Display,2026-06-03,12,0,12,0,0
+2026,July,WEEK 31,Region B,Site 002,Salesman 04,TOURISM,Photo Issue,2026-07-30,6,0,0,6,0
+2026,July,WEEK 29,Region B,Site 008,Salesman 06,MAIN ROAD,Available,2026-07-19,11,11,0,0,0
+2026,January,WEEK 4,Region B,Site 009,Salesman 05,PUBLIC TRANSPORT,Available,2026-01-27,5,5,0,0,0
+2026,May,WEEK 19,Region C,Site 003,Salesman 08,SCHOOL,Photo Issue,2026-05-09,9,0,0,9,0
+2026,April,WEEK 17,Region A,Site 001,Salesman 06,SCHOOL,Photo Issue,2026-04-27,12,0,0,12,0
+2026,September,WEEK 36,Region C,Site 010,Salesman 02,SPORT,Available,2026-09-07,5,5,0,0,0
+2026,August,WEEK 31,Region B,Site 007,Salesman 06,TOURISM,Photo Issue,2026-08-02,11,0,0,11,0
+2026,March,WEEK 12,Region A,Site 012,Salesman 04,MAIN ROAD,Available,2026-03-23,5,5,0,0,0
+2026,October,WEEK 40,Region C,Site 011,Salesman 03,SPORT,Available,2026-10-03,4,4,0,0,0
+2026,February,WEEK 8,Region C,Site 002,Salesman 06,TOURISM,Available,2026-02-23,1,1,0,0,0
+2026,October,WEEK 41,Region C,Site 007,Salesman 08,SPORT,Photo Issue,2026-10-31,3,0,0,3,0
+2026,March,WEEK 10,Region B,Site 005,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-03-10,2,0,0,0,2
+2026,July,WEEK 27,Region A,Site 011,Salesman 07,SPORT,Available,2026-07-05,3,3,0,0,0
+2026,January,WEEK 2,Region C,Site 010,Salesman 03,MAIN ROAD,Available,2026-01-08,3,3,0,0,0
+2026,June,WEEK 24,Region C,Site 005,Salesman 07,TOURISM,Available,2026-06-16,11,11,0,0,0
+2026,March,WEEK 10,Region C,Site 008,Salesman 03,PUBLIC TRANSPORT,Available,2026-03-11,7,7,0,0,0
+2026,January,WEEK 4,Region B,Site 004,Salesman 08,MAIN ROAD,Available,2026-01-28,1,1,0,0,0
+2026,March,WEEK 10,Region A,Site 006,Salesman 03,TOURISM,Photo Issue,2026-03-10,9,0,0,9,0
+2026,July,WEEK 29,Region B,Site 012,Salesman 05,TOURISM,Available,2026-07-17,9,9,0,0,0
+2026,February,WEEK 8,Region C,Site 011,Salesman 07,TOURISM,Available,2026-02-23,2,2,0,0,0
+2026,June,WEEK 22,Region B,Site 006,Salesman 08,SCHOOL,Available,2026-06-02,8,8,0,0,0
+2026,June,WEEK 23,Region B,Site 006,Salesman 07,SPORT,No Display,2026-06-09,12,0,12,0,0
+2026,September,WEEK 39,Region A,Site 004,Salesman 01,SCHOOL,Available,2026-09-24,6,6,0,0,0
+2026,July,WEEK 29,Region A,Site 002,Salesman 04,SCHOOL,Photo Issue,2026-07-16,3,0,0,3,0
+2026,January,WEEK 4,Region A,Site 006,Salesman 07,SCHOOL,Available,2026-01-26,5,5,0,0,0
+2026,October,WEEK 41,Region B,Site 001,Salesman 08,SPORT,Available,2026-10-31,9,9,0,0,0
+2026,May,WEEK 21,Region B,Site 010,Salesman 06,MAIN ROAD,Photo Issue,2026-05-26,7,0,0,7,0
+2026,March,WEEK 9,Region A,Site 008,Salesman 01,SPORT,Photo Issue,2026-03-01,8,0,0,8,0
+2026,January,WEEK 4,Region A,Site 007,Salesman 02,SCHOOL,No Display,2026-01-26,9,0,9,0,0
+2026,June,WEEK 24,Region B,Site 008,Salesman 08,PUBLIC TRANSPORT,Available,2026-06-14,1,1,0,0,0
+2026,May,WEEK 19,Region C,Site 005,Salesman 08,SCHOOL,Available,2026-05-09,5,5,0,0,0
+2026,August,WEEK 34,Region A,Site 010,Salesman 01,SPORT,Available,2026-08-23,12,12,0,0,0
+2026,January,WEEK 1,Region C,Site 007,Salesman 07,PUBLIC TRANSPORT,Available,2026-01-02,2,2,0,0,0
+2026,November,WEEK 41,Region C,Site 004,Salesman 05,SCHOOL,Photo Issue,2026-11-07,11,0,0,11,0
+2026,March,WEEK 9,Region C,Site 010,Salesman 05,SCHOOL,Available,2026-03-04,9,9,0,0,0
+2026,April,WEEK 16,Region A,Site 006,Salesman 05,PUBLIC TRANSPORT,No Display,2026-04-17,4,0,4,0,0
+2026,March,WEEK 12,Region A,Site 007,Salesman 02,SCHOOL,Available,2026-03-22,8,8,0,0,0
+2026,October,WEEK 41,Region C,Site 011,Salesman 05,TOURISM,No Display,2026-10-10,6,0,6,0,0
+2026,October,WEEK 41,Region B,Site 008,Salesman 06,PUBLIC TRANSPORT,Available,2026-10-28,10,10,0,0,0
+2026,June,WEEK 26,Region C,Site 011,Salesman 02,MAIN ROAD,Available,2026-06-30,12,12,0,0,0
+2026,March,WEEK 13,Region C,Site 005,Salesman 04,TOURISM,Available,2026-03-30,4,4,0,0,0
+2026,June,WEEK 23,Region C,Site 004,Salesman 07,SPORT,Photo Issue,2026-06-06,6,0,0,6,0
+2026,September,WEEK 38,Region B,Site 005,Salesman 08,PUBLIC TRANSPORT,No Display,2026-09-21,2,0,2,0,0
+2026,September,WEEK 39,Region B,Site 011,Salesman 08,MAIN ROAD,No Photo,2026-09-26,10,0,0,0,10
+2026,June,WEEK 26,Region C,Site 002,Salesman 03,PUBLIC TRANSPORT,Available,2026-06-25,12,12,0,0,0
+2026,October,WEEK 41,Region C,Site 001,Salesman 03,MAIN ROAD,Photo Issue,2026-10-21,3,0,0,3,0
+2026,August,WEEK 32,Region A,Site 004,Salesman 06,PUBLIC TRANSPORT,Available,2026-08-12,6,6,0,0,0
+2026,June,WEEK 24,Region B,Site 008,Salesman 06,SPORT,Available,2026-06-11,5,5,0,0,0
+2026,April,WEEK 14,Region A,Site 005,Salesman 03,SCHOOL,Photo Issue,2026-04-06,5,0,0,5,0
+2026,May,WEEK 19,Region A,Site 012,Salesman 01,PUBLIC TRANSPORT,Available,2026-05-09,3,3,0,0,0
+2026,January,WEEK 4,Region C,Site 010,Salesman 06,SPORT,Available,2026-01-27,12,12,0,0,0
+2026,July,WEEK 31,Region A,Site 004,Salesman 01,MAIN ROAD,Photo Issue,2026-07-31,5,0,0,5,0
+2026,August,WEEK 33,Region B,Site 009,Salesman 01,TOURISM,Photo Issue,2026-08-19,11,0,0,11,0
+2026,July,WEEK 29,Region C,Site 004,Salesman 04,SPORT,Available,2026-07-17,5,5,0,0,0
+2026,July,WEEK 29,Region A,Site 002,Salesman 01,SPORT,Available,2026-07-20,5,5,0,0,0
+2026,February,WEEK 8,Region C,Site 012,Salesman 08,TOURISM,Available,2026-02-20,9,9,0,0,0
+2026,April,WEEK 16,Region C,Site 005,Salesman 06,TOURISM,Available,2026-04-22,6,6,0,0,0
+2026,September,WEEK 38,Region C,Site 012,Salesman 05,TOURISM,Available,2026-09-19,4,4,0,0,0
+2026,April,WEEK 17,Region A,Site 009,Salesman 04,SPORT,No Display,2026-04-28,1,0,1,0,0
+2026,May,WEEK 21,Region B,Site 011,Salesman 01,PUBLIC TRANSPORT,Photo Issue,2026-05-21,11,0,0,11,0
+2026,April,WEEK 15,Region A,Site 010,Salesman 07,TOURISM,Photo Issue,2026-04-10,1,0,0,1,0
+2026,May,WEEK 21,Region C,Site 008,Salesman 08,SPORT,Available,2026-05-21,10,10,0,0,0
+2026,January,WEEK 5,Region B,Site 006,Salesman 06,MAIN ROAD,Photo Issue,2026-01-31,3,0,0,3,0
+2026,January,WEEK 4,Region C,Site 001,Salesman 03,SCHOOL,Available,2026-01-26,4,4,0,0,0
+2026,September,WEEK 38,Region B,Site 004,Salesman 04,SPORT,Available,2026-09-19,1,1,0,0,0
+2026,July,WEEK 29,Region B,Site 003,Salesman 08,TOURISM,Photo Issue,2026-07-16,6,0,0,6,0
+2026,April,WEEK 16,Region C,Site 005,Salesman 06,SCHOOL,Photo Issue,2026-04-20,6,0,0,6,0
+2026,June,WEEK 23,Region A,Site 007,Salesman 06,SPORT,Available,2026-06-09,4,4,0,0,0
+2026,July,WEEK 27,Region B,Site 004,Salesman 08,TOURISM,Photo Issue,2026-07-05,11,0,0,11,0
+2026,July,WEEK 30,Region B,Site 005,Salesman 05,MAIN ROAD,Photo Issue,2026-07-25,1,0,0,1,0
+2026,February,WEEK 5,Region A,Site 004,Salesman 07,SCHOOL,No Display,2026-02-03,5,0,5,0,0
+2026,March,WEEK 13,Region C,Site 002,Salesman 04,TOURISM,Available,2026-03-27,5,5,0,0,0
+2026,July,WEEK 30,Region A,Site 001,Salesman 02,SPORT,Available,2026-07-23,5,5,0,0,0
+2026,April,WEEK 15,Region C,Site 005,Salesman 08,PUBLIC TRANSPORT,No Display,2026-04-12,2,0,2,0,0
+2026,April,WEEK 17,Region C,Site 012,Salesman 02,SPORT,Available,2026-04-23,10,10,0,0,0
+2026,March,WEEK 12,Region A,Site 010,Salesman 02,SPORT,Photo Issue,2026-03-24,11,0,0,11,0
+2026,September,WEEK 37,Region B,Site 008,Salesman 01,MAIN ROAD,Available,2026-09-14,1,1,0,0,0
+2026,November,WEEK 41,Region B,Site 005,Salesman 02,TOURISM,Photo Issue,2026-11-06,10,0,0,10,0
+2026,June,WEEK 23,Region A,Site 012,Salesman 03,SPORT,Photo Issue,2026-06-09,10,0,0,10,0
+2026,January,WEEK 4,Region A,Site 008,Salesman 04,MAIN ROAD,Available,2026-01-27,2,2,0,0,0
+2026,June,WEEK 24,Region B,Site 010,Salesman 07,SPORT,Available,2026-06-15,4,4,0,0,0
+2026,August,WEEK 32,Region A,Site 006,Salesman 05,MAIN ROAD,No Display,2026-08-11,11,0,11,0,0
+2026,March,WEEK 11,Region B,Site 003,Salesman 02,SPORT,Photo Issue,2026-03-18,5,0,0,5,0
+2026,April,WEEK 16,Region B,Site 003,Salesman 06,PUBLIC TRANSPORT,Available,2026-04-17,1,1,0,0,0
+2026,June,WEEK 24,Region C,Site 009,Salesman 05,SPORT,Available,2026-06-11,1,1,0,0,0
+2026,July,WEEK 29,Region C,Site 012,Salesman 06,SPORT,Available,2026-07-19,5,5,0,0,0
+2026,October,WEEK 41,Region C,Site 010,Salesman 08,SPORT,Available,2026-10-31,9,9,0,0,0
+2026,April,WEEK 14,Region B,Site 004,Salesman 01,MAIN ROAD,Available,2026-04-07,7,7,0,0,0
+2026,April,WEEK 14,Region A,Site 001,Salesman 06,TOURISM,Photo Issue,2026-04-07,8,0,0,8,0
+2026,August,WEEK 34,Region A,Site 001,Salesman 07,SCHOOL,Available,2026-08-20,11,11,0,0,0
+2026,October,WEEK 41,Region C,Site 012,Salesman 01,MAIN ROAD,Available,2026-10-11,9,9,0,0,0
+2026,January,WEEK 3,Region A,Site 012,Salesman 03,TOURISM,Available,2026-01-15,9,9,0,0,0
+2026,March,WEEK 9,Region B,Site 012,Salesman 08,SPORT,Photo Issue,2026-03-03,5,0,0,5,0
+2026,June,WEEK 26,Region C,Site 006,Salesman 07,SCHOOL,Photo Issue,2026-06-29,12,0,0,12,0
+2026,February,WEEK 9,Region C,Site 011,Salesman 03,SCHOOL,Photo Issue,2026-02-27,6,0,0,6,0
+2026,March,WEEK 11,Region B,Site 011,Salesman 01,PUBLIC TRANSPORT,Available,2026-03-15,4,4,0,0,0
+2026,January,WEEK 4,Region B,Site 010,Salesman 07,MAIN ROAD,Available,2026-01-26,1,1,0,0,0
+2026,June,WEEK 22,Region B,Site 002,Salesman 02,SPORT,Available,2026-06-02,4,4,0,0,0
+2026,May,WEEK 18,Region A,Site 007,Salesman 07,TOURISM,No Photo,2026-05-02,9,0,0,0,9
+2026,February,WEEK 6,Region B,Site 008,Salesman 06,MAIN ROAD,Available,2026-02-11,11,11,0,0,0
+2026,February,WEEK 8,Region A,Site 010,Salesman 05,TOURISM,Available,2026-02-20,9,9,0,0,0
+2026,July,WEEK 30,Region C,Site 007,Salesman 06,MAIN ROAD,Available,2026-07-25,9,9,0,0,0
+2026,May,WEEK 21,Region C,Site 011,Salesman 04,TOURISM,Available,2026-05-21,3,3,0,0,0
+2026,July,WEEK 27,Region A,Site 001,Salesman 08,TOURISM,No Display,2026-07-04,5,0,5,0,0
+2026,January,WEEK 2,Region B,Site 002,Salesman 05,MAIN ROAD,Photo Issue,2026-01-10,6,0,0,6,0
+2026,February,WEEK 8,Region C,Site 006,Salesman 02,TOURISM,Photo Issue,2026-02-24,10,0,0,10,0
+2026,September,WEEK 37,Region C,Site 007,Salesman 03,SCHOOL,Available,2026-09-11,2,2,0,0,0
+2026,March,WEEK 11,Region C,Site 008,Salesman 08,TOURISM,Available,2026-03-18,12,12,0,0,0
+2026,March,WEEK 11,Region B,Site 010,Salesman 02,SPORT,Available,2026-03-13,10,10,0,0,0
+2026,January,WEEK 3,Region B,Site 011,Salesman 07,SPORT,Available,2026-01-20,11,11,0,0,0
+2026,February,WEEK 9,Region B,Site 012,Salesman 06,SCHOOL,Photo Issue,2026-02-26,4,0,0,4,0
+2026,May,WEEK 22,Region C,Site 004,Salesman 01,PUBLIC TRANSPORT,Photo Issue,2026-05-28,8,0,0,8,0
+2026,August,WEEK 33,Region C,Site 012,Salesman 08,SCHOOL,Photo Issue,2026-08-18,11,0,0,11,0
+2026,July,WEEK 28,Region B,Site 008,Salesman 08,PUBLIC TRANSPORT,No Display,2026-07-15,11,0,11,0,0
+2026,March,WEEK 13,Region A,Site 011,Salesman 01,MAIN ROAD,Available,2026-03-29,2,2,0,0,0
+2026,September,WEEK 39,Region A,Site 002,Salesman 02,PUBLIC TRANSPORT,No Display,2026-09-28,11,0,11,0,0
+2026,September,WEEK 38,Region B,Site 012,Salesman 04,SPORT,Photo Issue,2026-09-18,4,0,0,4,0
+2026,July,WEEK 27,Region A,Site 006,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-07-04,3,0,0,3,0
+2026,April,WEEK 14,Region A,Site 003,Salesman 06,SCHOOL,No Display,2026-04-07,10,0,10,0,0
+2026,October,WEEK 41,Region B,Site 008,Salesman 04,PUBLIC TRANSPORT,Available,2026-10-25,6,6,0,0,0
+2026,September,WEEK 38,Region B,Site 004,Salesman 05,TOURISM,Available,2026-09-17,12,12,0,0,0
+2026,January,WEEK 5,Region A,Site 004,Salesman 03,SCHOOL,No Photo,2026-01-30,9,0,0,0,9
+2026,October,WEEK 41,Region B,Site 003,Salesman 08,MAIN ROAD,Available,2026-10-18,11,11,0,0,0
+2026,September,WEEK 38,Region B,Site 004,Salesman 08,PUBLIC TRANSPORT,Available,2026-09-23,12,12,0,0,0
+2026,September,WEEK 36,Region C,Site 010,Salesman 02,SCHOOL,Available,2026-09-07,4,4,0,0,0
+2026,April,WEEK 14,Region B,Site 002,Salesman 05,SPORT,Available,2026-04-05,12,12,0,0,0
+2026,June,WEEK 23,Region A,Site 008,Salesman 05,PUBLIC TRANSPORT,Available,2026-06-04,5,5,0,0,0
+2026,September,WEEK 38,Region B,Site 011,Salesman 08,SPORT,Photo Issue,2026-09-22,7,0,0,7,0
+2026,April,WEEK 17,Region B,Site 009,Salesman 08,PUBLIC TRANSPORT,No Photo,2026-04-29,4,0,0,0,4
+2026,October,WEEK 41,Region A,Site 007,Salesman 06,SPORT,Photo Issue,2026-10-30,7,0,0,7,0
+2026,July,WEEK 27,Region A,Site 008,Salesman 02,MAIN ROAD,No Photo,2026-07-06,8,0,0,0,8
+2026,March,WEEK 12,Region C,Site 010,Salesman 06,PUBLIC TRANSPORT,No Display,2026-03-19,2,0,2,0,0
+2026,February,WEEK 8,Region C,Site 004,Salesman 06,PUBLIC TRANSPORT,Available,2026-02-25,11,11,0,0,0
+2026,June,WEEK 23,Region C,Site 004,Salesman 02,MAIN ROAD,Photo Issue,2026-06-05,6,0,0,6,0
+2026,July,WEEK 28,Region A,Site 009,Salesman 02,MAIN ROAD,Available,2026-07-09,4,4,0,0,0
+2026,August,WEEK 32,Region C,Site 006,Salesman 03,SPORT,Photo Issue,2026-08-06,10,0,0,10,0
+2026,April,WEEK 14,Region C,Site 006,Salesman 06,SPORT,No Photo,2026-04-02,6,0,0,0,6
+2026,August,WEEK 33,Region A,Site 006,Salesman 05,TOURISM,Available,2026-08-17,4,4,0,0,0
+2026,July,WEEK 31,Region B,Site 002,Salesman 02,PUBLIC TRANSPORT,Available,2026-07-30,10,10,0,0,0
+2026,January,WEEK 4,Region A,Site 004,Salesman 03,PUBLIC TRANSPORT,Available,2026-01-28,12,12,0,0,0
+2026,March,WEEK 10,Region A,Site 002,Salesman 06,SPORT,Photo Issue,2026-03-09,3,0,0,3,0
+2026,March,WEEK 11,Region C,Site 002,Salesman 03,SPORT,Available,2026-03-13,5,5,0,0,0
+2026,June,WEEK 23,Region B,Site 001,Salesman 01,SCHOOL,Available,2026-06-05,5,5,0,0,0
+2026,June,WEEK 23,Region B,Site 005,Salesman 05,PUBLIC TRANSPORT,No Photo,2026-06-10,11,0,0,0,11
+2026,July,WEEK 29,Region C,Site 003,Salesman 06,PUBLIC TRANSPORT,Photo Issue,2026-07-21,1,0,0,1,0
+2026,May,WEEK 18,Region B,Site 007,Salesman 07,TOURISM,Available,2026-05-05,12,12,0,0,0
+2026,August,WEEK 33,Region B,Site 008,Salesman 04,SPORT,No Display,2026-08-16,5,0,5,0,0
+2026,August,WEEK 35,Region C,Site 003,Salesman 03,MAIN ROAD,Photo Issue,2026-08-31,6,0,0,6,0
+2026,July,WEEK 30,Region C,Site 005,Salesman 03,SCHOOL,Available,2026-07-23,6,6,0,0,0
+2026,August,WEEK 32,Region B,Site 009,Salesman 07,SPORT,Photo Issue,2026-08-09,4,0,0,4,0
+2026,April,WEEK 15,Region B,Site 010,Salesman 08,MAIN ROAD,Photo Issue,2026-04-09,8,0,0,8,0
+2026,March,WEEK 13,Region B,Site 006,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-28,10,10,0,0,0
+2026,June,WEEK 25,Region A,Site 007,Salesman 07,SCHOOL,Available,2026-06-21,10,10,0,0,0
+2026,August,WEEK 31,Region C,Site 008,Salesman 07,MAIN ROAD,Available,2026-08-04,11,11,0,0,0
+2026,April,WEEK 15,Region A,Site 006,Salesman 03,TOURISM,Photo Issue,2026-04-12,3,0,0,3,0
+2026,March,WEEK 11,Region B,Site 002,Salesman 03,SPORT,No Display,2026-03-15,1,0,1,0,0
+2026,March,WEEK 10,Region C,Site 006,Salesman 05,TOURISM,Available,2026-03-11,11,11,0,0,0
+2026,July,WEEK 29,Region C,Site 002,Salesman 05,SCHOOL,Available,2026-07-16,9,9,0,0,0
+2026,April,WEEK 14,Region A,Site 003,Salesman 08,SPORT,Photo Issue,2026-04-04,9,0,0,9,0
+2026,July,WEEK 28,Region B,Site 011,Salesman 02,SPORT,Photo Issue,2026-07-12,6,0,0,6,0
+2026,March,WEEK 12,Region B,Site 001,Salesman 07,SCHOOL,Available,2026-03-22,10,10,0,0,0
+2026,August,WEEK 31,Region A,Site 006,Salesman 06,SCHOOL,Available,2026-08-01,8,8,0,0,0
+2026,September,WEEK 39,Region A,Site 008,Salesman 08,TOURISM,Available,2026-09-25,10,10,0,0,0
+2026,April,WEEK 16,Region C,Site 010,Salesman 06,TOURISM,Available,2026-04-20,11,11,0,0,0
+2026,April,WEEK 16,Region B,Site 007,Salesman 06,TOURISM,Available,2026-04-20,9,9,0,0,0
+2026,July,WEEK 29,Region B,Site 010,Salesman 06,TOURISM,Available,2026-07-18,4,4,0,0,0
+2026,February,WEEK 7,Region A,Site 001,Salesman 05,MAIN ROAD,Photo Issue,2026-02-16,4,0,0,4,0
+2026,June,WEEK 25,Region B,Site 009,Salesman 05,MAIN ROAD,Available,2026-06-19,12,12,0,0,0
+2026,February,WEEK 6,Region A,Site 002,Salesman 07,SPORT,Available,2026-02-08,11,11,0,0,0
+2026,March,WEEK 12,Region B,Site 009,Salesman 04,SPORT,Photo Issue,2026-03-21,7,0,0,7,0
+2026,May,WEEK 20,Region C,Site 003,Salesman 07,SCHOOL,Available,2026-05-17,12,12,0,0,0
+2026,October,WEEK 41,Region B,Site 002,Salesman 06,MAIN ROAD,Photo Issue,2026-10-25,5,0,0,5,0
+2026,October,WEEK 41,Region B,Site 001,Salesman 01,SCHOOL,No Display,2026-10-13,3,0,3,0,0
+2026,October,WEEK 41,Region C,Site 012,Salesman 05,SCHOOL,Available,2026-10-08,7,7,0,0,0
+2026,March,WEEK 12,Region B,Site 011,Salesman 06,TOURISM,Photo Issue,2026-03-20,7,0,0,7,0
+2026,May,WEEK 21,Region C,Site 003,Salesman 03,SPORT,Available,2026-05-22,1,1,0,0,0
+2026,July,WEEK 31,Region C,Site 003,Salesman 08,PUBLIC TRANSPORT,Available,2026-07-30,9,9,0,0,0
+2026,April,WEEK 15,Region B,Site 011,Salesman 03,PUBLIC TRANSPORT,Available,2026-04-13,5,5,0,0,0
+2026,May,WEEK 18,Region C,Site 007,Salesman 05,MAIN ROAD,Photo Issue,2026-05-01,11,0,0,11,0
+2026,April,WEEK 15,Region C,Site 003,Salesman 05,PUBLIC TRANSPORT,Available,2026-04-13,9,9,0,0,0
+2026,January,WEEK 1,Region A,Site 011,Salesman 04,TOURISM,Photo Issue,2026-01-05,12,0,0,12,0
+2026,January,WEEK 2,Region C,Site 010,Salesman 06,PUBLIC TRANSPORT,No Display,2026-01-09,7,0,7,0,0
+2026,January,WEEK 4,Region B,Site 011,Salesman 06,PUBLIC TRANSPORT,No Photo,2026-01-27,1,0,0,0,1
+2026,August,WEEK 32,Region B,Site 008,Salesman 03,MAIN ROAD,Photo Issue,2026-08-07,12,0,0,12,0
+2026,July,WEEK 29,Region C,Site 012,Salesman 03,SCHOOL,No Display,2026-07-20,11,0,11,0,0
+2026,March,WEEK 11,Region A,Site 003,Salesman 05,SCHOOL,Photo Issue,2026-03-17,1,0,0,1,0
+2026,February,WEEK 8,Region A,Site 011,Salesman 06,PUBLIC TRANSPORT,Available,2026-02-22,4,4,0,0,0
+2026,August,WEEK 34,Region B,Site 004,Salesman 01,MAIN ROAD,Available,2026-08-24,5,5,0,0,0
+2026,May,WEEK 21,Region A,Site 012,Salesman 07,SCHOOL,Available,2026-05-27,6,6,0,0,0
+2026,January,WEEK 2,Region C,Site 010,Salesman 06,SCHOOL,Photo Issue,2026-01-12,6,0,0,6,0
+2026,April,WEEK 14,Region C,Site 011,Salesman 07,SPORT,Photo Issue,2026-04-08,1,0,0,1,0
+2026,April,WEEK 14,Region A,Site 001,Salesman 03,TOURISM,Available,2026-04-04,12,12,0,0,0
+2026,July,WEEK 27,Region B,Site 004,Salesman 02,TOURISM,Available,2026-07-08,12,12,0,0,0
+2026,August,WEEK 35,Region B,Site 003,Salesman 05,SPORT,Available,2026-08-27,7,7,0,0,0
+2026,October,WEEK 40,Region A,Site 004,Salesman 03,MAIN ROAD,Photo Issue,2026-10-06,1,0,0,1,0
+2026,July,WEEK 30,Region A,Site 008,Salesman 02,PUBLIC TRANSPORT,Available,2026-07-23,7,7,0,0,0
+2026,July,WEEK 30,Region C,Site 002,Salesman 07,TOURISM,Photo Issue,2026-07-23,12,0,0,12,0
+2026,July,WEEK 28,Region B,Site 010,Salesman 05,SCHOOL,Available,2026-07-15,5,5,0,0,0
+2026,August,WEEK 32,Region A,Site 007,Salesman 02,TOURISM,Available,2026-08-07,8,8,0,0,0
+2026,March,WEEK 9,Region A,Site 012,Salesman 07,SCHOOL,Available,2026-03-02,9,9,0,0,0
+2026,September,WEEK 38,Region C,Site 007,Salesman 08,MAIN ROAD,Available,2026-09-18,3,3,0,0,0
+2026,February,WEEK 9,Region B,Site 001,Salesman 06,PUBLIC TRANSPORT,Available,2026-02-27,2,2,0,0,0
+2026,March,WEEK 10,Region A,Site 007,Salesman 04,SPORT,Available,2026-03-11,6,6,0,0,0
+2026,February,WEEK 7,Region B,Site 009,Salesman 07,SPORT,Photo Issue,2026-02-13,5,0,0,5,0
+2026,April,WEEK 17,Region B,Site 009,Salesman 04,PUBLIC TRANSPORT,Available,2026-04-29,1,1,0,0,0
+2026,March,WEEK 13,Region C,Site 004,Salesman 02,MAIN ROAD,Available,2026-03-31,9,9,0,0,0
+2026,January,WEEK 2,Region B,Site 002,Salesman 04,SCHOOL,Available,2026-01-08,2,2,0,0,0
+2026,May,WEEK 20,Region C,Site 005,Salesman 08,MAIN ROAD,Available,2026-05-20,2,2,0,0,0
+2026,February,WEEK 7,Region C,Site 004,Salesman 08,SCHOOL,Photo Issue,2026-02-17,1,0,0,1,0
+2026,July,WEEK 29,Region A,Site 007,Salesman 02,TOURISM,No Display,2026-07-18,12,0,12,0,0
+2026,June,WEEK 25,Region A,Site 006,Salesman 08,TOURISM,Available,2026-06-19,3,3,0,0,0
+2026,September,WEEK 38,Region B,Site 010,Salesman 01,SCHOOL,Photo Issue,2026-09-17,10,0,0,10,0
+2026,February,WEEK 6,Region A,Site 005,Salesman 04,PUBLIC TRANSPORT,Available,2026-02-07,3,3,0,0,0
+2026,March,WEEK 10,Region C,Site 003,Salesman 04,PUBLIC TRANSPORT,Available,2026-03-06,3,3,0,0,0
+2026,June,WEEK 26,Region A,Site 005,Salesman 02,MAIN ROAD,Available,2026-06-28,7,7,0,0,0
+2026,June,WEEK 25,Region C,Site 002,Salesman 02,SPORT,Available,2026-06-24,9,9,0,0,0
+2026,August,WEEK 32,Region A,Site 003,Salesman 07,PUBLIC TRANSPORT,Available,2026-08-07,12,12,0,0,0
+2026,June,WEEK 24,Region B,Site 004,Salesman 02,SPORT,Available,2026-06-11,4,4,0,0,0
+2026,June,WEEK 26,Region B,Site 011,Salesman 04,TOURISM,Available,2026-06-28,11,11,0,0,0
+2026,February,WEEK 5,Region B,Site 006,Salesman 08,SCHOOL,Photo Issue,2026-02-01,5,0,0,5,0
+2026,July,WEEK 29,Region A,Site 001,Salesman 07,PUBLIC TRANSPORT,Available,2026-07-16,9,9,0,0,0
+2026,September,WEEK 36,Region A,Site 001,Salesman 05,SCHOOL,No Photo,2026-09-03,1,0,0,0,1
+2026,November,WEEK 41,Region A,Site 008,Salesman 07,SCHOOL,Available,2026-11-04,4,4,0,0,0
+2026,January,WEEK 1,Region B,Site 005,Salesman 06,SCHOOL,Available,2026-01-02,2,2,0,0,0
+2026,July,WEEK 26,Region C,Site 010,Salesman 02,MAIN ROAD,Available,2026-07-01,7,7,0,0,0
+2026,November,WEEK 41,Region B,Site 005,Salesman 07,TOURISM,Available,2026-11-02,10,10,0,0,0
+2026,April,WEEK 13,Region A,Site 011,Salesman 05,SCHOOL,Available,2026-04-01,5,5,0,0,0
+2026,July,WEEK 29,Region A,Site 003,Salesman 01,SCHOOL,Photo Issue,2026-07-21,3,0,0,3,0
+2026,February,WEEK 5,Region C,Site 008,Salesman 04,MAIN ROAD,Photo Issue,2026-02-01,11,0,0,11,0
+2026,August,WEEK 33,Region C,Site 003,Salesman 06,TOURISM,Available,2026-08-13,7,7,0,0,0
+2026,September,WEEK 36,Region B,Site 004,Salesman 05,TOURISM,Available,2026-09-03,12,12,0,0,0
+2026,July,WEEK 31,Region C,Site 005,Salesman 08,SCHOOL,Photo Issue,2026-07-30,8,0,0,8,0
+2026,October,WEEK 41,Region B,Site 009,Salesman 02,SCHOOL,Available,2026-10-22,4,4,0,0,0
+2026,March,WEEK 12,Region B,Site 004,Salesman 07,MAIN ROAD,Available,2026-03-22,2,2,0,0,0
+2026,October,WEEK 41,Region C,Site 011,Salesman 05,SCHOOL,No Display,2026-10-31,11,0,11,0,0
+2026,April,WEEK 15,Region A,Site 008,Salesman 01,MAIN ROAD,Available,2026-04-09,4,4,0,0,0
+2026,March,WEEK 10,Region C,Site 001,Salesman 07,SPORT,No Display,2026-03-05,3,0,3,0,0
+2026,June,WEEK 24,Region C,Site 008,Salesman 06,PUBLIC TRANSPORT,Available,2026-06-11,8,8,0,0,0
+2026,October,WEEK 41,Region A,Site 002,Salesman 06,SPORT,Available,2026-10-17,8,8,0,0,0
+2026,August,WEEK 32,Region C,Site 003,Salesman 08,PUBLIC TRANSPORT,Available,2026-08-12,9,9,0,0,0
+2026,April,WEEK 17,Region A,Site 002,Salesman 04,SCHOOL,No Display,2026-04-25,8,0,8,0,0
+2026,July,WEEK 27,Region B,Site 003,Salesman 08,TOURISM,No Photo,2026-07-02,2,0,0,0,2
+2026,October,WEEK 41,Region B,Site 011,Salesman 01,SPORT,Available,2026-10-25,4,4,0,0,0
+2026,April,WEEK 16,Region A,Site 003,Salesman 06,PUBLIC TRANSPORT,Available,2026-04-17,10,10,0,0,0
+2026,February,WEEK 8,Region A,Site 006,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-02-23,2,0,0,0,2
+2026,September,WEEK 39,Region C,Site 001,Salesman 01,PUBLIC TRANSPORT,Available,2026-09-27,8,8,0,0,0
+2026,April,WEEK 16,Region A,Site 010,Salesman 03,TOURISM,Available,2026-04-19,6,6,0,0,0
+2026,May,WEEK 19,Region C,Site 008,Salesman 05,PUBLIC TRANSPORT,Photo Issue,2026-05-10,8,0,0,8,0
+2026,November,WEEK 41,Region B,Site 001,Salesman 05,SCHOOL,Available,2026-11-06,1,1,0,0,0
+2026,February,WEEK 8,Region B,Site 011,Salesman 04,TOURISM,Photo Issue,2026-02-20,10,0,0,10,0
+2026,October,WEEK 40,Region B,Site 009,Salesman 04,PUBLIC TRANSPORT,Available,2026-10-03,3,3,0,0,0
+2026,September,WEEK 36,Region A,Site 001,Salesman 02,SCHOOL,Available,2026-09-03,12,12,0,0,0
+2026,March,WEEK 12,Region C,Site 008,Salesman 02,SPORT,Photo Issue,2026-03-22,6,0,0,6,0
+2026,July,WEEK 30,Region B,Site 002,Salesman 08,TOURISM,Available,2026-07-23,7,7,0,0,0
+2026,January,WEEK 4,Region B,Site 004,Salesman 05,SCHOOL,Available,2026-01-28,10,10,0,0,0
+2026,October,WEEK 41,Region C,Site 009,Salesman 02,MAIN ROAD,Available,2026-10-24,4,4,0,0,0
+2026,April,WEEK 15,Region C,Site 003,Salesman 02,MAIN ROAD,No Photo,2026-04-11,10,0,0,0,10
+2026,August,WEEK 32,Region C,Site 007,Salesman 08,MAIN ROAD,No Display,2026-08-12,12,0,12,0,0
+2026,September,WEEK 39,Region C,Site 006,Salesman 07,PUBLIC TRANSPORT,Available,2026-09-27,4,4,0,0,0
+2026,October,WEEK 41,Region C,Site 008,Salesman 02,SCHOOL,Available,2026-10-15,5,5,0,0,0
+2026,February,WEEK 7,Region A,Site 009,Salesman 03,MAIN ROAD,Available,2026-02-17,4,4,0,0,0
+2026,March,WEEK 13,Region B,Site 005,Salesman 08,MAIN ROAD,Photo Issue,2026-03-26,1,0,0,1,0
+2026,June,WEEK 23,Region C,Site 006,Salesman 08,SPORT,Available,2026-06-06,3,3,0,0,0
+2026,July,WEEK 29,Region A,Site 012,Salesman 02,PUBLIC TRANSPORT,Available,2026-07-16,3,3,0,0,0
+2026,January,WEEK 2,Region A,Site 009,Salesman 08,SCHOOL,Available,2026-01-14,10,10,0,0,0
+2026,September,WEEK 36,Region A,Site 011,Salesman 05,TOURISM,Photo Issue,2026-09-08,9,0,0,9,0
+2026,May,WEEK 21,Region B,Site 007,Salesman 06,PUBLIC TRANSPORT,No Photo,2026-05-24,7,0,0,0,7
+2026,October,WEEK 41,Region B,Site 006,Salesman 06,PUBLIC TRANSPORT,Available,2026-10-25,5,5,0,0,0
+2026,July,WEEK 29,Region C,Site 007,Salesman 07,SPORT,Photo Issue,2026-07-16,9,0,0,9,0
+2026,September,WEEK 36,Region B,Site 006,Salesman 06,PUBLIC TRANSPORT,Available,2026-09-09,8,8,0,0,0
+2026,September,WEEK 38,Region A,Site 012,Salesman 07,SPORT,Available,2026-09-21,6,6,0,0,0
+2026,August,WEEK 31,Region B,Site 009,Salesman 04,SCHOOL,Available,2026-08-02,8,8,0,0,0
+2026,April,WEEK 16,Region B,Site 002,Salesman 05,MAIN ROAD,Photo Issue,2026-04-18,2,0,0,2,0
+2026,May,WEEK 20,Region B,Site 003,Salesman 03,TOURISM,Photo Issue,2026-05-14,7,0,0,7,0
+2026,August,WEEK 33,Region C,Site 007,Salesman 08,MAIN ROAD,Photo Issue,2026-08-15,8,0,0,8,0
+2026,April,WEEK 13,Region C,Site 001,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-04-01,10,0,0,0,10
+2026,July,WEEK 30,Region A,Site 002,Salesman 03,SCHOOL,Photo Issue,2026-07-26,1,0,0,1,0
+2026,May,WEEK 19,Region A,Site 003,Salesman 02,PUBLIC TRANSPORT,No Display,2026-05-11,10,0,10,0,0
+2026,June,WEEK 24,Region A,Site 012,Salesman 06,TOURISM,Photo Issue,2026-06-11,4,0,0,4,0
+2026,August,WEEK 32,Region A,Site 011,Salesman 08,MAIN ROAD,Available,2026-08-12,5,5,0,0,0
+2026,March,WEEK 10,Region B,Site 001,Salesman 08,TOURISM,No Photo,2026-03-09,11,0,0,0,11
+2026,September,WEEK 39,Region C,Site 009,Salesman 04,MAIN ROAD,Photo Issue,2026-09-26,5,0,0,5,0
+2026,August,WEEK 35,Region C,Site 008,Salesman 03,TOURISM,No Photo,2026-08-30,6,0,0,0,6
+2026,January,WEEK 3,Region B,Site 009,Salesman 06,SCHOOL,Available,2026-01-16,11,11,0,0,0
+2026,January,WEEK 3,Region C,Site 009,Salesman 04,SPORT,No Photo,2026-01-16,7,0,0,0,7
+2026,September,WEEK 37,Region C,Site 007,Salesman 02,TOURISM,Available,2026-09-10,5,5,0,0,0
+2026,September,WEEK 38,Region A,Site 012,Salesman 05,MAIN ROAD,Available,2026-09-20,3,3,0,0,0
+2026,May,WEEK 22,Region A,Site 004,Salesman 07,TOURISM,Available,2026-05-31,8,8,0,0,0
+2026,September,WEEK 39,Region B,Site 010,Salesman 03,MAIN ROAD,No Photo,2026-09-26,8,0,0,0,8
+2026,April,WEEK 16,Region C,Site 001,Salesman 02,SCHOOL,Available,2026-04-19,11,11,0,0,0
+2026,February,WEEK 5,Region A,Site 006,Salesman 07,SCHOOL,Available,2026-02-04,7,7,0,0,0
+2026,March,WEEK 9,Region B,Site 011,Salesman 03,MAIN ROAD,Available,2026-03-01,10,10,0,0,0
+2026,September,WEEK 38,Region A,Site 005,Salesman 08,PUBLIC TRANSPORT,No Photo,2026-09-22,2,0,0,0,2
+2026,April,WEEK 16,Region A,Site 007,Salesman 05,MAIN ROAD,No Display,2026-04-16,3,0,3,0,0
+2026,February,WEEK 7,Region A,Site 009,Salesman 08,TOURISM,Photo Issue,2026-02-12,6,0,0,6,0
+2026,April,WEEK 15,Region C,Site 008,Salesman 05,MAIN ROAD,Available,2026-04-13,11,11,0,0,0
+2026,February,WEEK 5,Region C,Site 004,Salesman 03,TOURISM,Photo Issue,2026-02-01,2,0,0,2,0
+2026,February,WEEK 5,Region B,Site 009,Salesman 03,TOURISM,Available,2026-02-04,10,10,0,0,0
+2026,April,WEEK 15,Region B,Site 002,Salesman 01,SCHOOL,No Photo,2026-04-13,9,0,0,0,9
+2026,April,WEEK 15,Region A,Site 004,Salesman 08,PUBLIC TRANSPORT,No Display,2026-04-15,3,0,3,0,0
+2026,October,WEEK 41,Region B,Site 012,Salesman 04,TOURISM,Photo Issue,2026-10-09,3,0,0,3,0
+2026,April,WEEK 14,Region B,Site 002,Salesman 01,TOURISM,Available,2026-04-04,3,3,0,0,0
+2026,February,WEEK 8,Region A,Site 004,Salesman 05,SPORT,Available,2026-02-24,10,10,0,0,0
+2026,March,WEEK 12,Region C,Site 011,Salesman 04,PUBLIC TRANSPORT,Available,2026-03-20,5,5,0,0,0
+2026,June,WEEK 23,Region A,Site 004,Salesman 08,TOURISM,Available,2026-06-06,4,4,0,0,0
+2026,February,WEEK 9,Region C,Site 004,Salesman 07,TOURISM,Available,2026-02-28,12,12,0,0,0
+2026,September,WEEK 38,Region B,Site 009,Salesman 06,SCHOOL,Available,2026-09-20,3,3,0,0,0
+2026,October,WEEK 41,Region B,Site 002,Salesman 03,MAIN ROAD,No Photo,2026-10-30,1,0,0,0,1
+2026,April,WEEK 15,Region A,Site 001,Salesman 04,MAIN ROAD,Available,2026-04-14,12,12,0,0,0
+2026,June,WEEK 25,Region A,Site 011,Salesman 07,TOURISM,Photo Issue,2026-06-18,1,0,0,1,0
+2026,January,WEEK 3,Region B,Site 006,Salesman 07,SCHOOL,Available,2026-01-17,8,8,0,0,0
+2026,May,WEEK 21,Region B,Site 011,Salesman 04,SPORT,Available,2026-05-25,11,11,0,0,0
+2026,February,WEEK 8,Region A,Site 008,Salesman 07,SCHOOL,Available,2026-02-21,3,3,0,0,0
+2026,July,WEEK 31,Region B,Site 002,Salesman 07,TOURISM,Photo Issue,2026-07-31,9,0,0,9,0
+2026,April,WEEK 17,Region C,Site 012,Salesman 08,PUBLIC TRANSPORT,Available,2026-04-29,3,3,0,0,0
+2026,March,WEEK 11,Region C,Site 008,Salesman 08,SCHOOL,No Photo,2026-03-17,1,0,0,0,1
+2026,September,WEEK 37,Region C,Site 007,Salesman 04,PUBLIC TRANSPORT,Available,2026-09-13,5,5,0,0,0
+2026,February,WEEK 5,Region A,Site 002,Salesman 02,SPORT,Photo Issue,2026-02-04,8,0,0,8,0
+2026,April,WEEK 15,Region A,Site 007,Salesman 03,TOURISM,Available,2026-04-13,9,9,0,0,0
+2026,January,WEEK 4,Region C,Site 010,Salesman 02,PUBLIC TRANSPORT,No Display,2026-01-22,9,0,9,0,0
+2026,April,WEEK 18,Region B,Site 002,Salesman 08,SCHOOL,Available,2026-04-30,2,2,0,0,0
+2026,July,WEEK 30,Region C,Site 002,Salesman 08,PUBLIC TRANSPORT,Available,2026-07-25,12,12,0,0,0
+2026,August,WEEK 32,Region B,Site 008,Salesman 03,TOURISM,Available,2026-08-09,9,9,0,0,0
+2026,November,WEEK 41,Region C,Site 011,Salesman 08,TOURISM,Available,2026-11-03,1,1,0,0,0
+2026,May,WEEK 21,Region C,Site 009,Salesman 05,TOURISM,Photo Issue,2026-05-22,8,0,0,8,0
+2026,June,WEEK 22,Region B,Site 008,Salesman 01,PUBLIC TRANSPORT,Available,2026-06-01,4,4,0,0,0
+2026,July,WEEK 27,Region C,Site 007,Salesman 07,TOURISM,Available,2026-07-08,5,5,0,0,0
+2026,July,WEEK 28,Region C,Site 006,Salesman 08,MAIN ROAD,No Photo,2026-07-15,2,0,0,0,2
+2026,June,WEEK 22,Region B,Site 007,Salesman 03,TOURISM,Available,2026-06-01,1,1,0,0,0
+2026,September,WEEK 37,Region A,Site 002,Salesman 08,PUBLIC TRANSPORT,No Display,2026-09-15,9,0,9,0,0
+2026,August,WEEK 34,Region B,Site 012,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-08-25,1,0,0,1,0
+2026,October,WEEK 41,Region B,Site 008,Salesman 04,SPORT,No Display,2026-10-20,2,0,2,0,0
+2026,September,WEEK 36,Region C,Site 011,Salesman 01,PUBLIC TRANSPORT,Available,2026-09-06,2,2,0,0,0
+2026,August,WEEK 34,Region C,Site 008,Salesman 02,MAIN ROAD,Available,2026-08-24,12,12,0,0,0
+2026,April,WEEK 16,Region B,Site 008,Salesman 06,MAIN ROAD,Available,2026-04-22,4,4,0,0,0
+2026,June,WEEK 22,Region A,Site 001,Salesman 01,MAIN ROAD,Photo Issue,2026-06-03,3,0,0,3,0
+2026,February,WEEK 8,Region B,Site 006,Salesman 07,PUBLIC TRANSPORT,Available,2026-02-19,5,5,0,0,0
+2026,August,WEEK 33,Region A,Site 003,Salesman 04,TOURISM,Photo Issue,2026-08-13,8,0,0,8,0
+2026,July,WEEK 27,Region A,Site 004,Salesman 08,SCHOOL,Available,2026-07-06,9,9,0,0,0
+2026,September,WEEK 36,Region B,Site 005,Salesman 02,SCHOOL,Available,2026-09-04,5,5,0,0,0
+2026,May,WEEK 20,Region A,Site 010,Salesman 06,SCHOOL,No Photo,2026-05-17,12,0,0,0,12
+2026,July,WEEK 29,Region B,Site 004,Salesman 07,SPORT,Available,2026-07-19,12,12,0,0,0
+2026,February,WEEK 9,Region C,Site 002,Salesman 04,SPORT,Available,2026-02-26,3,3,0,0,0
+2026,June,WEEK 26,Region B,Site 011,Salesman 01,MAIN ROAD,Available,2026-06-25,12,12,0,0,0
+2026,January,WEEK 3,Region A,Site 011,Salesman 07,SPORT,Available,2026-01-21,9,9,0,0,0
+2026,June,WEEK 24,Region A,Site 001,Salesman 05,PUBLIC TRANSPORT,Available,2026-06-11,4,4,0,0,0
+2026,January,WEEK 1,Region B,Site 006,Salesman 01,MAIN ROAD,No Photo,2026-01-06,9,0,0,0,9
+2026,August,WEEK 35,Region B,Site 006,Salesman 05,MAIN ROAD,Available,2026-08-31,9,9,0,0,0
+2026,February,WEEK 7,Region A,Site 002,Salesman 07,MAIN ROAD,Photo Issue,2026-02-18,10,0,0,10,0
+2026,March,WEEK 11,Region C,Site 001,Salesman 03,MAIN ROAD,Available,2026-03-17,11,11,0,0,0
+2026,January,WEEK 3,Region C,Site 011,Salesman 05,PUBLIC TRANSPORT,No Photo,2026-01-19,2,0,0,0,2
+2026,July,WEEK 29,Region B,Site 005,Salesman 04,TOURISM,Available,2026-07-17,9,9,0,0,0
+2026,October,WEEK 41,Region A,Site 008,Salesman 02,MAIN ROAD,Photo Issue,2026-10-17,11,0,0,11,0
+2026,May,WEEK 20,Region C,Site 002,Salesman 01,PUBLIC TRANSPORT,No Photo,2026-05-14,12,0,0,0,12
+2026,May,WEEK 21,Region C,Site 006,Salesman 06,MAIN ROAD,Photo Issue,2026-05-27,12,0,0,12,0
+2026,February,WEEK 9,Region C,Site 008,Salesman 03,SCHOOL,Available,2026-02-26,1,1,0,0,0
+2026,June,WEEK 23,Region C,Site 004,Salesman 03,TOURISM,Available,2026-06-08,9,9,0,0,0
+2026,June,WEEK 25,Region B,Site 009,Salesman 06,SPORT,Available,2026-06-18,1,1,0,0,0
+2026,September,WEEK 36,Region B,Site 006,Salesman 01,SCHOOL,Photo Issue,2026-09-03,10,0,0,10,0
+2026,October,WEEK 41,Region A,Site 011,Salesman 06,TOURISM,Available,2026-10-19,6,6,0,0,0
+2026,July,WEEK 29,Region B,Site 002,Salesman 02,SCHOOL,Available,2026-07-22,4,4,0,0,0
+2026,January,WEEK 2,Region B,Site 004,Salesman 06,SCHOOL,Available,2026-01-12,8,8,0,0,0
+2026,May,WEEK 18,Region A,Site 012,Salesman 05,MAIN ROAD,No Display,2026-05-05,12,0,12,0,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 05,PUBLIC TRANSPORT,Available,2026-10-10,10,10,0,0,0
+2026,March,WEEK 10,Region C,Site 003,Salesman 05,TOURISM,Photo Issue,2026-03-07,11,0,0,11,0
+2026,February,WEEK 6,Region C,Site 008,Salesman 07,MAIN ROAD,Photo Issue,2026-02-05,2,0,0,2,0
+2026,July,WEEK 30,Region C,Site 011,Salesman 05,TOURISM,Available,2026-07-23,11,11,0,0,0
+2026,January,WEEK 1,Region B,Site 001,Salesman 01,SCHOOL,Photo Issue,2026-01-03,1,0,0,1,0
+2026,March,WEEK 9,Region C,Site 003,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-03-03,7,0,0,7,0
+2026,May,WEEK 18,Region B,Site 008,Salesman 04,SCHOOL,Available,2026-05-05,6,6,0,0,0
+2026,May,WEEK 19,Region C,Site 011,Salesman 08,TOURISM,Available,2026-05-10,9,9,0,0,0
+2026,October,WEEK 41,Region C,Site 003,Salesman 08,TOURISM,No Display,2026-10-31,8,0,8,0,0
+2026,May,WEEK 22,Region C,Site 008,Salesman 07,SCHOOL,Available,2026-05-29,4,4,0,0,0
+2026,September,WEEK 37,Region B,Site 001,Salesman 08,PUBLIC TRANSPORT,Available,2026-09-10,8,8,0,0,0
+2026,February,WEEK 6,Region C,Site 003,Salesman 01,MAIN ROAD,Photo Issue,2026-02-11,8,0,0,8,0
+2026,September,WEEK 36,Region B,Site 004,Salesman 07,SCHOOL,No Photo,2026-09-03,7,0,0,0,7
+2026,April,WEEK 15,Region B,Site 004,Salesman 04,TOURISM,Photo Issue,2026-04-14,11,0,0,11,0
+2026,May,WEEK 20,Region B,Site 004,Salesman 01,MAIN ROAD,Available,2026-05-17,7,7,0,0,0
+2026,July,WEEK 27,Region C,Site 010,Salesman 07,SPORT,Available,2026-07-07,12,12,0,0,0
+2026,February,WEEK 6,Region A,Site 001,Salesman 05,SCHOOL,Available,2026-02-09,12,12,0,0,0
+2026,May,WEEK 21,Region B,Site 010,Salesman 07,SPORT,Photo Issue,2026-05-22,10,0,0,10,0
+2026,March,WEEK 11,Region A,Site 004,Salesman 06,SPORT,Photo Issue,2026-03-17,12,0,0,12,0
+2026,October,WEEK 40,Region C,Site 007,Salesman 06,PUBLIC TRANSPORT,Available,2026-10-07,6,6,0,0,0
+2026,February,WEEK 9,Region C,Site 004,Salesman 02,SPORT,Available,2026-02-28,10,10,0,0,0
+2026,August,WEEK 33,Region B,Site 004,Salesman 04,TOURISM,Available,2026-08-18,10,10,0,0,0
+2026,May,WEEK 21,Region B,Site 002,Salesman 08,TOURISM,Available,2026-05-24,9,9,0,0,0
+2026,February,WEEK 8,Region B,Site 007,Salesman 05,SCHOOL,No Display,2026-02-24,1,0,1,0,0
+2026,April,WEEK 16,Region C,Site 011,Salesman 04,TOURISM,Available,2026-04-20,1,1,0,0,0
+2026,April,WEEK 15,Region C,Site 012,Salesman 03,MAIN ROAD,Available,2026-04-10,3,3,0,0,0
+2026,October,WEEK 41,Region B,Site 008,Salesman 06,TOURISM,Available,2026-10-21,11,11,0,0,0
+2026,April,WEEK 17,Region B,Site 012,Salesman 01,TOURISM,Available,2026-04-26,7,7,0,0,0
+2026,May,WEEK 20,Region C,Site 006,Salesman 05,TOURISM,Available,2026-05-14,3,3,0,0,0
+2026,January,WEEK 2,Region A,Site 004,Salesman 01,MAIN ROAD,Available,2026-01-10,11,11,0,0,0
+2026,April,WEEK 15,Region B,Site 006,Salesman 08,MAIN ROAD,Photo Issue,2026-04-10,12,0,0,12,0
+2026,April,WEEK 15,Region C,Site 001,Salesman 05,SCHOOL,Available,2026-04-11,4,4,0,0,0
+2026,January,WEEK 3,Region C,Site 001,Salesman 03,SCHOOL,Available,2026-01-18,11,11,0,0,0
+2026,June,WEEK 22,Region B,Site 003,Salesman 04,SPORT,Available,2026-06-03,7,7,0,0,0
+2026,August,WEEK 32,Region C,Site 005,Salesman 04,SCHOOL,Available,2026-08-11,9,9,0,0,0
+2026,January,WEEK 5,Region C,Site 006,Salesman 05,SCHOOL,Photo Issue,2026-01-30,7,0,0,7,0
+2026,April,WEEK 15,Region B,Site 004,Salesman 07,PUBLIC TRANSPORT,No Photo,2026-04-13,10,0,0,0,10
+2026,October,WEEK 41,Region B,Site 004,Salesman 05,PUBLIC TRANSPORT,Available,2026-10-27,5,5,0,0,0
+2026,February,WEEK 6,Region B,Site 009,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-02-11,6,0,0,6,0
+2026,June,WEEK 23,Region C,Site 006,Salesman 06,SPORT,Available,2026-06-10,10,10,0,0,0
+2026,June,WEEK 26,Region A,Site 012,Salesman 08,MAIN ROAD,Available,2026-06-25,5,5,0,0,0
+2026,May,WEEK 19,Region A,Site 006,Salesman 05,TOURISM,Photo Issue,2026-05-08,8,0,0,8,0
+2026,February,WEEK 6,Region A,Site 011,Salesman 03,SPORT,Photo Issue,2026-02-08,4,0,0,4,0
+2026,July,WEEK 29,Region C,Site 009,Salesman 07,TOURISM,Available,2026-07-20,3,3,0,0,0
+2026,August,WEEK 32,Region B,Site 002,Salesman 01,SCHOOL,Available,2026-08-11,9,9,0,0,0
+2026,September,WEEK 38,Region B,Site 003,Salesman 08,SCHOOL,Available,2026-09-23,7,7,0,0,0
+2026,March,WEEK 13,Region C,Site 009,Salesman 07,PUBLIC TRANSPORT,Available,2026-03-29,12,12,0,0,0
+2026,June,WEEK 26,Region B,Site 012,Salesman 06,PUBLIC TRANSPORT,Available,2026-06-30,5,5,0,0,0
+2026,May,WEEK 20,Region B,Site 003,Salesman 03,SPORT,Photo Issue,2026-05-14,1,0,0,1,0
+2026,February,WEEK 6,Region A,Site 006,Salesman 02,SCHOOL,Available,2026-02-11,12,12,0,0,0
+2026,October,WEEK 41,Region B,Site 012,Salesman 05,SPORT,Photo Issue,2026-10-11,6,0,0,6,0
+2026,August,WEEK 33,Region A,Site 012,Salesman 07,SCHOOL,Available,2026-08-18,6,6,0,0,0
+2026,June,WEEK 25,Region B,Site 011,Salesman 08,SPORT,No Photo,2026-06-18,7,0,0,0,7
+2026,October,WEEK 41,Region A,Site 008,Salesman 02,SPORT,Photo Issue,2026-10-17,7,0,0,7,0
+2026,September,WEEK 39,Region C,Site 011,Salesman 07,SPORT,No Display,2026-09-26,2,0,2,0,0
+2026,September,WEEK 36,Region B,Site 006,Salesman 01,TOURISM,Available,2026-09-06,5,5,0,0,0
+2026,July,WEEK 29,Region B,Site 006,Salesman 05,PUBLIC TRANSPORT,Available,2026-07-21,2,2,0,0,0
+2026,April,WEEK 14,Region A,Site 001,Salesman 07,SPORT,Photo Issue,2026-04-02,6,0,0,6,0
+2026,October,WEEK 41,Region A,Site 008,Salesman 04,SCHOOL,Photo Issue,2026-10-26,9,0,0,9,0
+2026,February,WEEK 8,Region A,Site 001,Salesman 01,SCHOOL,Available,2026-02-21,6,6,0,0,0
+2026,February,WEEK 8,Region C,Site 012,Salesman 04,SCHOOL,Available,2026-02-22,6,6,0,0,0
+2026,March,WEEK 10,Region C,Site 012,Salesman 07,TOURISM,Available,2026-03-08,6,6,0,0,0
+2026,October,WEEK 41,Region A,Site 008,Salesman 06,TOURISM,Available,2026-10-28,9,9,0,0,0
+2026,May,WEEK 20,Region C,Site 012,Salesman 07,PUBLIC TRANSPORT,No Display,2026-05-19,4,0,4,0,0
+2026,July,WEEK 29,Region A,Site 011,Salesman 08,SCHOOL,Available,2026-07-22,8,8,0,0,0
+2026,April,WEEK 16,Region A,Site 010,Salesman 07,TOURISM,No Display,2026-04-19,5,0,5,0,0
+2026,November,WEEK 41,Region C,Site 009,Salesman 07,SCHOOL,Available,2026-11-04,5,5,0,0,0
+2026,February,WEEK 5,Region A,Site 006,Salesman 06,MAIN ROAD,Photo Issue,2026-02-03,10,0,0,10,0
+2026,May,WEEK 18,Region B,Site 004,Salesman 02,SPORT,Available,2026-05-01,9,9,0,0,0
+2026,January,WEEK 1,Region C,Site 006,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-03,12,12,0,0,0
+2026,March,WEEK 12,Region B,Site 004,Salesman 03,SCHOOL,Photo Issue,2026-03-24,12,0,0,12,0
+2026,September,WEEK 39,Region B,Site 002,Salesman 05,SPORT,No Photo,2026-09-26,7,0,0,0,7
+2026,May,WEEK 18,Region C,Site 011,Salesman 04,PUBLIC TRANSPORT,Available,2026-05-02,2,2,0,0,0
+2026,March,WEEK 9,Region C,Site 007,Salesman 02,TOURISM,Photo Issue,2026-03-03,7,0,0,7,0
+2026,February,WEEK 9,Region B,Site 004,Salesman 07,SPORT,Available,2026-02-26,9,9,0,0,0
+2026,July,WEEK 28,Region C,Site 004,Salesman 03,SPORT,Available,2026-07-12,6,6,0,0,0
+2026,October,WEEK 41,Region A,Site 004,Salesman 04,SCHOOL,Photo Issue,2026-10-13,11,0,0,11,0
+2026,January,WEEK 4,Region A,Site 005,Salesman 05,MAIN ROAD,Photo Issue,2026-01-26,2,0,0,2,0
+2026,September,WEEK 37,Region C,Site 011,Salesman 06,SCHOOL,Available,2026-09-15,5,5,0,0,0
+2026,March,WEEK 12,Region A,Site 012,Salesman 02,TOURISM,Available,2026-03-25,4,4,0,0,0
+2026,August,WEEK 33,Region B,Site 009,Salesman 08,MAIN ROAD,Available,2026-08-16,7,7,0,0,0
+2026,July,WEEK 27,Region B,Site 006,Salesman 04,PUBLIC TRANSPORT,Available,2026-07-02,7,7,0,0,0
+2026,September,WEEK 37,Region C,Site 002,Salesman 05,SPORT,Photo Issue,2026-09-15,2,0,0,2,0
+2026,February,WEEK 6,Region C,Site 012,Salesman 03,SCHOOL,Available,2026-02-10,8,8,0,0,0
+2026,September,WEEK 37,Region C,Site 008,Salesman 01,SPORT,Available,2026-09-12,6,6,0,0,0
+2026,April,WEEK 18,Region C,Site 006,Salesman 01,PUBLIC TRANSPORT,Available,2026-04-30,8,8,0,0,0
+2026,May,WEEK 19,Region C,Site 009,Salesman 06,SPORT,Available,2026-05-07,4,4,0,0,0
+2026,April,WEEK 14,Region A,Site 007,Salesman 06,SCHOOL,Available,2026-04-08,9,9,0,0,0
+2026,March,WEEK 12,Region B,Site 006,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-03-24,4,0,0,4,0
+2026,March,WEEK 12,Region B,Site 002,Salesman 07,SPORT,Available,2026-03-21,10,10,0,0,0
+2026,April,WEEK 17,Region C,Site 002,Salesman 03,SCHOOL,Available,2026-04-27,5,5,0,0,0
+2026,July,WEEK 29,Region A,Site 007,Salesman 03,SPORT,Available,2026-07-19,6,6,0,0,0
+2026,May,WEEK 21,Region B,Site 009,Salesman 03,MAIN ROAD,Available,2026-05-25,10,10,0,0,0
+2026,April,WEEK 17,Region B,Site 006,Salesman 06,SPORT,Available,2026-04-25,7,7,0,0,0
+2026,August,WEEK 34,Region C,Site 011,Salesman 07,TOURISM,No Photo,2026-08-23,10,0,0,0,10
+2026,March,WEEK 12,Region A,Site 001,Salesman 08,SCHOOL,Available,2026-03-24,9,9,0,0,0
+2026,January,WEEK 1,Region A,Site 006,Salesman 06,SCHOOL,Available,2026-01-01,12,12,0,0,0
+2026,January,WEEK 5,Region B,Site 010,Salesman 02,SCHOOL,Available,2026-01-30,7,7,0,0,0
+2026,May,WEEK 18,Region A,Site 001,Salesman 03,PUBLIC TRANSPORT,Available,2026-05-02,9,9,0,0,0
+2026,November,WEEK 41,Region C,Site 006,Salesman 01,MAIN ROAD,Photo Issue,2026-11-03,12,0,0,12,0
+2026,April,WEEK 14,Region B,Site 002,Salesman 03,TOURISM,Available,2026-04-08,3,3,0,0,0
+2026,February,WEEK 5,Region A,Site 011,Salesman 05,PUBLIC TRANSPORT,Available,2026-02-03,2,2,0,0,0
+2026,April,WEEK 15,Region C,Site 009,Salesman 04,MAIN ROAD,Available,2026-04-13,10,10,0,0,0
+2026,September,WEEK 35,Region B,Site 011,Salesman 08,TOURISM,No Photo,2026-09-02,7,0,0,0,7
+2026,August,WEEK 33,Region C,Site 001,Salesman 02,SCHOOL,Available,2026-08-16,2,2,0,0,0
+2026,August,WEEK 35,Region B,Site 007,Salesman 03,SCHOOL,No Photo,2026-08-31,4,0,0,0,4
+2026,March,WEEK 12,Region C,Site 001,Salesman 03,SCHOOL,No Display,2026-03-24,9,0,9,0,0
+2026,May,WEEK 22,Region A,Site 004,Salesman 08,MAIN ROAD,Photo Issue,2026-05-30,5,0,0,5,0
+2026,February,WEEK 8,Region A,Site 002,Salesman 08,MAIN ROAD,Available,2026-02-21,5,5,0,0,0
+2026,August,WEEK 35,Region A,Site 010,Salesman 08,PUBLIC TRANSPORT,Available,2026-08-31,12,12,0,0,0
+2026,October,WEEK 41,Region C,Site 002,Salesman 06,TOURISM,Available,2026-10-25,2,2,0,0,0
+2026,July,WEEK 28,Region A,Site 010,Salesman 06,PUBLIC TRANSPORT,Photo Issue,2026-07-15,6,0,0,6,0
+2026,July,WEEK 28,Region A,Site 011,Salesman 08,MAIN ROAD,Available,2026-07-15,12,12,0,0,0
+2026,April,WEEK 15,Region A,Site 011,Salesman 01,PUBLIC TRANSPORT,Available,2026-04-12,12,12,0,0,0
+2026,May,WEEK 22,Region C,Site 011,Salesman 04,MAIN ROAD,No Photo,2026-05-28,11,0,0,0,11
+2026,April,WEEK 16,Region A,Site 011,Salesman 02,SPORT,No Photo,2026-04-18,4,0,0,0,4
+2026,September,WEEK 39,Region A,Site 009,Salesman 06,MAIN ROAD,Available,2026-09-28,4,4,0,0,0
+2026,October,WEEK 41,Region C,Site 003,Salesman 02,SCHOOL,Photo Issue,2026-10-09,3,0,0,3,0
+2026,July,WEEK 29,Region C,Site 008,Salesman 06,TOURISM,Photo Issue,2026-07-16,2,0,0,2,0
+2026,April,WEEK 17,Region C,Site 002,Salesman 03,MAIN ROAD,Available,2026-04-28,7,7,0,0,0
+2026,July,WEEK 27,Region C,Site 005,Salesman 01,SPORT,Available,2026-07-06,9,9,0,0,0
+2026,February,WEEK 8,Region A,Site 001,Salesman 07,TOURISM,Photo Issue,2026-02-21,5,0,0,5,0
+2026,April,WEEK 16,Region C,Site 009,Salesman 01,TOURISM,Available,2026-04-19,12,12,0,0,0
+2026,September,WEEK 39,Region B,Site 010,Salesman 05,SPORT,Available,2026-09-29,8,8,0,0,0
+2026,June,WEEK 24,Region C,Site 010,Salesman 05,SCHOOL,Photo Issue,2026-06-12,6,0,0,6,0
+2026,August,WEEK 35,Region A,Site 001,Salesman 02,PUBLIC TRANSPORT,Available,2026-08-30,3,3,0,0,0
+2026,July,WEEK 29,Region B,Site 007,Salesman 04,TOURISM,Available,2026-07-17,8,8,0,0,0
+2026,August,WEEK 35,Region B,Site 001,Salesman 08,SPORT,No Display,2026-08-30,11,0,11,0,0
+2026,October,WEEK 41,Region B,Site 006,Salesman 02,SPORT,No Display,2026-10-10,9,0,9,0,0
+2026,February,WEEK 8,Region B,Site 005,Salesman 03,SPORT,Available,2026-02-25,2,2,0,0,0
+2026,April,WEEK 14,Region A,Site 007,Salesman 08,MAIN ROAD,Photo Issue,2026-04-08,6,0,0,6,0
+2026,May,WEEK 20,Region B,Site 011,Salesman 05,PUBLIC TRANSPORT,Available,2026-05-18,11,11,0,0,0
+2026,July,WEEK 30,Region B,Site 003,Salesman 07,SPORT,Available,2026-07-23,11,11,0,0,0
+2026,January,WEEK 1,Region B,Site 006,Salesman 03,TOURISM,Photo Issue,2026-01-04,10,0,0,10,0
+2026,March,WEEK 13,Region A,Site 007,Salesman 04,TOURISM,Available,2026-03-31,7,7,0,0,0
+2026,March,WEEK 11,Region B,Site 011,Salesman 03,TOURISM,Available,2026-03-14,8,8,0,0,0
+2026,September,WEEK 38,Region B,Site 008,Salesman 05,MAIN ROAD,Photo Issue,2026-09-23,2,0,0,2,0
+2026,July,WEEK 28,Region B,Site 005,Salesman 03,TOURISM,Available,2026-07-11,5,5,0,0,0
+2026,February,WEEK 9,Region B,Site 001,Salesman 04,PUBLIC TRANSPORT,No Display,2026-02-27,2,0,2,0,0
+2026,February,WEEK 8,Region B,Site 011,Salesman 06,SPORT,No Photo,2026-02-19,11,0,0,0,11
+2026,April,WEEK 16,Region A,Site 007,Salesman 05,SPORT,Photo Issue,2026-04-17,8,0,0,8,0
+2026,April,WEEK 16,Region B,Site 007,Salesman 04,PUBLIC TRANSPORT,Available,2026-04-19,6,6,0,0,0
+2026,September,WEEK 38,Region B,Site 002,Salesman 07,SCHOOL,No Display,2026-09-19,8,0,8,0,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 02,PUBLIC TRANSPORT,Available,2026-10-09,2,2,0,0,0
+2026,May,WEEK 18,Region A,Site 011,Salesman 02,MAIN ROAD,No Display,2026-05-04,3,0,3,0,0
+2026,April,WEEK 17,Region C,Site 004,Salesman 04,SPORT,Available,2026-04-26,2,2,0,0,0
+2026,October,WEEK 41,Region C,Site 011,Salesman 06,PUBLIC TRANSPORT,No Display,2026-10-27,7,0,7,0,0
+2026,January,WEEK 1,Region C,Site 007,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-02,6,6,0,0,0
+2026,October,WEEK 41,Region B,Site 003,Salesman 04,TOURISM,Available,2026-10-16,8,8,0,0,0
+2026,July,WEEK 31,Region C,Site 004,Salesman 04,PUBLIC TRANSPORT,Available,2026-07-31,5,5,0,0,0
+2026,June,WEEK 24,Region C,Site 008,Salesman 04,TOURISM,Available,2026-06-12,3,3,0,0,0
+2026,February,WEEK 9,Region C,Site 010,Salesman 06,SCHOOL,Photo Issue,2026-02-26,2,0,0,2,0
+2026,August,WEEK 31,Region C,Site 003,Salesman 03,SPORT,No Photo,2026-08-03,5,0,0,0,5
+2026,January,WEEK 2,Region B,Site 006,Salesman 07,MAIN ROAD,Available,2026-01-14,6,6,0,0,0
+2026,September,WEEK 39,Region B,Site 009,Salesman 02,TOURISM,Photo Issue,2026-09-30,1,0,0,1,0
+2026,October,WEEK 41,Region A,Site 007,Salesman 03,SCHOOL,Available,2026-10-27,2,2,0,0,0
+2026,January,WEEK 5,Region C,Site 001,Salesman 03,PUBLIC TRANSPORT,Available,2026-01-31,5,5,0,0,0
+2026,October,WEEK 41,Region A,Site 001,Salesman 04,PUBLIC TRANSPORT,Available,2026-10-19,4,4,0,0,0
+2026,August,WEEK 31,Region C,Site 001,Salesman 02,PUBLIC TRANSPORT,No Photo,2026-08-04,3,0,0,0,3
+2026,March,WEEK 13,Region A,Site 010,Salesman 08,PUBLIC TRANSPORT,Available,2026-03-31,2,2,0,0,0
+2026,February,WEEK 9,Region B,Site 008,Salesman 06,PUBLIC TRANSPORT,Photo Issue,2026-02-27,12,0,0,12,0
+2026,August,WEEK 32,Region C,Site 002,Salesman 01,TOURISM,Photo Issue,2026-08-10,5,0,0,5,0
+2026,August,WEEK 34,Region C,Site 003,Salesman 07,TOURISM,Photo Issue,2026-08-20,12,0,0,12,0
+2026,May,WEEK 19,Region A,Site 003,Salesman 06,SPORT,No Display,2026-05-07,6,0,6,0,0
+2026,October,WEEK 40,Region C,Site 003,Salesman 07,MAIN ROAD,Photo Issue,2026-10-03,9,0,0,9,0
+2026,August,WEEK 34,Region C,Site 005,Salesman 02,TOURISM,Available,2026-08-25,7,7,0,0,0
+2026,April,WEEK 17,Region A,Site 003,Salesman 04,SCHOOL,Available,2026-04-27,5,5,0,0,0
+2026,May,WEEK 18,Region B,Site 001,Salesman 07,MAIN ROAD,Photo Issue,2026-05-03,3,0,0,3,0
+2026,September,WEEK 38,Region C,Site 009,Salesman 05,PUBLIC TRANSPORT,Available,2026-09-23,11,11,0,0,0
+2026,July,WEEK 27,Region A,Site 011,Salesman 03,SPORT,Available,2026-07-06,10,10,0,0,0
+2026,January,WEEK 3,Region C,Site 011,Salesman 05,MAIN ROAD,No Photo,2026-01-15,5,0,0,0,5
+2026,October,WEEK 41,Region A,Site 003,Salesman 05,TOURISM,Available,2026-10-20,4,4,0,0,0
+2026,May,WEEK 22,Region B,Site 010,Salesman 07,SPORT,Available,2026-05-29,8,8,0,0,0
+2026,October,WEEK 40,Region C,Site 009,Salesman 03,SCHOOL,Available,2026-10-02,11,11,0,0,0
+2026,August,WEEK 35,Region B,Site 003,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-08-27,1,0,0,1,0
+2026,September,WEEK 39,Region A,Site 005,Salesman 08,MAIN ROAD,Available,2026-09-25,7,7,0,0,0
+2026,August,WEEK 34,Region C,Site 003,Salesman 02,SPORT,Photo Issue,2026-08-24,6,0,0,6,0
+2026,March,WEEK 13,Region B,Site 011,Salesman 04,MAIN ROAD,Available,2026-03-29,4,4,0,0,0
+2026,January,WEEK 5,Region C,Site 007,Salesman 01,MAIN ROAD,Available,2026-01-29,6,6,0,0,0
+2026,May,WEEK 19,Region A,Site 002,Salesman 01,SPORT,Available,2026-05-10,11,11,0,0,0
+2026,February,WEEK 6,Region B,Site 007,Salesman 04,TOURISM,Available,2026-02-08,4,4,0,0,0
+2026,October,WEEK 40,Region A,Site 004,Salesman 06,PUBLIC TRANSPORT,Available,2026-10-07,3,3,0,0,0
+2026,September,WEEK 36,Region A,Site 008,Salesman 08,MAIN ROAD,Available,2026-09-03,7,7,0,0,0
+2026,May,WEEK 18,Region C,Site 006,Salesman 06,SCHOOL,Available,2026-05-02,6,6,0,0,0
+2026,August,WEEK 33,Region C,Site 011,Salesman 01,PUBLIC TRANSPORT,Available,2026-08-16,7,7,0,0,0
+2026,April,WEEK 15,Region B,Site 003,Salesman 03,TOURISM,No Photo,2026-04-12,12,0,0,0,12
+2026,January,WEEK 5,Region C,Site 008,Salesman 04,SCHOOL,Photo Issue,2026-01-31,12,0,0,12,0
+2026,July,WEEK 27,Region B,Site 003,Salesman 01,TOURISM,Available,2026-07-07,4,4,0,0,0
+2026,June,WEEK 24,Region C,Site 003,Salesman 05,PUBLIC TRANSPORT,Available,2026-06-15,10,10,0,0,0
+2026,May,WEEK 21,Region A,Site 006,Salesman 03,SPORT,Photo Issue,2026-05-25,4,0,0,4,0
+2026,August,WEEK 33,Region B,Site 003,Salesman 02,SPORT,Photo Issue,2026-08-16,10,0,0,10,0
+2026,February,WEEK 6,Region C,Site 008,Salesman 01,PUBLIC TRANSPORT,Available,2026-02-11,10,10,0,0,0
+2026,January,WEEK 3,Region A,Site 010,Salesman 07,PUBLIC TRANSPORT,No Display,2026-01-15,12,0,12,0,0
+2026,September,WEEK 37,Region B,Site 009,Salesman 02,TOURISM,Available,2026-09-13,7,7,0,0,0
+2026,November,WEEK 41,Region C,Site 010,Salesman 07,MAIN ROAD,Available,2026-11-05,7,7,0,0,0
+2026,November,WEEK 41,Region A,Site 010,Salesman 08,PUBLIC TRANSPORT,No Display,2026-11-07,7,0,7,0,0
+2026,February,WEEK 7,Region C,Site 007,Salesman 07,SCHOOL,Available,2026-02-16,1,1,0,0,0
+2026,May,WEEK 20,Region C,Site 006,Salesman 02,TOURISM,No Display,2026-05-14,8,0,8,0,0
+2026,July,WEEK 30,Region C,Site 005,Salesman 08,TOURISM,No Display,2026-07-29,11,0,11,0,0
+2026,January,WEEK 2,Region B,Site 006,Salesman 03,PUBLIC TRANSPORT,Available,2026-01-08,3,3,0,0,0
+2026,February,WEEK 8,Region A,Site 010,Salesman 07,MAIN ROAD,Available,2026-02-23,10,10,0,0,0
+2026,January,WEEK 2,Region B,Site 004,Salesman 04,MAIN ROAD,Photo Issue,2026-01-10,4,0,0,4,0
+2026,February,WEEK 7,Region C,Site 005,Salesman 07,TOURISM,Available,2026-02-14,6,6,0,0,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 08,TOURISM,Photo Issue,2026-10-25,10,0,0,10,0
+2026,June,WEEK 25,Region A,Site 003,Salesman 08,MAIN ROAD,Available,2026-06-22,4,4,0,0,0
+2026,October,WEEK 40,Region C,Site 012,Salesman 05,SCHOOL,No Display,2026-10-07,1,0,1,0,0
+2026,July,WEEK 30,Region A,Site 002,Salesman 06,SCHOOL,Available,2026-07-28,3,3,0,0,0
+2026,August,WEEK 33,Region C,Site 008,Salesman 07,MAIN ROAD,Available,2026-08-18,10,10,0,0,0
+2026,June,WEEK 24,Region A,Site 001,Salesman 08,SCHOOL,Photo Issue,2026-06-15,6,0,0,6,0
+2026,February,WEEK 6,Region B,Site 002,Salesman 08,SCHOOL,Available,2026-02-05,12,12,0,0,0
+2026,October,WEEK 41,Region A,Site 001,Salesman 03,SPORT,Available,2026-10-23,6,6,0,0,0
+2026,April,WEEK 17,Region C,Site 007,Salesman 07,SPORT,Available,2026-04-26,12,12,0,0,0
+2026,September,WEEK 39,Region A,Site 011,Salesman 03,SPORT,Available,2026-09-28,1,1,0,0,0
+2026,February,WEEK 5,Region C,Site 008,Salesman 04,TOURISM,Available,2026-02-02,12,12,0,0,0
+2026,August,WEEK 33,Region C,Site 008,Salesman 05,SCHOOL,Available,2026-08-17,4,4,0,0,0
+2026,July,WEEK 27,Region A,Site 012,Salesman 05,TOURISM,Available,2026-07-05,6,6,0,0,0
+2026,August,WEEK 31,Region C,Site 003,Salesman 08,SCHOOL,Photo Issue,2026-08-02,4,0,0,4,0
+2026,August,WEEK 31,Region C,Site 008,Salesman 07,PUBLIC TRANSPORT,Available,2026-08-02,10,10,0,0,0
+2026,May,WEEK 21,Region B,Site 008,Salesman 01,TOURISM,Available,2026-05-24,6,6,0,0,0
+2026,May,WEEK 21,Region C,Site 011,Salesman 08,SPORT,No Photo,2026-05-23,7,0,0,0,7
+2026,September,WEEK 37,Region B,Site 009,Salesman 06,PUBLIC TRANSPORT,Available,2026-09-13,11,11,0,0,0
+2026,August,WEEK 35,Region C,Site 001,Salesman 04,SPORT,Photo Issue,2026-08-29,10,0,0,10,0
+2026,May,WEEK 19,Region A,Site 010,Salesman 01,MAIN ROAD,Available,2026-05-10,12,12,0,0,0
+2026,July,WEEK 28,Region B,Site 005,Salesman 02,SCHOOL,Available,2026-07-11,2,2,0,0,0
+2026,April,WEEK 15,Region C,Site 006,Salesman 01,PUBLIC TRANSPORT,No Display,2026-04-14,9,0,9,0,0
+2026,February,WEEK 6,Region C,Site 003,Salesman 03,TOURISM,Available,2026-02-11,5,5,0,0,0
+2026,August,WEEK 32,Region C,Site 001,Salesman 07,SPORT,Available,2026-08-06,11,11,0,0,0
+2026,August,WEEK 31,Region C,Site 001,Salesman 04,MAIN ROAD,Photo Issue,2026-08-02,8,0,0,8,0
+2026,January,WEEK 3,Region A,Site 009,Salesman 01,MAIN ROAD,Available,2026-01-19,6,6,0,0,0
+2026,April,WEEK 17,Region C,Site 006,Salesman 08,MAIN ROAD,Photo Issue,2026-04-25,9,0,0,9,0
+2026,April,WEEK 15,Region C,Site 001,Salesman 01,MAIN ROAD,Available,2026-04-15,12,12,0,0,0
+2026,May,WEEK 21,Region C,Site 007,Salesman 01,SCHOOL,Available,2026-05-24,6,6,0,0,0
+2026,August,WEEK 31,Region C,Site 007,Salesman 06,PUBLIC TRANSPORT,Available,2026-08-02,3,3,0,0,0
+2026,March,WEEK 9,Region A,Site 006,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-01,7,7,0,0,0
+2026,March,WEEK 12,Region A,Site 002,Salesman 03,TOURISM,No Display,2026-03-23,2,0,2,0,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 04,PUBLIC TRANSPORT,Photo Issue,2026-10-23,7,0,0,7,0
+2026,October,WEEK 41,Region A,Site 002,Salesman 08,SCHOOL,Available,2026-10-14,6,6,0,0,0
+2026,March,WEEK 11,Region C,Site 003,Salesman 01,SPORT,Photo Issue,2026-03-16,4,0,0,4,0
+2026,May,WEEK 18,Region C,Site 003,Salesman 04,PUBLIC TRANSPORT,No Display,2026-05-04,12,0,12,0,0
+2026,January,WEEK 3,Region B,Site 007,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-01-21,5,0,0,5,0
+2026,July,WEEK 28,Region C,Site 008,Salesman 08,SPORT,Available,2026-07-14,4,4,0,0,0
+2026,September,WEEK 38,Region B,Site 001,Salesman 06,MAIN ROAD,Available,2026-09-18,4,4,0,0,0
+2026,March,WEEK 12,Region A,Site 003,Salesman 05,SPORT,Available,2026-03-24,1,1,0,0,0
+2026,September,WEEK 35,Region B,Site 006,Salesman 04,SPORT,Available,2026-09-01,12,12,0,0,0
+2026,July,WEEK 27,Region B,Site 005,Salesman 02,SPORT,Available,2026-07-05,11,11,0,0,0
+2026,January,WEEK 2,Region B,Site 008,Salesman 02,SCHOOL,Available,2026-01-14,11,11,0,0,0
+2026,February,WEEK 7,Region A,Site 005,Salesman 02,SPORT,Photo Issue,2026-02-18,9,0,0,9,0
+2026,August,WEEK 33,Region A,Site 012,Salesman 04,TOURISM,Available,2026-08-19,2,2,0,0,0
+2026,March,WEEK 11,Region C,Site 007,Salesman 01,TOURISM,No Photo,2026-03-13,4,0,0,0,4
+2026,October,WEEK 40,Region A,Site 004,Salesman 03,PUBLIC TRANSPORT,Available,2026-10-06,3,3,0,0,0
+2026,July,WEEK 30,Region B,Site 009,Salesman 04,SCHOOL,Available,2026-07-29,11,11,0,0,0
+2026,February,WEEK 6,Region C,Site 010,Salesman 07,MAIN ROAD,No Photo,2026-02-10,4,0,0,0,4
+2026,January,WEEK 1,Region A,Site 002,Salesman 02,MAIN ROAD,No Display,2026-01-06,10,0,10,0,0
+2026,April,WEEK 15,Region B,Site 008,Salesman 06,SCHOOL,Available,2026-04-13,10,10,0,0,0
+2026,March,WEEK 10,Region C,Site 012,Salesman 01,TOURISM,Photo Issue,2026-03-05,1,0,0,1,0
+2026,April,WEEK 14,Region C,Site 004,Salesman 05,SPORT,Available,2026-04-02,7,7,0,0,0
+2026,May,WEEK 20,Region C,Site 001,Salesman 07,SCHOOL,Photo Issue,2026-05-18,2,0,0,2,0
+2026,September,WEEK 36,Region C,Site 010,Salesman 03,SPORT,Available,2026-09-06,6,6,0,0,0
+2026,July,WEEK 27,Region C,Site 008,Salesman 05,PUBLIC TRANSPORT,Available,2026-07-03,10,10,0,0,0
+2026,May,WEEK 19,Region B,Site 005,Salesman 02,SCHOOL,Available,2026-05-12,8,8,0,0,0
+2026,September,WEEK 36,Region C,Site 008,Salesman 02,SCHOOL,Available,2026-09-05,2,2,0,0,0
+2026,March,WEEK 11,Region A,Site 005,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-14,7,7,0,0,0
+2026,September,WEEK 39,Region A,Site 012,Salesman 08,SPORT,No Display,2026-09-26,6,0,6,0,0
+2026,August,WEEK 32,Region B,Site 007,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-08-09,1,0,0,1,0
+2026,August,WEEK 32,Region B,Site 003,Salesman 07,PUBLIC TRANSPORT,Available,2026-08-06,9,9,0,0,0
+2026,January,WEEK 4,Region C,Site 002,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-01-28,10,0,0,10,0
+2026,September,WEEK 37,Region A,Site 012,Salesman 04,MAIN ROAD,Available,2026-09-11,3,3,0,0,0
+2026,August,WEEK 33,Region C,Site 011,Salesman 02,TOURISM,Photo Issue,2026-08-15,3,0,0,3,0
+2026,February,WEEK 7,Region A,Site 005,Salesman 07,MAIN ROAD,Photo Issue,2026-02-12,8,0,0,8,0
+2026,September,WEEK 38,Region B,Site 011,Salesman 01,PUBLIC TRANSPORT,Photo Issue,2026-09-18,5,0,0,5,0
+2026,June,WEEK 22,Region A,Site 007,Salesman 01,SCHOOL,Available,2026-06-03,12,12,0,0,0
+2026,March,WEEK 12,Region C,Site 010,Salesman 04,PUBLIC TRANSPORT,Photo Issue,2026-03-20,12,0,0,12,0
+2026,August,WEEK 31,Region B,Site 007,Salesman 07,SPORT,Photo Issue,2026-08-01,5,0,0,5,0
+2026,May,WEEK 21,Region B,Site 007,Salesman 06,PUBLIC TRANSPORT,No Display,2026-05-24,10,0,10,0,0
+2026,October,WEEK 41,Region C,Site 008,Salesman 07,TOURISM,Available,2026-10-27,4,4,0,0,0
+2026,March,WEEK 11,Region A,Site 011,Salesman 06,SCHOOL,Available,2026-03-16,7,7,0,0,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 07,SCHOOL,Available,2026-10-29,2,2,0,0,0
+2026,March,WEEK 11,Region A,Site 005,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-17,6,6,0,0,0
+2026,January,WEEK 3,Region C,Site 006,Salesman 05,SPORT,Available,2026-01-15,1,1,0,0,0
+2026,July,WEEK 31,Region A,Site 005,Salesman 06,TOURISM,Available,2026-07-31,11,11,0,0,0
+2026,March,WEEK 10,Region B,Site 002,Salesman 01,TOURISM,Available,2026-03-05,9,9,0,0,0
+2026,June,WEEK 24,Region C,Site 008,Salesman 08,SPORT,Available,2026-06-17,10,10,0,0,0
+2026,February,WEEK 6,Region B,Site 005,Salesman 01,PUBLIC TRANSPORT,Available,2026-02-09,12,12,0,0,0
+2026,March,WEEK 10,Region C,Site 012,Salesman 06,SPORT,Photo Issue,2026-03-06,5,0,0,5,0
+2026,September,WEEK 38,Region A,Site 002,Salesman 01,TOURISM,Available,2026-09-20,8,8,0,0,0
+2026,April,WEEK 16,Region A,Site 003,Salesman 04,SCHOOL,Photo Issue,2026-04-19,2,0,0,2,0
+2026,February,WEEK 7,Region B,Site 008,Salesman 06,TOURISM,Available,2026-02-18,5,5,0,0,0
+2026,June,WEEK 24,Region A,Site 010,Salesman 01,MAIN ROAD,Available,2026-06-13,9,9,0,0,0
+2026,November,WEEK 41,Region B,Site 012,Salesman 03,SCHOOL,Photo Issue,2026-11-03,7,0,0,7,0
+2026,August,WEEK 32,Region C,Site 009,Salesman 02,SCHOOL,Available,2026-08-08,2,2,0,0,0
+2026,February,WEEK 8,Region C,Site 010,Salesman 02,SPORT,Available,2026-02-19,7,7,0,0,0
+2026,February,WEEK 8,Region C,Site 001,Salesman 04,SPORT,Available,2026-02-20,6,6,0,0,0
+2026,March,WEEK 12,Region B,Site 003,Salesman 05,TOURISM,Available,2026-03-19,7,7,0,0,0
+2026,June,WEEK 26,Region B,Site 007,Salesman 03,MAIN ROAD,Available,2026-06-29,2,2,0,0,0
+2026,October,WEEK 41,Region A,Site 001,Salesman 01,MAIN ROAD,Available,2026-10-29,10,10,0,0,0
+2026,September,WEEK 36,Region A,Site 005,Salesman 02,PUBLIC TRANSPORT,No Photo,2026-09-06,6,0,0,0,6
+2026,May,WEEK 21,Region C,Site 011,Salesman 04,TOURISM,Available,2026-05-25,1,1,0,0,0
+2026,August,WEEK 35,Region C,Site 012,Salesman 02,TOURISM,Available,2026-08-28,11,11,0,0,0
+2026,May,WEEK 21,Region B,Site 006,Salesman 07,SPORT,Available,2026-05-23,12,12,0,0,0
+2026,October,WEEK 40,Region A,Site 008,Salesman 08,MAIN ROAD,No Photo,2026-10-05,4,0,0,0,4
+2026,February,WEEK 6,Region A,Site 010,Salesman 05,SPORT,Photo Issue,2026-02-08,4,0,0,4,0
+2026,September,WEEK 37,Region B,Site 008,Salesman 02,TOURISM,Available,2026-09-16,5,5,0,0,0
+2026,February,WEEK 8,Region B,Site 002,Salesman 04,MAIN ROAD,Available,2026-02-22,4,4,0,0,0
+2026,October,WEEK 41,Region B,Site 004,Salesman 01,TOURISM,No Display,2026-10-14,1,0,1,0,0
+2026,August,WEEK 32,Region C,Site 002,Salesman 07,PUBLIC TRANSPORT,No Display,2026-08-07,7,0,7,0,0
+2026,June,WEEK 25,Region B,Site 010,Salesman 05,TOURISM,Photo Issue,2026-06-18,9,0,0,9,0
+2026,June,WEEK 22,Region B,Site 003,Salesman 06,MAIN ROAD,Available,2026-06-03,1,1,0,0,0
+2026,October,WEEK 41,Region C,Site 001,Salesman 06,TOURISM,Available,2026-10-12,7,7,0,0,0
+2026,June,WEEK 24,Region C,Site 003,Salesman 07,TOURISM,Available,2026-06-17,1,1,0,0,0
+2026,January,WEEK 3,Region B,Site 003,Salesman 06,TOURISM,Available,2026-01-16,9,9,0,0,0
+2026,August,WEEK 32,Region B,Site 008,Salesman 04,MAIN ROAD,Available,2026-08-10,6,6,0,0,0
+2026,April,WEEK 16,Region B,Site 008,Salesman 04,MAIN ROAD,Available,2026-04-21,11,11,0,0,0
+2026,March,WEEK 10,Region B,Site 003,Salesman 06,MAIN ROAD,Available,2026-03-11,8,8,0,0,0
+2026,September,WEEK 38,Region A,Site 012,Salesman 02,TOURISM,Photo Issue,2026-09-21,10,0,0,10,0
+2026,March,WEEK 10,Region B,Site 012,Salesman 01,SPORT,No Photo,2026-03-07,11,0,0,0,11
+2026,May,WEEK 21,Region B,Site 010,Salesman 08,SCHOOL,Photo Issue,2026-05-23,12,0,0,12,0
+2026,May,WEEK 21,Region A,Site 001,Salesman 05,MAIN ROAD,Available,2026-05-21,8,8,0,0,0
+2026,September,WEEK 39,Region A,Site 012,Salesman 04,SCHOOL,Available,2026-09-24,11,11,0,0,0
+2026,November,WEEK 41,Region C,Site 007,Salesman 07,SPORT,Available,2026-11-06,7,7,0,0,0
+2026,April,WEEK 14,Region B,Site 009,Salesman 07,PUBLIC TRANSPORT,Available,2026-04-04,6,6,0,0,0
+2026,June,WEEK 26,Region B,Site 001,Salesman 03,SPORT,No Photo,2026-06-26,4,0,0,0,4
+2026,June,WEEK 23,Region C,Site 009,Salesman 02,MAIN ROAD,Available,2026-06-10,10,10,0,0,0
+2026,June,WEEK 26,Region B,Site 006,Salesman 02,SPORT,Photo Issue,2026-06-29,9,0,0,9,0
+2026,November,WEEK 41,Region B,Site 011,Salesman 02,SCHOOL,Available,2026-11-05,8,8,0,0,0
+2026,January,WEEK 2,Region A,Site 012,Salesman 06,TOURISM,Available,2026-01-09,2,2,0,0,0
+2026,March,WEEK 11,Region B,Site 001,Salesman 08,SCHOOL,Available,2026-03-14,6,6,0,0,0
+2026,November,WEEK 41,Region C,Site 008,Salesman 01,MAIN ROAD,Available,2026-11-06,4,4,0,0,0
+2026,August,WEEK 32,Region C,Site 008,Salesman 07,PUBLIC TRANSPORT,Available,2026-08-11,12,12,0,0,0
+2026,April,WEEK 16,Region A,Site 004,Salesman 04,PUBLIC TRANSPORT,No Display,2026-04-17,3,0,3,0,0
+2026,July,WEEK 30,Region C,Site 008,Salesman 05,TOURISM,Photo Issue,2026-07-24,4,0,0,4,0
+2026,January,WEEK 3,Region C,Site 012,Salesman 07,TOURISM,No Photo,2026-01-20,6,0,0,0,6
+2026,October,WEEK 41,Region A,Site 003,Salesman 07,MAIN ROAD,Photo Issue,2026-10-25,4,0,0,4,0
+2026,April,WEEK 18,Region B,Site 006,Salesman 06,TOURISM,Available,2026-04-30,7,7,0,0,0
+2026,January,WEEK 1,Region B,Site 001,Salesman 05,SPORT,Photo Issue,2026-01-03,11,0,0,11,0
+2026,August,WEEK 34,Region A,Site 003,Salesman 01,MAIN ROAD,Available,2026-08-22,8,8,0,0,0
+2026,June,WEEK 24,Region A,Site 007,Salesman 07,SPORT,Available,2026-06-13,2,2,0,0,0
+2026,March,WEEK 9,Region C,Site 006,Salesman 03,SCHOOL,Photo Issue,2026-03-03,3,0,0,3,0
+2026,June,WEEK 24,Region B,Site 004,Salesman 06,MAIN ROAD,Available,2026-06-11,6,6,0,0,0
+2026,August,WEEK 35,Region A,Site 004,Salesman 02,SPORT,Photo Issue,2026-08-31,6,0,0,6,0
+2026,February,WEEK 6,Region C,Site 003,Salesman 08,TOURISM,Available,2026-02-10,8,8,0,0,0
+2026,October,WEEK 41,Region B,Site 010,Salesman 03,PUBLIC TRANSPORT,Available,2026-10-29,10,10,0,0,0
+2026,September,WEEK 39,Region C,Site 005,Salesman 01,SPORT,Photo Issue,2026-09-29,6,0,0,6,0
+2026,May,WEEK 20,Region B,Site 012,Salesman 03,MAIN ROAD,Available,2026-05-15,7,7,0,0,0
+2026,October,WEEK 41,Region C,Site 012,Salesman 06,MAIN ROAD,Photo Issue,2026-10-16,10,0,0,10,0
+2026,October,WEEK 40,Region B,Site 009,Salesman 03,SCHOOL,Available,2026-10-03,1,1,0,0,0
+2026,August,WEEK 35,Region B,Site 005,Salesman 08,TOURISM,Available,2026-08-27,5,5,0,0,0
+2026,January,WEEK 1,Region C,Site 009,Salesman 03,SCHOOL,No Photo,2026-01-06,4,0,0,0,4
+2026,March,WEEK 13,Region B,Site 007,Salesman 04,SCHOOL,No Display,2026-03-28,9,0,9,0,0
+2026,August,WEEK 32,Region C,Site 010,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-08-07,8,0,0,8,0
+2026,January,WEEK 2,Region A,Site 011,Salesman 04,SPORT,No Photo,2026-01-12,12,0,0,0,12
+2026,September,WEEK 39,Region A,Site 007,Salesman 01,SPORT,Available,2026-09-26,8,8,0,0,0
+2026,September,WEEK 37,Region A,Site 005,Salesman 06,TOURISM,Photo Issue,2026-09-15,10,0,0,10,0
+2026,August,WEEK 34,Region A,Site 004,Salesman 07,TOURISM,No Photo,2026-08-25,4,0,0,0,4
+2026,July,WEEK 28,Region B,Site 001,Salesman 01,SCHOOL,Photo Issue,2026-07-12,2,0,0,2,0
+2026,January,WEEK 3,Region A,Site 010,Salesman 07,SCHOOL,Available,2026-01-18,8,8,0,0,0
+2026,August,WEEK 32,Region A,Site 002,Salesman 07,PUBLIC TRANSPORT,No Photo,2026-08-11,2,0,0,0,2
+2026,April,WEEK 15,Region C,Site 009,Salesman 02,MAIN ROAD,Available,2026-04-14,6,6,0,0,0
+2026,January,WEEK 4,Region A,Site 006,Salesman 02,TOURISM,Photo Issue,2026-01-23,2,0,0,2,0
+2026,February,WEEK 5,Region A,Site 010,Salesman 01,SCHOOL,Available,2026-02-01,1,1,0,0,0
+2026,May,WEEK 19,Region A,Site 003,Salesman 01,MAIN ROAD,Photo Issue,2026-05-10,2,0,0,2,0
+2026,March,WEEK 9,Region A,Site 008,Salesman 03,MAIN ROAD,No Display,2026-03-04,1,0,1,0,0
+2026,October,WEEK 41,Region C,Site 009,Salesman 01,MAIN ROAD,Available,2026-10-27,10,10,0,0,0
+2026,May,WEEK 19,Region B,Site 008,Salesman 01,PUBLIC TRANSPORT,Photo Issue,2026-05-11,5,0,0,5,0
+2026,June,WEEK 25,Region A,Site 007,Salesman 06,PUBLIC TRANSPORT,Photo Issue,2026-06-21,7,0,0,7,0
+2026,March,WEEK 13,Region C,Site 012,Salesman 03,MAIN ROAD,Available,2026-03-28,12,12,0,0,0
+2026,June,WEEK 24,Region B,Site 012,Salesman 02,TOURISM,Photo Issue,2026-06-12,11,0,0,11,0
+2026,September,WEEK 39,Region A,Site 003,Salesman 04,TOURISM,Photo Issue,2026-09-29,1,0,0,1,0
+2026,September,WEEK 36,Region B,Site 008,Salesman 02,SPORT,Available,2026-09-09,1,1,0,0,0
+2026,January,WEEK 5,Region C,Site 004,Salesman 01,SPORT,Available,2026-01-29,4,4,0,0,0
+2026,September,WEEK 36,Region A,Site 012,Salesman 01,SCHOOL,Available,2026-09-09,1,1,0,0,0
+2026,June,WEEK 24,Region A,Site 007,Salesman 07,MAIN ROAD,No Display,2026-06-15,12,0,12,0,0
+2026,June,WEEK 25,Region A,Site 012,Salesman 01,PUBLIC TRANSPORT,Available,2026-06-19,7,7,0,0,0
+2026,September,WEEK 39,Region B,Site 011,Salesman 02,SCHOOL,Available,2026-09-25,5,5,0,0,0
+2026,February,WEEK 7,Region B,Site 012,Salesman 02,TOURISM,No Display,2026-02-16,9,0,9,0,0
+2026,January,WEEK 4,Region A,Site 009,Salesman 02,SCHOOL,Photo Issue,2026-01-25,1,0,0,1,0
+2026,July,WEEK 30,Region A,Site 012,Salesman 07,SCHOOL,Photo Issue,2026-07-23,12,0,0,12,0
+2026,October,WEEK 41,Region C,Site 007,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-10-20,5,0,0,5,0
+2026,January,WEEK 4,Region A,Site 010,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-01-27,7,0,0,7,0
+2026,January,WEEK 1,Region C,Site 012,Salesman 06,MAIN ROAD,Available,2026-01-06,9,9,0,0,0
+2026,November,WEEK 41,Region C,Site 012,Salesman 08,PUBLIC TRANSPORT,Available,2026-11-07,8,8,0,0,0
+2026,January,WEEK 2,Region C,Site 005,Salesman 04,PUBLIC TRANSPORT,Available,2026-01-11,3,3,0,0,0
+2026,May,WEEK 18,Region A,Site 001,Salesman 08,PUBLIC TRANSPORT,Available,2026-05-05,4,4,0,0,0
+2026,July,WEEK 30,Region C,Site 004,Salesman 06,TOURISM,No Display,2026-07-28,12,0,12,0,0
+2026,May,WEEK 18,Region A,Site 002,Salesman 06,SPORT,Available,2026-05-06,7,7,0,0,0
+2026,March,WEEK 13,Region A,Site 004,Salesman 08,MAIN ROAD,Available,2026-03-30,6,6,0,0,0
+2026,August,WEEK 34,Region B,Site 012,Salesman 03,MAIN ROAD,Available,2026-08-26,12,12,0,0,0
+2026,May,WEEK 21,Region C,Site 001,Salesman 02,MAIN ROAD,No Photo,2026-05-26,8,0,0,0,8
+2026,June,WEEK 23,Region B,Site 006,Salesman 01,TOURISM,Photo Issue,2026-06-04,10,0,0,10,0
+2026,February,WEEK 8,Region A,Site 010,Salesman 08,TOURISM,Available,2026-02-21,2,2,0,0,0
+2026,September,WEEK 38,Region B,Site 012,Salesman 06,SPORT,Photo Issue,2026-09-19,5,0,0,5,0
+2026,April,WEEK 15,Region C,Site 005,Salesman 07,TOURISM,Photo Issue,2026-04-09,10,0,0,10,0
+2026,August,WEEK 33,Region C,Site 010,Salesman 01,MAIN ROAD,Photo Issue,2026-08-15,12,0,0,12,0
+2026,June,WEEK 23,Region C,Site 005,Salesman 02,PUBLIC TRANSPORT,Available,2026-06-07,4,4,0,0,0
+2026,August,WEEK 35,Region A,Site 004,Salesman 06,PUBLIC TRANSPORT,Available,2026-08-31,10,10,0,0,0
+2026,July,WEEK 28,Region C,Site 009,Salesman 02,TOURISM,Available,2026-07-09,4,4,0,0,0
+2026,July,WEEK 28,Region B,Site 004,Salesman 07,SCHOOL,Photo Issue,2026-07-14,10,0,0,10,0
+2026,March,WEEK 12,Region A,Site 006,Salesman 05,SPORT,Available,2026-03-23,4,4,0,0,0
+2026,May,WEEK 19,Region C,Site 010,Salesman 03,TOURISM,Available,2026-05-13,11,11,0,0,0
+2026,May,WEEK 19,Region A,Site 004,Salesman 08,SPORT,No Display,2026-05-12,4,0,4,0,0
+2026,February,WEEK 8,Region B,Site 003,Salesman 01,SCHOOL,Available,2026-02-19,11,11,0,0,0
+2026,March,WEEK 10,Region A,Site 003,Salesman 07,PUBLIC TRANSPORT,Available,2026-03-06,7,7,0,0,0
+2026,September,WEEK 38,Region B,Site 003,Salesman 08,MAIN ROAD,Photo Issue,2026-09-20,12,0,0,12,0
+2026,July,WEEK 31,Region A,Site 009,Salesman 08,MAIN ROAD,Available,2026-07-31,6,6,0,0,0
+2026,September,WEEK 36,Region C,Site 003,Salesman 03,SCHOOL,Available,2026-09-04,3,3,0,0,0
+2026,June,WEEK 23,Region C,Site 007,Salesman 03,SPORT,No Display,2026-06-10,12,0,12,0,0
+2026,February,WEEK 5,Region B,Site 011,Salesman 07,MAIN ROAD,Available,2026-02-03,3,3,0,0,0
+2026,January,WEEK 4,Region A,Site 011,Salesman 03,SCHOOL,Photo Issue,2026-01-27,12,0,0,12,0
+2026,July,WEEK 28,Region B,Site 003,Salesman 06,TOURISM,Photo Issue,2026-07-13,5,0,0,5,0
+2026,February,WEEK 9,Region C,Site 008,Salesman 05,SCHOOL,Available,2026-02-27,2,2,0,0,0
+2026,October,WEEK 40,Region B,Site 003,Salesman 03,SPORT,Available,2026-10-06,2,2,0,0,0
+2026,May,WEEK 20,Region A,Site 002,Salesman 01,TOURISM,Available,2026-05-16,8,8,0,0,0
+2026,August,WEEK 33,Region B,Site 003,Salesman 02,TOURISM,Available,2026-08-19,12,12,0,0,0
+2026,March,WEEK 11,Region A,Site 002,Salesman 08,MAIN ROAD,Available,2026-03-15,2,2,0,0,0
+2026,October,WEEK 41,Region C,Site 003,Salesman 07,SPORT,Available,2026-10-21,3,3,0,0,0
+2026,August,WEEK 31,Region C,Site 001,Salesman 08,PUBLIC TRANSPORT,Available,2026-08-01,11,11,0,0,0
+2026,February,WEEK 6,Region A,Site 011,Salesman 08,SCHOOL,No Photo,2026-02-05,5,0,0,0,5
+2026,November,WEEK 41,Region B,Site 008,Salesman 07,SPORT,Available,2026-11-07,6,6,0,0,0
+2026,January,WEEK 2,Region A,Site 012,Salesman 08,SPORT,No Display,2026-01-14,5,0,5,0,0
+2026,October,WEEK 41,Region B,Site 012,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-10-30,5,0,0,5,0
+2026,April,WEEK 15,Region B,Site 001,Salesman 07,SPORT,Available,2026-04-10,12,12,0,0,0
+2026,May,WEEK 22,Region A,Site 002,Salesman 03,SPORT,Available,2026-05-30,10,10,0,0,0
+2026,September,WEEK 39,Region B,Site 002,Salesman 04,SPORT,Photo Issue,2026-09-30,3,0,0,3,0
+2026,January,WEEK 3,Region B,Site 006,Salesman 05,SCHOOL,Photo Issue,2026-01-16,8,0,0,8,0
+2026,August,WEEK 32,Region A,Site 012,Salesman 08,MAIN ROAD,Available,2026-08-11,4,4,0,0,0
+2026,January,WEEK 1,Region C,Site 012,Salesman 04,PUBLIC TRANSPORT,Available,2026-01-07,6,6,0,0,0
+2026,May,WEEK 21,Region A,Site 010,Salesman 03,MAIN ROAD,Available,2026-05-27,11,11,0,0,0
+2026,March,WEEK 12,Region B,Site 008,Salesman 03,TOURISM,Available,2026-03-24,2,2,0,0,0
+2026,October,WEEK 41,Region C,Site 001,Salesman 06,SCHOOL,Available,2026-10-11,12,12,0,0,0
+2026,May,WEEK 21,Region A,Site 004,Salesman 06,MAIN ROAD,Available,2026-05-24,3,3,0,0,0
+2026,September,WEEK 38,Region C,Site 003,Salesman 08,SCHOOL,No Photo,2026-09-18,1,0,0,0,1
+2026,May,WEEK 22,Region B,Site 011,Salesman 01,SPORT,Available,2026-05-29,11,11,0,0,0
+2026,September,WEEK 39,Region B,Site 010,Salesman 08,TOURISM,No Display,2026-09-26,2,0,2,0,0
+2026,April,WEEK 18,Region A,Site 006,Salesman 05,PUBLIC TRANSPORT,No Photo,2026-04-30,7,0,0,0,7
+2026,April,WEEK 17,Region A,Site 009,Salesman 01,TOURISM,No Photo,2026-04-23,1,0,0,0,1
+2026,June,WEEK 25,Region A,Site 009,Salesman 01,TOURISM,Available,2026-06-20,4,4,0,0,0
+2026,September,WEEK 39,Region B,Site 002,Salesman 05,TOURISM,No Display,2026-09-29,4,0,4,0,0
+2026,August,WEEK 33,Region B,Site 009,Salesman 01,SPORT,Available,2026-08-14,1,1,0,0,0
+2026,June,WEEK 24,Region B,Site 011,Salesman 06,TOURISM,Photo Issue,2026-06-15,12,0,0,12,0
+2026,November,WEEK 41,Region B,Site 005,Salesman 06,TOURISM,Photo Issue,2026-11-05,4,0,0,4,0
+2026,April,WEEK 14,Region A,Site 009,Salesman 03,SPORT,Available,2026-04-08,11,11,0,0,0
+2026,October,WEEK 40,Region B,Site 005,Salesman 07,PUBLIC TRANSPORT,Available,2026-10-01,6,6,0,0,0
+2026,August,WEEK 31,Region C,Site 007,Salesman 01,TOURISM,Photo Issue,2026-08-03,7,0,0,7,0
+2026,August,WEEK 33,Region B,Site 006,Salesman 01,SPORT,Photo Issue,2026-08-15,2,0,0,2,0
+2026,July,WEEK 29,Region B,Site 008,Salesman 04,TOURISM,Available,2026-07-21,2,2,0,0,0
+2026,January,WEEK 2,Region C,Site 002,Salesman 03,MAIN ROAD,Available,2026-01-11,4,4,0,0,0
+2026,January,WEEK 1,Region A,Site 009,Salesman 04,PUBLIC TRANSPORT,Available,2026-01-07,4,4,0,0,0
+2026,November,WEEK 41,Region A,Site 005,Salesman 02,SPORT,Available,2026-11-01,5,5,0,0,0
+2026,February,WEEK 8,Region B,Site 012,Salesman 04,MAIN ROAD,Available,2026-02-24,9,9,0,0,0
+2026,January,WEEK 3,Region B,Site 008,Salesman 05,SPORT,Photo Issue,2026-01-19,11,0,0,11,0
+2026,November,WEEK 41,Region B,Site 005,Salesman 07,PUBLIC TRANSPORT,Available,2026-11-03,12,12,0,0,0
+2026,August,WEEK 33,Region C,Site 002,Salesman 03,SPORT,Photo Issue,2026-08-13,6,0,0,6,0
+2026,July,WEEK 28,Region B,Site 009,Salesman 05,TOURISM,Available,2026-07-13,10,10,0,0,0
+2026,May,WEEK 19,Region B,Site 003,Salesman 04,TOURISM,Available,2026-05-13,1,1,0,0,0
+2026,January,WEEK 4,Region A,Site 003,Salesman 07,SPORT,Available,2026-01-24,2,2,0,0,0
+2026,August,WEEK 31,Region C,Site 004,Salesman 01,TOURISM,Photo Issue,2026-08-02,3,0,0,3,0
+2026,May,WEEK 19,Region C,Site 009,Salesman 05,TOURISM,No Display,2026-05-09,9,0,9,0,0
+2026,July,WEEK 29,Region A,Site 012,Salesman 06,TOURISM,Available,2026-07-21,12,12,0,0,0
+2026,March,WEEK 11,Region B,Site 001,Salesman 07,TOURISM,Available,2026-03-16,5,5,0,0,0
+2026,September,WEEK 39,Region B,Site 010,Salesman 01,SCHOOL,Available,2026-09-25,1,1,0,0,0
+2026,September,WEEK 39,Region B,Site 002,Salesman 06,TOURISM,Photo Issue,2026-09-26,3,0,0,3,0
+2026,March,WEEK 11,Region A,Site 011,Salesman 08,PUBLIC TRANSPORT,Available,2026-03-18,2,2,0,0,0
+2026,May,WEEK 20,Region B,Site 012,Salesman 07,TOURISM,Photo Issue,2026-05-20,7,0,0,7,0
+2026,March,WEEK 11,Region B,Site 011,Salesman 08,PUBLIC TRANSPORT,Available,2026-03-13,2,2,0,0,0
+2026,April,WEEK 16,Region A,Site 007,Salesman 01,MAIN ROAD,Available,2026-04-18,3,3,0,0,0
+2026,May,WEEK 21,Region B,Site 003,Salesman 08,TOURISM,Available,2026-05-26,10,10,0,0,0
+2026,March,WEEK 12,Region B,Site 001,Salesman 05,PUBLIC TRANSPORT,Photo Issue,2026-03-22,6,0,0,6,0
+2026,July,WEEK 28,Region C,Site 005,Salesman 01,SCHOOL,Photo Issue,2026-07-10,4,0,0,4,0
+2026,September,WEEK 38,Region A,Site 001,Salesman 03,SCHOOL,Available,2026-09-22,7,7,0,0,0
+2026,July,WEEK 30,Region C,Site 006,Salesman 06,PUBLIC TRANSPORT,Available,2026-07-28,6,6,0,0,0
+2026,March,WEEK 10,Region A,Site 002,Salesman 04,MAIN ROAD,No Photo,2026-03-09,11,0,0,0,11
+2026,August,WEEK 34,Region B,Site 002,Salesman 06,PUBLIC TRANSPORT,Available,2026-08-24,12,12,0,0,0
+2026,March,WEEK 10,Region C,Site 010,Salesman 02,MAIN ROAD,Available,2026-03-05,8,8,0,0,0
+2026,June,WEEK 22,Region B,Site 007,Salesman 08,MAIN ROAD,No Display,2026-06-02,1,0,1,0,0
+2026,October,WEEK 41,Region A,Site 005,Salesman 06,PUBLIC TRANSPORT,No Display,2026-10-21,10,0,10,0,0
+2026,March,WEEK 11,Region C,Site 002,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-03-13,2,0,0,0,2
+2026,May,WEEK 19,Region B,Site 011,Salesman 01,TOURISM,Available,2026-05-08,9,9,0,0,0
+2026,March,WEEK 12,Region C,Site 002,Salesman 08,SPORT,Available,2026-03-24,2,2,0,0,0
+2026,August,WEEK 31,Region B,Site 006,Salesman 05,TOURISM,No Display,2026-08-01,4,0,4,0,0
+2026,April,WEEK 15,Region B,Site 005,Salesman 05,SPORT,Available,2026-04-11,11,11,0,0,0
+2026,May,WEEK 20,Region A,Site 003,Salesman 05,MAIN ROAD,No Display,2026-05-15,2,0,2,0,0
+2026,July,WEEK 28,Region C,Site 007,Salesman 06,SPORT,No Photo,2026-07-14,6,0,0,0,6
+2026,September,WEEK 38,Region C,Site 008,Salesman 03,MAIN ROAD,Photo Issue,2026-09-23,3,0,0,3,0
+2026,August,WEEK 33,Region A,Site 005,Salesman 07,SPORT,Photo Issue,2026-08-17,2,0,0,2,0
+2026,June,WEEK 23,Region B,Site 005,Salesman 02,TOURISM,Available,2026-06-05,5,5,0,0,0
+2026,May,WEEK 20,Region A,Site 011,Salesman 04,SPORT,Photo Issue,2026-05-15,6,0,0,6,0
+2026,June,WEEK 24,Region B,Site 010,Salesman 02,PUBLIC TRANSPORT,Available,2026-06-11,9,9,0,0,0
+2026,August,WEEK 31,Region B,Site 012,Salesman 02,PUBLIC TRANSPORT,Available,2026-08-05,12,12,0,0,0
+2026,March,WEEK 9,Region C,Site 009,Salesman 06,PUBLIC TRANSPORT,Available,2026-03-04,1,1,0,0,0
+2026,July,WEEK 28,Region C,Site 005,Salesman 01,MAIN ROAD,Available,2026-07-15,3,3,0,0,0
+2026,June,WEEK 26,Region A,Site 007,Salesman 02,TOURISM,No Display,2026-06-26,4,0,4,0,0
+2026,June,WEEK 24,Region C,Site 003,Salesman 03,SCHOOL,Available,2026-06-11,6,6,0,0,0
+2026,April,WEEK 15,Region A,Site 006,Salesman 08,SCHOOL,Photo Issue,2026-04-15,5,0,0,5,0
+2026,January,WEEK 2,Region A,Site 011,Salesman 02,TOURISM,Available,2026-01-13,11,11,0,0,0
+2026,May,WEEK 22,Region A,Site 011,Salesman 05,SCHOOL,No Display,2026-05-31,5,0,5,0,0
+2026,September,WEEK 38,Region C,Site 001,Salesman 06,TOURISM,Photo Issue,2026-09-21,2,0,0,2,0
+2026,September,WEEK 39,Region B,Site 006,Salesman 08,MAIN ROAD,Available,2026-09-25,11,11,0,0,0
+2026,February,WEEK 7,Region B,Site 009,Salesman 05,MAIN ROAD,Photo Issue,2026-02-18,5,0,0,5,0
+2026,April,WEEK 14,Region A,Site 008,Salesman 02,SPORT,Available,2026-04-03,9,9,0,0,0
+2026,June,WEEK 22,Region C,Site 010,Salesman 03,MAIN ROAD,Available,2026-06-03,1,1,0,0,0
+2026,November,WEEK 41,Region C,Site 005,Salesman 01,TOURISM,Available,2026-11-06,7,7,0,0,0
+2026,February,WEEK 7,Region B,Site 011,Salesman 04,SPORT,Photo Issue,2026-02-17,3,0,0,3,0
+2026,August,WEEK 31,Region C,Site 009,Salesman 03,SPORT,Available,2026-08-05,9,9,0,0,0
+2026,October,WEEK 41,Region C,Site 012,Salesman 08,SPORT,No Display,2026-10-31,11,0,11,0,0
+2026,January,WEEK 1,Region C,Site 012,Salesman 07,SPORT,Available,2026-01-03,1,1,0,0,0
+2026,October,WEEK 40,Region B,Site 007,Salesman 08,PUBLIC TRANSPORT,Available,2026-10-01,3,3,0,0,0
+2026,January,WEEK 2,Region A,Site 008,Salesman 01,MAIN ROAD,Available,2026-01-08,8,8,0,0,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 08,SPORT,Available,2026-10-27,5,5,0,0,0
+2026,January,WEEK 3,Region B,Site 002,Salesman 01,SCHOOL,Available,2026-01-19,9,9,0,0,0
+2026,October,WEEK 41,Region B,Site 002,Salesman 04,PUBLIC TRANSPORT,Photo Issue,2026-10-15,7,0,0,7,0
+2026,April,WEEK 14,Region A,Site 010,Salesman 07,PUBLIC TRANSPORT,Available,2026-04-02,3,3,0,0,0
+2026,March,WEEK 12,Region C,Site 005,Salesman 07,SPORT,No Display,2026-03-20,7,0,7,0,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 03,MAIN ROAD,No Display,2026-10-26,12,0,12,0,0
+2026,January,WEEK 5,Region B,Site 012,Salesman 06,MAIN ROAD,Available,2026-01-29,4,4,0,0,0
+2026,July,WEEK 30,Region B,Site 003,Salesman 06,MAIN ROAD,Available,2026-07-24,2,2,0,0,0
+2026,September,WEEK 36,Region A,Site 006,Salesman 08,MAIN ROAD,Available,2026-09-08,8,8,0,0,0
+2026,January,WEEK 2,Region B,Site 005,Salesman 04,TOURISM,Available,2026-01-13,7,7,0,0,0
+2026,March,WEEK 12,Region A,Site 007,Salesman 01,SPORT,Available,2026-03-22,1,1,0,0,0
+2026,April,WEEK 14,Region B,Site 001,Salesman 07,MAIN ROAD,Photo Issue,2026-04-04,4,0,0,4,0
+2026,September,WEEK 36,Region C,Site 006,Salesman 05,SCHOOL,No Display,2026-09-05,9,0,9,0,0
+2026,March,WEEK 12,Region C,Site 001,Salesman 07,SPORT,Available,2026-03-20,8,8,0,0,0
+2026,April,WEEK 14,Region C,Site 011,Salesman 02,SPORT,Available,2026-04-02,12,12,0,0,0
+2026,July,WEEK 30,Region B,Site 010,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-07-26,7,0,0,7,0
+2026,September,WEEK 38,Region B,Site 001,Salesman 03,TOURISM,Available,2026-09-19,5,5,0,0,0
+2026,February,WEEK 6,Region A,Site 004,Salesman 04,SPORT,Photo Issue,2026-02-10,1,0,0,1,0
+2026,January,WEEK 2,Region A,Site 002,Salesman 05,PUBLIC TRANSPORT,Available,2026-01-10,3,3,0,0,0
+2026,March,WEEK 13,Region A,Site 006,Salesman 06,TOURISM,Photo Issue,2026-03-28,3,0,0,3,0
+2026,June,WEEK 23,Region C,Site 007,Salesman 06,PUBLIC TRANSPORT,Available,2026-06-05,12,12,0,0,0
+2026,April,WEEK 15,Region B,Site 007,Salesman 04,MAIN ROAD,No Photo,2026-04-13,3,0,0,0,3
+2026,March,WEEK 13,Region C,Site 005,Salesman 01,MAIN ROAD,Available,2026-03-30,9,9,0,0,0
+2026,February,WEEK 7,Region C,Site 010,Salesman 01,MAIN ROAD,Available,2026-02-14,2,2,0,0,0
+2026,August,WEEK 33,Region C,Site 008,Salesman 01,PUBLIC TRANSPORT,Available,2026-08-13,6,6,0,0,0
+2026,August,WEEK 31,Region A,Site 004,Salesman 04,SPORT,Available,2026-08-02,10,10,0,0,0
+2026,February,WEEK 9,Region B,Site 012,Salesman 07,MAIN ROAD,No Display,2026-02-26,5,0,5,0,0
+2026,September,WEEK 38,Region B,Site 001,Salesman 04,MAIN ROAD,Available,2026-09-19,10,10,0,0,0
+2026,February,WEEK 8,Region B,Site 007,Salesman 07,PUBLIC TRANSPORT,Available,2026-02-23,5,5,0,0,0
+2026,May,WEEK 21,Region C,Site 001,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-05-22,4,0,0,4,0
+2026,August,WEEK 33,Region B,Site 012,Salesman 03,SPORT,Photo Issue,2026-08-18,6,0,0,6,0
+2026,May,WEEK 20,Region A,Site 010,Salesman 06,PUBLIC TRANSPORT,Available,2026-05-20,5,5,0,0,0
+2026,May,WEEK 19,Region B,Site 010,Salesman 03,TOURISM,Photo Issue,2026-05-07,6,0,0,6,0
+2026,October,WEEK 41,Region C,Site 001,Salesman 08,SPORT,Available,2026-10-15,2,2,0,0,0
+2026,January,WEEK 1,Region B,Site 002,Salesman 03,SCHOOL,Available,2026-01-05,12,12,0,0,0
+2026,November,WEEK 41,Region A,Site 003,Salesman 02,MAIN ROAD,Photo Issue,2026-11-04,8,0,0,8,0
+2026,October,WEEK 41,Region C,Site 006,Salesman 04,MAIN ROAD,Available,2026-10-15,5,5,0,0,0
+2026,May,WEEK 21,Region B,Site 007,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-05-24,5,0,0,5,0
+2026,September,WEEK 36,Region B,Site 005,Salesman 06,TOURISM,Available,2026-09-03,6,6,0,0,0
+2026,May,WEEK 22,Region B,Site 006,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-05-29,5,0,0,5,0
+2026,February,WEEK 8,Region B,Site 012,Salesman 06,TOURISM,Available,2026-02-19,6,6,0,0,0
+2026,May,WEEK 18,Region B,Site 004,Salesman 03,SCHOOL,Available,2026-05-01,9,9,0,0,0
+2026,March,WEEK 11,Region B,Site 007,Salesman 02,SCHOOL,Available,2026-03-17,4,4,0,0,0
+2026,January,WEEK 2,Region C,Site 003,Salesman 03,SCHOOL,Available,2026-01-13,4,4,0,0,0
+2026,August,WEEK 32,Region A,Site 006,Salesman 02,TOURISM,No Photo,2026-08-07,10,0,0,0,10
+2026,July,WEEK 28,Region B,Site 006,Salesman 04,PUBLIC TRANSPORT,No Display,2026-07-12,2,0,2,0,0
+2026,January,WEEK 4,Region C,Site 005,Salesman 03,SCHOOL,Available,2026-01-28,11,11,0,0,0
+2026,April,WEEK 17,Region B,Site 002,Salesman 05,TOURISM,Available,2026-04-29,4,4,0,0,0
+2026,February,WEEK 6,Region C,Site 005,Salesman 01,TOURISM,Available,2026-02-05,5,5,0,0,0
+2026,October,WEEK 41,Region C,Site 002,Salesman 05,SPORT,Photo Issue,2026-10-09,9,0,0,9,0
+2026,January,WEEK 2,Region C,Site 007,Salesman 05,SPORT,Photo Issue,2026-01-08,1,0,0,1,0
+2026,September,WEEK 36,Region C,Site 007,Salesman 07,PUBLIC TRANSPORT,Available,2026-09-08,3,3,0,0,0
+2026,July,WEEK 28,Region A,Site 005,Salesman 06,MAIN ROAD,Available,2026-07-13,1,1,0,0,0
+2026,July,WEEK 30,Region C,Site 008,Salesman 05,SPORT,Available,2026-07-24,6,6,0,0,0
+2026,August,WEEK 31,Region A,Site 004,Salesman 05,MAIN ROAD,Available,2026-08-03,7,7,0,0,0
+2026,July,WEEK 27,Region B,Site 001,Salesman 06,MAIN ROAD,No Display,2026-07-03,4,0,4,0,0
+2026,July,WEEK 27,Region B,Site 007,Salesman 02,TOURISM,Available,2026-07-08,12,12,0,0,0
+2026,March,WEEK 11,Region C,Site 011,Salesman 04,PUBLIC TRANSPORT,Photo Issue,2026-03-16,4,0,0,4,0
+2026,January,WEEK 5,Region B,Site 001,Salesman 07,TOURISM,No Display,2026-01-31,8,0,8,0,0
+2026,September,WEEK 39,Region B,Site 008,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-09-24,2,0,0,2,0
+2026,January,WEEK 4,Region A,Site 007,Salesman 02,TOURISM,No Display,2026-01-26,4,0,4,0,0
+2026,May,WEEK 19,Region A,Site 003,Salesman 07,PUBLIC TRANSPORT,Available,2026-05-13,1,1,0,0,0
+2026,April,WEEK 15,Region C,Site 012,Salesman 08,SCHOOL,No Photo,2026-04-09,12,0,0,0,12
+2026,August,WEEK 33,Region B,Site 002,Salesman 01,SPORT,Available,2026-08-14,6,6,0,0,0
+2026,August,WEEK 31,Region A,Site 005,Salesman 01,SPORT,Available,2026-08-03,9,9,0,0,0
+2026,September,WEEK 37,Region A,Site 004,Salesman 08,MAIN ROAD,Photo Issue,2026-09-10,2,0,0,2,0
+2026,July,WEEK 30,Region B,Site 003,Salesman 04,SPORT,Available,2026-07-23,6,6,0,0,0
+2026,January,WEEK 3,Region B,Site 003,Salesman 04,TOURISM,Photo Issue,2026-01-17,12,0,0,12,0
+2026,March,WEEK 9,Region A,Site 004,Salesman 04,SPORT,Available,2026-03-02,1,1,0,0,0
+2026,October,WEEK 41,Region B,Site 006,Salesman 04,SCHOOL,Photo Issue,2026-10-21,5,0,0,5,0
+2026,June,WEEK 24,Region A,Site 003,Salesman 03,TOURISM,Photo Issue,2026-06-15,8,0,0,8,0
+2026,August,WEEK 34,Region A,Site 004,Salesman 02,SPORT,Photo Issue,2026-08-26,7,0,0,7,0
+2026,March,WEEK 10,Region B,Site 003,Salesman 01,MAIN ROAD,Available,2026-03-07,12,12,0,0,0
+2026,January,WEEK 3,Region A,Site 006,Salesman 06,SCHOOL,Photo Issue,2026-01-19,1,0,0,1,0
+2026,August,WEEK 33,Region C,Site 011,Salesman 04,MAIN ROAD,Available,2026-08-18,10,10,0,0,0
+2026,April,WEEK 17,Region A,Site 003,Salesman 04,SCHOOL,Photo Issue,2026-04-23,8,0,0,8,0
+2026,September,WEEK 39,Region B,Site 001,Salesman 01,MAIN ROAD,Photo Issue,2026-09-24,7,0,0,7,0
+2026,July,WEEK 29,Region B,Site 005,Salesman 04,TOURISM,Available,2026-07-17,2,2,0,0,0
+2026,February,WEEK 6,Region C,Site 010,Salesman 05,MAIN ROAD,No Photo,2026-02-10,4,0,0,0,4
+2026,April,WEEK 17,Region B,Site 012,Salesman 08,MAIN ROAD,No Photo,2026-04-24,6,0,0,0,6
+2026,May,WEEK 18,Region A,Site 012,Salesman 07,SPORT,Available,2026-05-06,8,8,0,0,0
+2026,January,WEEK 4,Region A,Site 009,Salesman 04,SCHOOL,No Display,2026-01-22,9,0,9,0,0
+2026,September,WEEK 37,Region A,Site 012,Salesman 04,SCHOOL,No Photo,2026-09-11,7,0,0,0,7
+2026,May,WEEK 20,Region B,Site 003,Salesman 06,SPORT,Photo Issue,2026-05-18,1,0,0,1,0
+2026,May,WEEK 19,Region C,Site 008,Salesman 02,SCHOOL,Available,2026-05-13,2,2,0,0,0
+2026,April,WEEK 14,Region B,Site 009,Salesman 04,SPORT,Available,2026-04-07,2,2,0,0,0
+2026,June,WEEK 26,Region B,Site 003,Salesman 08,PUBLIC TRANSPORT,Available,2026-06-29,7,7,0,0,0
+2026,May,WEEK 21,Region A,Site 007,Salesman 01,MAIN ROAD,Available,2026-05-22,2,2,0,0,0
+2026,March,WEEK 11,Region B,Site 008,Salesman 08,SCHOOL,Available,2026-03-14,5,5,0,0,0
+2026,July,WEEK 28,Region B,Site 003,Salesman 08,TOURISM,Available,2026-07-10,12,12,0,0,0
+2026,May,WEEK 19,Region B,Site 009,Salesman 02,PUBLIC TRANSPORT,Available,2026-05-13,8,8,0,0,0
+2026,April,WEEK 16,Region A,Site 011,Salesman 07,TOURISM,Photo Issue,2026-04-22,7,0,0,7,0
+2026,May,WEEK 20,Region B,Site 010,Salesman 06,PUBLIC TRANSPORT,Available,2026-05-15,4,4,0,0,0
+2026,August,WEEK 31,Region B,Site 002,Salesman 02,TOURISM,Available,2026-08-03,4,4,0,0,0
+2026,March,WEEK 9,Region B,Site 005,Salesman 08,TOURISM,Available,2026-03-02,10,10,0,0,0
+2026,September,WEEK 38,Region C,Site 006,Salesman 02,SCHOOL,Photo Issue,2026-09-17,7,0,0,7,0
+2026,October,WEEK 41,Region A,Site 010,Salesman 04,PUBLIC TRANSPORT,No Display,2026-10-24,1,0,1,0,0
+2026,June,WEEK 25,Region B,Site 010,Salesman 07,SCHOOL,Available,2026-06-23,3,3,0,0,0
+2026,August,WEEK 32,Region A,Site 010,Salesman 07,SPORT,Available,2026-08-10,9,9,0,0,0
+2026,May,WEEK 21,Region B,Site 001,Salesman 05,SPORT,Photo Issue,2026-05-27,1,0,0,1,0
+2026,January,WEEK 4,Region A,Site 001,Salesman 07,SCHOOL,Photo Issue,2026-01-23,6,0,0,6,0
+2026,January,WEEK 5,Region B,Site 001,Salesman 07,SPORT,Available,2026-01-29,5,5,0,0,0
+2026,January,WEEK 1,Region B,Site 006,Salesman 02,MAIN ROAD,Available,2026-01-02,4,4,0,0,0
+2026,June,WEEK 23,Region A,Site 011,Salesman 02,SPORT,No Photo,2026-06-05,5,0,0,0,5
+2026,May,WEEK 22,Region C,Site 012,Salesman 05,SPORT,Available,2026-05-28,10,10,0,0,0
+2026,November,WEEK 41,Region B,Site 002,Salesman 08,SPORT,Photo Issue,2026-11-02,3,0,0,3,0
+2026,June,WEEK 23,Region B,Site 005,Salesman 01,PUBLIC TRANSPORT,Available,2026-06-04,4,4,0,0,0
+2026,May,WEEK 20,Region A,Site 006,Salesman 03,MAIN ROAD,Available,2026-05-15,8,8,0,0,0
+2026,June,WEEK 24,Region C,Site 011,Salesman 06,SPORT,Available,2026-06-16,10,10,0,0,0
+2026,May,WEEK 20,Region A,Site 007,Salesman 04,PUBLIC TRANSPORT,Available,2026-05-14,6,6,0,0,0
+2026,February,WEEK 8,Region C,Site 011,Salesman 05,SCHOOL,Photo Issue,2026-02-20,2,0,0,2,0
+2026,July,WEEK 30,Region B,Site 006,Salesman 03,SCHOOL,Available,2026-07-26,6,6,0,0,0
+2026,March,WEEK 10,Region C,Site 009,Salesman 06,TOURISM,Available,2026-03-06,7,7,0,0,0
+2026,August,WEEK 33,Region A,Site 008,Salesman 03,SCHOOL,Available,2026-08-16,11,11,0,0,0
+2026,September,WEEK 37,Region B,Site 012,Salesman 07,SPORT,Available,2026-09-10,2,2,0,0,0
+2026,October,WEEK 41,Region B,Site 001,Salesman 03,TOURISM,Photo Issue,2026-10-12,7,0,0,7,0
+2026,March,WEEK 12,Region C,Site 010,Salesman 06,PUBLIC TRANSPORT,Photo Issue,2026-03-19,4,0,0,4,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 01,MAIN ROAD,Available,2026-10-14,2,2,0,0,0
+2026,January,WEEK 4,Region C,Site 010,Salesman 07,SPORT,No Display,2026-01-24,11,0,11,0,0
+2026,August,WEEK 31,Region C,Site 001,Salesman 05,PUBLIC TRANSPORT,No Photo,2026-08-03,5,0,0,0,5
+2026,November,WEEK 41,Region C,Site 009,Salesman 04,TOURISM,Photo Issue,2026-11-04,1,0,0,1,0
+2026,June,WEEK 25,Region A,Site 010,Salesman 05,SPORT,Available,2026-06-20,8,8,0,0,0
+2026,February,WEEK 6,Region A,Site 003,Salesman 02,SPORT,No Photo,2026-02-09,11,0,0,0,11
+2026,May,WEEK 22,Region A,Site 007,Salesman 05,SPORT,Available,2026-05-28,6,6,0,0,0
+2026,March,WEEK 13,Region B,Site 004,Salesman 02,SPORT,Available,2026-03-29,5,5,0,0,0
+2026,June,WEEK 25,Region B,Site 011,Salesman 05,TOURISM,Available,2026-06-23,4,4,0,0,0
+2026,January,WEEK 1,Region A,Site 006,Salesman 01,TOURISM,Photo Issue,2026-01-05,4,0,0,4,0
+2026,June,WEEK 23,Region A,Site 008,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-06-04,8,0,0,8,0
+2026,August,WEEK 31,Region B,Site 004,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-08-04,1,0,0,1,0
+2026,February,WEEK 6,Region B,Site 007,Salesman 03,TOURISM,No Photo,2026-02-11,2,0,0,0,2
+2026,March,WEEK 9,Region A,Site 011,Salesman 01,SCHOOL,Available,2026-03-02,10,10,0,0,0
+2026,March,WEEK 12,Region B,Site 005,Salesman 05,SCHOOL,Available,2026-03-25,5,5,0,0,0
+2026,January,WEEK 1,Region A,Site 012,Salesman 02,MAIN ROAD,No Display,2026-01-05,6,0,6,0,0
+2026,June,WEEK 26,Region C,Site 004,Salesman 02,SCHOOL,Photo Issue,2026-06-25,12,0,0,12,0
+2026,January,WEEK 1,Region C,Site 005,Salesman 01,SCHOOL,Photo Issue,2026-01-01,12,0,0,12,0
+2026,February,WEEK 5,Region B,Site 005,Salesman 07,MAIN ROAD,Photo Issue,2026-02-01,9,0,0,9,0
+2026,January,WEEK 3,Region B,Site 007,Salesman 04,PUBLIC TRANSPORT,Photo Issue,2026-01-20,3,0,0,3,0
+2026,February,WEEK 8,Region B,Site 009,Salesman 03,SCHOOL,Available,2026-02-24,8,8,0,0,0
+2026,April,WEEK 15,Region A,Site 008,Salesman 01,SPORT,No Photo,2026-04-13,5,0,0,0,5
+2026,April,WEEK 17,Region B,Site 008,Salesman 08,TOURISM,Available,2026-04-29,1,1,0,0,0
+2026,May,WEEK 22,Region C,Site 002,Salesman 06,MAIN ROAD,No Photo,2026-05-30,3,0,0,0,3
+2026,January,WEEK 5,Region A,Site 007,Salesman 01,TOURISM,Available,2026-01-30,3,3,0,0,0
+2026,June,WEEK 23,Region C,Site 009,Salesman 04,SCHOOL,Photo Issue,2026-06-08,1,0,0,1,0
+2026,August,WEEK 35,Region B,Site 008,Salesman 02,PUBLIC TRANSPORT,Available,2026-08-30,11,11,0,0,0
+2026,April,WEEK 15,Region B,Site 005,Salesman 06,TOURISM,Available,2026-04-12,6,6,0,0,0
+2026,January,WEEK 2,Region C,Site 005,Salesman 02,SPORT,Available,2026-01-12,10,10,0,0,0
+2026,February,WEEK 6,Region A,Site 004,Salesman 08,SCHOOL,Available,2026-02-07,9,9,0,0,0
+2026,October,WEEK 41,Region A,Site 006,Salesman 08,PUBLIC TRANSPORT,Available,2026-10-08,5,5,0,0,0
+2026,October,WEEK 41,Region C,Site 003,Salesman 05,MAIN ROAD,Photo Issue,2026-10-15,3,0,0,3,0
+2026,March,WEEK 10,Region C,Site 003,Salesman 07,SPORT,Available,2026-03-06,10,10,0,0,0
+2026,February,WEEK 5,Region C,Site 003,Salesman 03,PUBLIC TRANSPORT,Available,2026-02-01,10,10,0,0,0
+2026,October,WEEK 40,Region B,Site 001,Salesman 03,SPORT,Photo Issue,2026-10-02,7,0,0,7,0
+2026,August,WEEK 33,Region A,Site 003,Salesman 04,SPORT,Available,2026-08-15,8,8,0,0,0
+2026,April,WEEK 14,Region B,Site 010,Salesman 08,TOURISM,Available,2026-04-06,8,8,0,0,0
+2026,June,WEEK 24,Region A,Site 010,Salesman 07,SPORT,No Display,2026-06-12,12,0,12,0,0
+2026,February,WEEK 8,Region A,Site 008,Salesman 01,TOURISM,Photo Issue,2026-02-23,3,0,0,3,0
+2026,August,WEEK 33,Region B,Site 002,Salesman 04,PUBLIC TRANSPORT,No Display,2026-08-14,6,0,6,0,0
+2026,September,WEEK 37,Region A,Site 009,Salesman 07,SPORT,Available,2026-09-13,1,1,0,0,0
+2026,June,WEEK 25,Region A,Site 009,Salesman 06,PUBLIC TRANSPORT,No Display,2026-06-19,11,0,11,0,0
+2026,April,WEEK 17,Region A,Site 004,Salesman 07,MAIN ROAD,Available,2026-04-28,8,8,0,0,0
+2026,April,WEEK 16,Region B,Site 008,Salesman 05,PUBLIC TRANSPORT,No Display,2026-04-21,9,0,9,0,0
+2026,March,WEEK 11,Region A,Site 012,Salesman 06,SPORT,No Display,2026-03-13,10,0,10,0,0
+2026,April,WEEK 15,Region A,Site 010,Salesman 04,MAIN ROAD,Available,2026-04-14,4,4,0,0,0
+2026,May,WEEK 21,Region A,Site 010,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-05-25,7,0,0,7,0
+2026,January,WEEK 2,Region C,Site 003,Salesman 05,SCHOOL,No Display,2026-01-14,5,0,5,0,0
+2026,September,WEEK 35,Region A,Site 005,Salesman 07,SCHOOL,Photo Issue,2026-09-01,1,0,0,1,0
+2026,March,WEEK 10,Region C,Site 008,Salesman 07,TOURISM,Photo Issue,2026-03-07,2,0,0,2,0
+2026,October,WEEK 41,Region A,Site 010,Salesman 04,TOURISM,Available,2026-10-27,9,9,0,0,0
+2026,April,WEEK 17,Region A,Site 006,Salesman 02,TOURISM,Available,2026-04-28,1,1,0,0,0
+2026,September,WEEK 36,Region B,Site 002,Salesman 06,TOURISM,Available,2026-09-08,4,4,0,0,0
+2026,September,WEEK 36,Region C,Site 004,Salesman 03,TOURISM,Photo Issue,2026-09-08,5,0,0,5,0
+2026,October,WEEK 40,Region A,Site 002,Salesman 05,SPORT,Available,2026-10-03,3,3,0,0,0
+2026,September,WEEK 38,Region B,Site 010,Salesman 01,SCHOOL,Available,2026-09-22,9,9,0,0,0
+2026,April,WEEK 17,Region B,Site 002,Salesman 08,TOURISM,Photo Issue,2026-04-24,1,0,0,1,0
+2026,July,WEEK 30,Region B,Site 006,Salesman 06,SPORT,Available,2026-07-25,2,2,0,0,0
+2026,May,WEEK 22,Region C,Site 003,Salesman 06,TOURISM,Available,2026-05-28,12,12,0,0,0
+2026,March,WEEK 9,Region B,Site 006,Salesman 02,TOURISM,Photo Issue,2026-03-03,5,0,0,5,0
+2026,November,WEEK 41,Region B,Site 006,Salesman 01,MAIN ROAD,Available,2026-11-04,4,4,0,0,0
+2026,March,WEEK 11,Region C,Site 007,Salesman 02,SPORT,Available,2026-03-18,7,7,0,0,0
+2026,October,WEEK 41,Region B,Site 005,Salesman 08,MAIN ROAD,Available,2026-10-28,12,12,0,0,0
+2026,January,WEEK 1,Region C,Site 010,Salesman 07,SCHOOL,No Photo,2026-01-03,2,0,0,0,2
+2026,June,WEEK 24,Region B,Site 012,Salesman 08,SCHOOL,Photo Issue,2026-06-14,1,0,0,1,0
+2026,October,WEEK 41,Region C,Site 011,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-10-30,8,0,0,8,0
+2026,July,WEEK 27,Region B,Site 009,Salesman 05,PUBLIC TRANSPORT,Available,2026-07-05,3,3,0,0,0
+2026,July,WEEK 29,Region B,Site 002,Salesman 04,SPORT,Available,2026-07-20,4,4,0,0,0
+2026,April,WEEK 16,Region A,Site 002,Salesman 08,SCHOOL,Available,2026-04-16,7,7,0,0,0
+2026,October,WEEK 41,Region C,Site 010,Salesman 02,PUBLIC TRANSPORT,No Display,2026-10-30,6,0,6,0,0
+2026,January,WEEK 2,Region A,Site 011,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-11,12,12,0,0,0
+2026,April,WEEK 16,Region B,Site 005,Salesman 04,SCHOOL,No Display,2026-04-21,8,0,8,0,0
+2026,June,WEEK 24,Region A,Site 010,Salesman 07,MAIN ROAD,Available,2026-06-14,1,1,0,0,0
+2026,April,WEEK 17,Region A,Site 007,Salesman 03,SPORT,Photo Issue,2026-04-28,6,0,0,6,0
+2026,July,WEEK 27,Region B,Site 005,Salesman 03,SCHOOL,Available,2026-07-05,5,5,0,0,0
+2026,May,WEEK 19,Region B,Site 002,Salesman 06,MAIN ROAD,Available,2026-05-13,1,1,0,0,0
+2026,June,WEEK 24,Region A,Site 006,Salesman 08,TOURISM,Available,2026-06-13,4,4,0,0,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 03,SPORT,Available,2026-10-30,1,1,0,0,0
+2026,January,WEEK 3,Region A,Site 005,Salesman 06,PUBLIC TRANSPORT,No Display,2026-01-18,3,0,3,0,0
+2026,June,WEEK 22,Region B,Site 011,Salesman 01,SCHOOL,Available,2026-06-02,7,7,0,0,0
+2026,September,WEEK 37,Region A,Site 012,Salesman 02,SPORT,Available,2026-09-14,9,9,0,0,0
+2026,August,WEEK 32,Region A,Site 009,Salesman 07,MAIN ROAD,Photo Issue,2026-08-12,12,0,0,12,0
+2026,May,WEEK 18,Region C,Site 001,Salesman 03,SPORT,No Photo,2026-05-03,2,0,0,0,2
+2026,November,WEEK 41,Region B,Site 002,Salesman 03,SPORT,Available,2026-11-03,11,11,0,0,0
+2026,January,WEEK 1,Region B,Site 001,Salesman 03,TOURISM,Photo Issue,2026-01-03,4,0,0,4,0
+2026,August,WEEK 35,Region A,Site 010,Salesman 07,SPORT,Available,2026-08-28,5,5,0,0,0
+2026,September,WEEK 38,Region C,Site 012,Salesman 02,TOURISM,Available,2026-09-20,8,8,0,0,0
+2026,February,WEEK 8,Region C,Site 010,Salesman 03,MAIN ROAD,Photo Issue,2026-02-19,5,0,0,5,0
+2026,March,WEEK 10,Region B,Site 001,Salesman 02,MAIN ROAD,Photo Issue,2026-03-08,12,0,0,12,0
+2026,July,WEEK 29,Region C,Site 009,Salesman 01,TOURISM,Available,2026-07-18,5,5,0,0,0
+2026,July,WEEK 28,Region A,Site 001,Salesman 05,PUBLIC TRANSPORT,Available,2026-07-09,6,6,0,0,0
+2026,March,WEEK 12,Region B,Site 008,Salesman 04,SCHOOL,Available,2026-03-22,10,10,0,0,0
+2026,July,WEEK 27,Region B,Site 011,Salesman 02,PUBLIC TRANSPORT,Available,2026-07-05,10,10,0,0,0
+2026,February,WEEK 9,Region C,Site 004,Salesman 06,PUBLIC TRANSPORT,Available,2026-02-26,10,10,0,0,0
+2026,June,WEEK 24,Region C,Site 005,Salesman 04,SCHOOL,Available,2026-06-15,8,8,0,0,0
+2026,September,WEEK 39,Region C,Site 006,Salesman 02,TOURISM,No Photo,2026-09-24,11,0,0,0,11
+2026,July,WEEK 28,Region A,Site 003,Salesman 05,MAIN ROAD,No Display,2026-07-12,4,0,4,0,0
+2026,September,WEEK 38,Region B,Site 008,Salesman 05,SCHOOL,Available,2026-09-17,6,6,0,0,0
+2026,March,WEEK 12,Region C,Site 003,Salesman 01,TOURISM,Available,2026-03-21,3,3,0,0,0
+2026,August,WEEK 33,Region A,Site 008,Salesman 01,MAIN ROAD,Photo Issue,2026-08-13,8,0,0,8,0
+2026,March,WEEK 12,Region A,Site 003,Salesman 06,MAIN ROAD,Photo Issue,2026-03-22,1,0,0,1,0
+2026,August,WEEK 33,Region A,Site 011,Salesman 02,PUBLIC TRANSPORT,Available,2026-08-17,11,11,0,0,0
+2026,July,WEEK 29,Region C,Site 011,Salesman 02,MAIN ROAD,Available,2026-07-19,2,2,0,0,0
+2026,March,WEEK 13,Region A,Site 006,Salesman 05,SPORT,No Photo,2026-03-26,8,0,0,0,8
+2026,September,WEEK 35,Region B,Site 009,Salesman 06,SCHOOL,Available,2026-09-01,4,4,0,0,0
+2026,May,WEEK 21,Region C,Site 001,Salesman 05,MAIN ROAD,Available,2026-05-24,5,5,0,0,0
+2026,January,WEEK 2,Region C,Site 012,Salesman 07,MAIN ROAD,Available,2026-01-13,11,11,0,0,0
+2026,February,WEEK 8,Region B,Site 010,Salesman 03,SCHOOL,Available,2026-02-24,4,4,0,0,0
+2026,September,WEEK 39,Region A,Site 011,Salesman 06,MAIN ROAD,Photo Issue,2026-09-24,4,0,0,4,0
+2026,May,WEEK 19,Region A,Site 005,Salesman 06,SPORT,Available,2026-05-13,9,9,0,0,0
+2026,October,WEEK 41,Region C,Site 006,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-10-14,2,0,0,2,0
+2026,March,WEEK 9,Region B,Site 001,Salesman 01,MAIN ROAD,No Photo,2026-03-02,5,0,0,0,5
+2026,January,WEEK 1,Region C,Site 002,Salesman 01,TOURISM,Available,2026-01-05,6,6,0,0,0
+2026,October,WEEK 41,Region A,Site 005,Salesman 03,TOURISM,Available,2026-10-19,5,5,0,0,0
+2026,May,WEEK 19,Region A,Site 012,Salesman 07,SPORT,Available,2026-05-07,6,6,0,0,0
+2026,May,WEEK 18,Region A,Site 005,Salesman 07,TOURISM,No Display,2026-05-06,6,0,6,0,0
+2026,October,WEEK 40,Region B,Site 003,Salesman 08,SCHOOL,No Photo,2026-10-07,11,0,0,0,11
+2026,May,WEEK 20,Region C,Site 010,Salesman 05,PUBLIC TRANSPORT,Available,2026-05-19,7,7,0,0,0
+2026,June,WEEK 26,Region C,Site 003,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-06-30,2,0,0,2,0
+2026,October,WEEK 41,Region C,Site 002,Salesman 08,TOURISM,No Display,2026-10-27,5,0,5,0,0
+2026,February,WEEK 7,Region C,Site 010,Salesman 05,MAIN ROAD,Available,2026-02-18,3,3,0,0,0
+2026,August,WEEK 35,Region B,Site 003,Salesman 03,SPORT,Available,2026-08-27,7,7,0,0,0
+2026,March,WEEK 9,Region A,Site 006,Salesman 07,SPORT,Photo Issue,2026-03-03,2,0,0,2,0
+2026,April,WEEK 15,Region B,Site 008,Salesman 05,SPORT,Available,2026-04-10,3,3,0,0,0
+2026,June,WEEK 25,Region B,Site 003,Salesman 04,TOURISM,No Photo,2026-06-19,6,0,0,0,6
+2026,June,WEEK 24,Region B,Site 007,Salesman 01,TOURISM,Available,2026-06-13,10,10,0,0,0
+2026,March,WEEK 9,Region B,Site 011,Salesman 06,SPORT,No Photo,2026-03-02,3,0,0,0,3
+2026,June,WEEK 26,Region B,Site 003,Salesman 06,SPORT,Available,2026-06-29,8,8,0,0,0
+2026,September,WEEK 36,Region C,Site 011,Salesman 01,SCHOOL,Available,2026-09-04,7,7,0,0,0
+2026,April,WEEK 17,Region B,Site 005,Salesman 05,TOURISM,Available,2026-04-24,12,12,0,0,0
+2026,May,WEEK 19,Region C,Site 007,Salesman 05,TOURISM,Available,2026-05-09,7,7,0,0,0
+2026,March,WEEK 10,Region A,Site 010,Salesman 04,TOURISM,Available,2026-03-08,4,4,0,0,0
+2026,April,WEEK 14,Region C,Site 010,Salesman 04,SCHOOL,Available,2026-04-05,4,4,0,0,0
+2026,August,WEEK 35,Region C,Site 007,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-08-30,4,0,0,0,4
+2026,September,WEEK 35,Region B,Site 010,Salesman 05,TOURISM,Available,2026-09-02,4,4,0,0,0
+2026,March,WEEK 13,Region B,Site 012,Salesman 01,SCHOOL,Photo Issue,2026-03-27,9,0,0,9,0
+2026,June,WEEK 23,Region C,Site 008,Salesman 04,SPORT,Available,2026-06-06,5,5,0,0,0
+2026,July,WEEK 27,Region C,Site 009,Salesman 03,TOURISM,Available,2026-07-06,9,9,0,0,0
+2026,September,WEEK 36,Region A,Site 001,Salesman 03,TOURISM,Available,2026-09-06,10,10,0,0,0
+2026,August,WEEK 31,Region C,Site 012,Salesman 05,SPORT,Available,2026-08-02,8,8,0,0,0
+2026,August,WEEK 33,Region A,Site 010,Salesman 07,TOURISM,No Photo,2026-08-18,6,0,0,0,6
+2026,February,WEEK 7,Region B,Site 007,Salesman 03,PUBLIC TRANSPORT,Available,2026-02-16,5,5,0,0,0
+2026,March,WEEK 9,Region C,Site 009,Salesman 07,MAIN ROAD,Available,2026-03-02,4,4,0,0,0
+2026,May,WEEK 20,Region A,Site 003,Salesman 06,SPORT,Available,2026-05-19,1,1,0,0,0
+2026,June,WEEK 23,Region B,Site 012,Salesman 04,TOURISM,Available,2026-06-10,9,9,0,0,0
+2026,September,WEEK 36,Region C,Site 005,Salesman 01,SCHOOL,Available,2026-09-05,1,1,0,0,0
+2026,April,WEEK 17,Region A,Site 001,Salesman 07,SPORT,Available,2026-04-27,12,12,0,0,0
+2026,January,WEEK 5,Region B,Site 007,Salesman 05,MAIN ROAD,Photo Issue,2026-01-29,8,0,0,8,0
+2026,March,WEEK 13,Region B,Site 003,Salesman 05,SCHOOL,No Display,2026-03-27,5,0,5,0,0
+2026,July,WEEK 30,Region A,Site 011,Salesman 01,SPORT,Photo Issue,2026-07-26,1,0,0,1,0
+2026,November,WEEK 41,Region A,Site 004,Salesman 02,PUBLIC TRANSPORT,Available,2026-11-06,3,3,0,0,0
+2026,July,WEEK 27,Region B,Site 012,Salesman 07,MAIN ROAD,Available,2026-07-06,8,8,0,0,0
+2026,June,WEEK 26,Region A,Site 008,Salesman 03,PUBLIC TRANSPORT,Available,2026-06-25,4,4,0,0,0
+2026,June,WEEK 25,Region C,Site 011,Salesman 03,SCHOOL,Available,2026-06-23,9,9,0,0,0
+2026,May,WEEK 19,Region B,Site 005,Salesman 07,SCHOOL,Photo Issue,2026-05-10,5,0,0,5,0
+2026,June,WEEK 23,Region B,Site 008,Salesman 08,SCHOOL,Photo Issue,2026-06-05,8,0,0,8,0
+2026,June,WEEK 23,Region B,Site 009,Salesman 02,MAIN ROAD,Available,2026-06-10,6,6,0,0,0
+2026,January,WEEK 5,Region C,Site 008,Salesman 03,PUBLIC TRANSPORT,Available,2026-01-29,3,3,0,0,0
+2026,May,WEEK 18,Region A,Site 010,Salesman 05,PUBLIC TRANSPORT,Available,2026-05-04,10,10,0,0,0
+2026,June,WEEK 25,Region A,Site 009,Salesman 08,PUBLIC TRANSPORT,Available,2026-06-22,5,5,0,0,0
+2026,March,WEEK 9,Region A,Site 010,Salesman 01,PUBLIC TRANSPORT,Available,2026-03-02,5,5,0,0,0
+2026,March,WEEK 9,Region A,Site 008,Salesman 07,SPORT,Available,2026-03-03,2,2,0,0,0
+2026,May,WEEK 21,Region A,Site 007,Salesman 03,SCHOOL,Available,2026-05-21,11,11,0,0,0
+2026,March,WEEK 13,Region C,Site 012,Salesman 07,SPORT,Photo Issue,2026-03-27,9,0,0,9,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 04,MAIN ROAD,Photo Issue,2026-10-17,2,0,0,2,0
+2026,April,WEEK 14,Region B,Site 005,Salesman 02,SCHOOL,Available,2026-04-07,8,8,0,0,0
+2026,February,WEEK 9,Region A,Site 006,Salesman 06,SPORT,Available,2026-02-27,10,10,0,0,0
+2026,October,WEEK 41,Region A,Site 001,Salesman 05,MAIN ROAD,Available,2026-10-26,11,11,0,0,0
+2026,July,WEEK 27,Region A,Site 011,Salesman 08,MAIN ROAD,Available,2026-07-03,6,6,0,0,0
+2026,March,WEEK 12,Region C,Site 006,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-21,4,4,0,0,0
+2026,April,WEEK 14,Region B,Site 003,Salesman 04,TOURISM,Available,2026-04-02,9,9,0,0,0
+2026,May,WEEK 22,Region A,Site 007,Salesman 06,SPORT,Available,2026-05-28,4,4,0,0,0
+2026,April,WEEK 18,Region A,Site 006,Salesman 04,SPORT,Available,2026-04-30,9,9,0,0,0
+2026,April,WEEK 14,Region A,Site 006,Salesman 01,SCHOOL,Available,2026-04-02,6,6,0,0,0
+2026,April,WEEK 16,Region C,Site 005,Salesman 08,SCHOOL,Available,2026-04-17,7,7,0,0,0
+2026,October,WEEK 40,Region A,Site 005,Salesman 08,SCHOOL,Available,2026-10-04,8,8,0,0,0
+2026,January,WEEK 3,Region B,Site 006,Salesman 07,TOURISM,Photo Issue,2026-01-16,4,0,0,4,0
+2026,May,WEEK 21,Region B,Site 008,Salesman 01,TOURISM,Available,2026-05-22,7,7,0,0,0
+2026,January,WEEK 4,Region A,Site 009,Salesman 02,SCHOOL,No Photo,2026-01-24,3,0,0,0,3
+2026,May,WEEK 20,Region A,Site 011,Salesman 06,MAIN ROAD,Available,2026-05-19,10,10,0,0,0
+2026,August,WEEK 31,Region B,Site 010,Salesman 02,MAIN ROAD,Available,2026-08-01,12,12,0,0,0
+2026,January,WEEK 5,Region C,Site 007,Salesman 05,TOURISM,Available,2026-01-30,2,2,0,0,0
+2026,September,WEEK 37,Region B,Site 002,Salesman 07,PUBLIC TRANSPORT,Available,2026-09-14,6,6,0,0,0
+2026,March,WEEK 11,Region C,Site 010,Salesman 02,TOURISM,Available,2026-03-15,12,12,0,0,0
+2026,August,WEEK 32,Region A,Site 008,Salesman 03,SPORT,Photo Issue,2026-08-12,1,0,0,1,0
+2026,September,WEEK 39,Region C,Site 005,Salesman 03,PUBLIC TRANSPORT,Available,2026-09-28,6,6,0,0,0
+2026,June,WEEK 26,Region A,Site 007,Salesman 06,SCHOOL,Available,2026-06-28,8,8,0,0,0
+2026,March,WEEK 10,Region B,Site 005,Salesman 08,SPORT,Photo Issue,2026-03-05,7,0,0,7,0
+2026,June,WEEK 25,Region B,Site 011,Salesman 03,MAIN ROAD,Photo Issue,2026-06-22,4,0,0,4,0
+2026,October,WEEK 40,Region A,Site 007,Salesman 05,SCHOOL,Photo Issue,2026-10-05,6,0,0,6,0
+2026,January,WEEK 1,Region B,Site 001,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-07,8,8,0,0,0
+2026,September,WEEK 39,Region C,Site 010,Salesman 07,PUBLIC TRANSPORT,Available,2026-09-28,9,9,0,0,0
+2026,October,WEEK 41,Region C,Site 003,Salesman 06,MAIN ROAD,Available,2026-10-29,3,3,0,0,0
+2026,July,WEEK 27,Region B,Site 004,Salesman 05,SPORT,Photo Issue,2026-07-04,12,0,0,12,0
+2026,March,WEEK 13,Region B,Site 009,Salesman 06,TOURISM,Available,2026-03-29,11,11,0,0,0
+2026,April,WEEK 17,Region C,Site 010,Salesman 07,SPORT,Available,2026-04-23,1,1,0,0,0
+2026,June,WEEK 24,Region C,Site 011,Salesman 05,MAIN ROAD,Available,2026-06-15,2,2,0,0,0
+2026,September,WEEK 36,Region B,Site 001,Salesman 08,PUBLIC TRANSPORT,Available,2026-09-06,12,12,0,0,0
+2026,February,WEEK 5,Region B,Site 003,Salesman 05,SPORT,No Display,2026-02-01,1,0,1,0,0
+2026,June,WEEK 23,Region A,Site 004,Salesman 04,MAIN ROAD,Available,2026-06-06,12,12,0,0,0
+2026,June,WEEK 24,Region C,Site 003,Salesman 03,MAIN ROAD,No Display,2026-06-11,1,0,1,0,0
+2026,September,WEEK 35,Region B,Site 012,Salesman 07,SPORT,Available,2026-09-01,1,1,0,0,0
+2026,March,WEEK 11,Region C,Site 004,Salesman 05,PUBLIC TRANSPORT,Available,2026-03-12,3,3,0,0,0
+2026,May,WEEK 19,Region C,Site 004,Salesman 07,SPORT,Available,2026-05-09,6,6,0,0,0
+2026,September,WEEK 36,Region C,Site 007,Salesman 06,SCHOOL,Available,2026-09-06,1,1,0,0,0
+2026,September,WEEK 36,Region A,Site 001,Salesman 08,SCHOOL,No Display,2026-09-03,6,0,6,0,0
+2026,September,WEEK 36,Region B,Site 009,Salesman 05,PUBLIC TRANSPORT,No Display,2026-09-04,7,0,7,0,0
+2026,November,WEEK 41,Region A,Site 009,Salesman 04,SCHOOL,Available,2026-11-07,5,5,0,0,0
+2026,August,WEEK 33,Region C,Site 008,Salesman 06,SPORT,Photo Issue,2026-08-13,3,0,0,3,0
+2026,October,WEEK 41,Region B,Site 005,Salesman 04,PUBLIC TRANSPORT,No Display,2026-10-11,4,0,4,0,0
+2026,September,WEEK 38,Region C,Site 011,Salesman 03,SPORT,Available,2026-09-23,8,8,0,0,0
+2026,February,WEEK 6,Region B,Site 007,Salesman 07,PUBLIC TRANSPORT,Available,2026-02-09,8,8,0,0,0
+2026,November,WEEK 41,Region B,Site 010,Salesman 08,PUBLIC TRANSPORT,Available,2026-11-05,5,5,0,0,0
+2026,September,WEEK 37,Region B,Site 010,Salesman 02,SCHOOL,Available,2026-09-10,12,12,0,0,0
+2026,March,WEEK 13,Region B,Site 002,Salesman 08,PUBLIC TRANSPORT,Available,2026-03-31,9,9,0,0,0
+2026,April,WEEK 14,Region C,Site 001,Salesman 05,SCHOOL,Available,2026-04-03,4,4,0,0,0
+2026,October,WEEK 41,Region A,Site 010,Salesman 06,SPORT,Available,2026-10-31,5,5,0,0,0
+2026,March,WEEK 13,Region B,Site 008,Salesman 03,MAIN ROAD,Available,2026-03-30,7,7,0,0,0
+2026,September,WEEK 38,Region A,Site 011,Salesman 03,SCHOOL,Available,2026-09-22,2,2,0,0,0
+2026,May,WEEK 18,Region A,Site 004,Salesman 01,MAIN ROAD,Available,2026-05-03,2,2,0,0,0
+2026,June,WEEK 26,Region B,Site 007,Salesman 05,PUBLIC TRANSPORT,Available,2026-06-29,4,4,0,0,0
+2026,November,WEEK 41,Region C,Site 003,Salesman 07,SCHOOL,Photo Issue,2026-11-01,10,0,0,10,0
+2026,January,WEEK 2,Region A,Site 005,Salesman 07,SPORT,Available,2026-01-11,7,7,0,0,0
+2026,May,WEEK 21,Region C,Site 004,Salesman 03,MAIN ROAD,Photo Issue,2026-05-23,9,0,0,9,0
+2026,March,WEEK 13,Region C,Site 012,Salesman 03,TOURISM,Available,2026-03-27,4,4,0,0,0
+2026,January,WEEK 2,Region A,Site 011,Salesman 01,SPORT,Available,2026-01-13,9,9,0,0,0
+2026,August,WEEK 32,Region B,Site 012,Salesman 06,SPORT,Available,2026-08-12,5,5,0,0,0
+2026,April,WEEK 16,Region B,Site 002,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-04-19,7,0,0,7,0
+2026,May,WEEK 18,Region C,Site 003,Salesman 06,PUBLIC TRANSPORT,Available,2026-05-04,8,8,0,0,0
+2026,October,WEEK 40,Region B,Site 008,Salesman 08,SPORT,No Display,2026-10-07,12,0,12,0,0
+2026,July,WEEK 29,Region A,Site 010,Salesman 05,MAIN ROAD,Photo Issue,2026-07-19,5,0,0,5,0
+2026,June,WEEK 24,Region B,Site 008,Salesman 04,MAIN ROAD,No Photo,2026-06-13,9,0,0,0,9
+2026,September,WEEK 36,Region B,Site 011,Salesman 07,SCHOOL,Available,2026-09-08,2,2,0,0,0
+2026,July,WEEK 28,Region B,Site 003,Salesman 07,TOURISM,Available,2026-07-15,8,8,0,0,0
+2026,February,WEEK 5,Region B,Site 001,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-02-01,4,0,0,4,0
+2026,August,WEEK 34,Region A,Site 005,Salesman 07,SCHOOL,Available,2026-08-21,3,3,0,0,0
+2026,October,WEEK 41,Region A,Site 005,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-10-20,5,0,0,5,0
+2026,August,WEEK 33,Region B,Site 003,Salesman 04,PUBLIC TRANSPORT,Available,2026-08-15,3,3,0,0,0
+2026,July,WEEK 29,Region B,Site 006,Salesman 08,SPORT,Photo Issue,2026-07-16,3,0,0,3,0
+2026,August,WEEK 32,Region C,Site 012,Salesman 04,TOURISM,Photo Issue,2026-08-07,9,0,0,9,0
+2026,January,WEEK 3,Region B,Site 010,Salesman 05,SCHOOL,Available,2026-01-17,12,12,0,0,0
+2026,July,WEEK 30,Region C,Site 005,Salesman 08,MAIN ROAD,Available,2026-07-28,3,3,0,0,0
+2026,June,WEEK 24,Region C,Site 002,Salesman 03,PUBLIC TRANSPORT,No Photo,2026-06-16,6,0,0,0,6
+2026,October,WEEK 41,Region B,Site 007,Salesman 07,MAIN ROAD,Available,2026-10-11,6,6,0,0,0
+2026,May,WEEK 21,Region A,Site 006,Salesman 05,TOURISM,No Display,2026-05-26,9,0,9,0,0
+2026,July,WEEK 29,Region A,Site 003,Salesman 05,SCHOOL,Available,2026-07-22,6,6,0,0,0
+2026,April,WEEK 15,Region B,Site 002,Salesman 07,TOURISM,Available,2026-04-14,10,10,0,0,0
+2026,August,WEEK 34,Region A,Site 006,Salesman 02,MAIN ROAD,Available,2026-08-26,8,8,0,0,0
+2026,June,WEEK 26,Region B,Site 004,Salesman 01,TOURISM,Available,2026-06-28,9,9,0,0,0
+2026,May,WEEK 22,Region C,Site 001,Salesman 07,TOURISM,Photo Issue,2026-05-28,6,0,0,6,0
+2026,October,WEEK 41,Region C,Site 008,Salesman 08,TOURISM,Available,2026-10-16,5,5,0,0,0
+2026,October,WEEK 41,Region C,Site 008,Salesman 07,MAIN ROAD,Available,2026-10-18,12,12,0,0,0
+2026,May,WEEK 18,Region C,Site 003,Salesman 03,MAIN ROAD,No Photo,2026-05-06,10,0,0,0,10
+2026,June,WEEK 23,Region C,Site 003,Salesman 06,SCHOOL,Photo Issue,2026-06-08,7,0,0,7,0
+2026,March,WEEK 11,Region A,Site 002,Salesman 03,PUBLIC TRANSPORT,Available,2026-03-16,5,5,0,0,0
+2026,February,WEEK 6,Region C,Site 004,Salesman 06,SPORT,Available,2026-02-06,4,4,0,0,0
+2026,April,WEEK 17,Region A,Site 005,Salesman 05,SCHOOL,Available,2026-04-27,11,11,0,0,0
+2026,October,WEEK 41,Region C,Site 006,Salesman 03,PUBLIC TRANSPORT,Available,2026-10-26,4,4,0,0,0
+2026,October,WEEK 40,Region C,Site 012,Salesman 05,SPORT,Available,2026-10-02,9,9,0,0,0
+2026,June,WEEK 24,Region A,Site 011,Salesman 05,MAIN ROAD,Available,2026-06-12,9,9,0,0,0
+2026,September,WEEK 36,Region C,Site 006,Salesman 06,MAIN ROAD,Photo Issue,2026-09-06,12,0,0,12,0
+2026,January,WEEK 1,Region B,Site 004,Salesman 07,PUBLIC TRANSPORT,Available,2026-01-06,11,11,0,0,0
+2026,July,WEEK 27,Region A,Site 008,Salesman 07,SCHOOL,Photo Issue,2026-07-07,5,0,0,5,0
+2026,August,WEEK 33,Region B,Site 002,Salesman 05,SPORT,Available,2026-08-15,5,5,0,0,0
+2026,January,WEEK 2,Region A,Site 005,Salesman 07,MAIN ROAD,No Display,2026-01-08,4,0,4,0,0
+2026,October,WEEK 41,Region A,Site 003,Salesman 05,TOURISM,Available,2026-10-08,11,11,0,0,0
+2026,October,WEEK 41,Region B,Site 005,Salesman 01,SCHOOL,Photo Issue,2026-10-11,10,0,0,10,0
+2026,March,WEEK 12,Region A,Site 001,Salesman 05,MAIN ROAD,Photo Issue,2026-03-19,4,0,0,4,0
+2026,April,WEEK 13,Region B,Site 002,Salesman 03,MAIN ROAD,Available,2026-04-01,11,11,0,0,0
+2026,October,WEEK 41,Region C,Site 008,Salesman 06,MAIN ROAD,Available,2026-10-16,5,5,0,0,0
+2026,August,WEEK 34,Region C,Site 010,Salesman 08,PUBLIC TRANSPORT,Available,2026-08-20,9,9,0,0,0
+2026,May,WEEK 21,Region B,Site 006,Salesman 06,PUBLIC TRANSPORT,No Photo,2026-05-24,10,0,0,0,10
+2026,August,WEEK 31,Region B,Site 012,Salesman 04,SPORT,No Display,2026-08-04,4,0,4,0,0
+2026,February,WEEK 5,Region A,Site 001,Salesman 03,SCHOOL,No Photo,2026-02-04,8,0,0,0,8
+2026,April,WEEK 14,Region A,Site 008,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-04-07,2,0,0,2,0
+2026,April,WEEK 16,Region C,Site 007,Salesman 02,SCHOOL,Available,2026-04-20,9,9,0,0,0
+2026,January,WEEK 4,Region B,Site 006,Salesman 03,TOURISM,Available,2026-01-27,8,8,0,0,0
+2026,April,WEEK 15,Region B,Site 006,Salesman 08,PUBLIC TRANSPORT,Available,2026-04-14,4,4,0,0,0
+2026,June,WEEK 24,Region B,Site 009,Salesman 02,TOURISM,Available,2026-06-16,7,7,0,0,0
+2026,June,WEEK 22,Region C,Site 008,Salesman 06,PUBLIC TRANSPORT,Available,2026-06-01,1,1,0,0,0
+2026,February,WEEK 7,Region A,Site 010,Salesman 06,MAIN ROAD,No Display,2026-02-14,2,0,2,0,0
+2026,August,WEEK 32,Region A,Site 003,Salesman 03,TOURISM,Available,2026-08-09,4,4,0,0,0
+2026,February,WEEK 6,Region A,Site 011,Salesman 04,SCHOOL,No Photo,2026-02-07,3,0,0,0,3
+2026,April,WEEK 17,Region B,Site 009,Salesman 05,MAIN ROAD,No Display,2026-04-24,12,0,12,0,0
+2026,January,WEEK 1,Region A,Site 005,Salesman 08,MAIN ROAD,Available,2026-01-04,2,2,0,0,0
+2026,May,WEEK 21,Region B,Site 012,Salesman 04,SCHOOL,Available,2026-05-26,6,6,0,0,0
+2026,September,WEEK 39,Region C,Site 009,Salesman 02,PUBLIC TRANSPORT,No Display,2026-09-30,9,0,9,0,0
+2026,March,WEEK 11,Region A,Site 011,Salesman 06,SCHOOL,Available,2026-03-16,12,12,0,0,0
+2026,May,WEEK 21,Region A,Site 006,Salesman 08,SPORT,Photo Issue,2026-05-21,6,0,0,6,0
+2026,February,WEEK 8,Region A,Site 008,Salesman 02,SPORT,Available,2026-02-19,7,7,0,0,0
+2026,June,WEEK 24,Region C,Site 005,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-06-12,6,0,0,6,0
+2026,February,WEEK 6,Region C,Site 008,Salesman 01,MAIN ROAD,Available,2026-02-08,3,3,0,0,0
+2026,April,WEEK 17,Region A,Site 006,Salesman 07,SPORT,Photo Issue,2026-04-23,6,0,0,6,0
+2026,October,WEEK 41,Region B,Site 009,Salesman 03,SCHOOL,No Display,2026-10-18,4,0,4,0,0
+2026,May,WEEK 21,Region C,Site 004,Salesman 02,SCHOOL,Available,2026-05-21,9,9,0,0,0
+2026,June,WEEK 25,Region B,Site 004,Salesman 02,MAIN ROAD,No Photo,2026-06-22,5,0,0,0,5
+2026,February,WEEK 5,Region A,Site 011,Salesman 07,SPORT,Available,2026-02-01,12,12,0,0,0
+2026,January,WEEK 1,Region B,Site 004,Salesman 03,TOURISM,No Display,2026-01-05,7,0,7,0,0
+2026,May,WEEK 20,Region A,Site 009,Salesman 03,MAIN ROAD,Available,2026-05-16,1,1,0,0,0
+2026,July,WEEK 30,Region C,Site 008,Salesman 05,MAIN ROAD,Photo Issue,2026-07-25,2,0,0,2,0
+2026,July,WEEK 28,Region B,Site 005,Salesman 03,TOURISM,Photo Issue,2026-07-13,10,0,0,10,0
+2026,September,WEEK 37,Region B,Site 012,Salesman 05,MAIN ROAD,Available,2026-09-14,6,6,0,0,0
+2026,September,WEEK 36,Region A,Site 007,Salesman 05,MAIN ROAD,No Display,2026-09-05,11,0,11,0,0
+2026,July,WEEK 30,Region A,Site 009,Salesman 08,TOURISM,No Photo,2026-07-25,5,0,0,0,5
+2026,August,WEEK 34,Region C,Site 004,Salesman 05,SCHOOL,Available,2026-08-20,7,7,0,0,0
+2026,February,WEEK 6,Region A,Site 008,Salesman 04,SCHOOL,Photo Issue,2026-02-11,8,0,0,8,0
+2026,March,WEEK 11,Region C,Site 002,Salesman 01,PUBLIC TRANSPORT,Photo Issue,2026-03-18,9,0,0,9,0
+2026,August,WEEK 34,Region A,Site 008,Salesman 03,TOURISM,Photo Issue,2026-08-25,11,0,0,11,0
+2026,May,WEEK 22,Region B,Site 004,Salesman 04,TOURISM,Available,2026-05-31,12,12,0,0,0
+2026,May,WEEK 21,Region C,Site 002,Salesman 05,TOURISM,Available,2026-05-21,10,10,0,0,0
+2026,January,WEEK 4,Region C,Site 006,Salesman 05,SCHOOL,Photo Issue,2026-01-25,12,0,0,12,0
+2026,November,WEEK 41,Region A,Site 001,Salesman 02,MAIN ROAD,Photo Issue,2026-11-07,12,0,0,12,0
+2026,May,WEEK 19,Region B,Site 011,Salesman 02,TOURISM,Available,2026-05-12,2,2,0,0,0
+2026,January,WEEK 5,Region A,Site 002,Salesman 02,PUBLIC TRANSPORT,Photo Issue,2026-01-30,2,0,0,2,0
+2026,July,WEEK 30,Region B,Site 012,Salesman 01,TOURISM,No Display,2026-07-23,4,0,4,0,0
+2026,May,WEEK 18,Region B,Site 005,Salesman 04,TOURISM,Photo Issue,2026-05-04,2,0,0,2,0
+2026,September,WEEK 39,Region C,Site 004,Salesman 04,TOURISM,No Photo,2026-09-25,8,0,0,0,8
+2026,May,WEEK 19,Region A,Site 002,Salesman 01,MAIN ROAD,Available,2026-05-13,3,3,0,0,0
+2026,February,WEEK 6,Region A,Site 001,Salesman 06,SPORT,Available,2026-02-07,8,8,0,0,0
+2026,February,WEEK 7,Region B,Site 005,Salesman 01,SPORT,No Photo,2026-02-18,1,0,0,0,1
+2026,August,WEEK 31,Region C,Site 001,Salesman 02,MAIN ROAD,Available,2026-08-04,7,7,0,0,0
+2026,February,WEEK 8,Region A,Site 009,Salesman 04,MAIN ROAD,Available,2026-02-22,8,8,0,0,0
+2026,April,WEEK 13,Region B,Site 010,Salesman 02,SCHOOL,Available,2026-04-01,2,2,0,0,0
+2026,April,WEEK 15,Region C,Site 007,Salesman 04,SPORT,No Photo,2026-04-09,6,0,0,0,6
+2026,November,WEEK 41,Region A,Site 007,Salesman 05,SCHOOL,Photo Issue,2026-11-04,2,0,0,2,0
+2026,February,WEEK 8,Region B,Site 006,Salesman 04,SPORT,Available,2026-02-21,1,1,0,0,0
+2026,April,WEEK 14,Region C,Site 012,Salesman 04,PUBLIC TRANSPORT,Available,2026-04-08,12,12,0,0,0
+2026,May,WEEK 22,Region C,Site 003,Salesman 04,SPORT,Available,2026-05-30,10,10,0,0,0
+2026,August,WEEK 31,Region A,Site 004,Salesman 01,SPORT,Photo Issue,2026-08-01,1,0,0,1,0
+2026,May,WEEK 20,Region B,Site 010,Salesman 04,SPORT,No Display,2026-05-14,7,0,7,0,0
+2026,September,WEEK 39,Region A,Site 004,Salesman 07,SPORT,Photo Issue,2026-09-25,4,0,0,4,0
+2026,March,WEEK 13,Region B,Site 002,Salesman 02,PUBLIC TRANSPORT,Available,2026-03-31,12,12,0,0,0
+2026,May,WEEK 22,Region B,Site 004,Salesman 07,SPORT,No Display,2026-05-31,6,0,6,0,0
+2026,July,WEEK 29,Region C,Site 009,Salesman 01,SCHOOL,Available,2026-07-17,4,4,0,0,0
+2026,August,WEEK 31,Region B,Site 010,Salesman 05,TOURISM,No Display,2026-08-05,8,0,8,0,0
+2026,August,WEEK 34,Region A,Site 011,Salesman 04,SPORT,Photo Issue,2026-08-21,9,0,0,9,0
+2026,July,WEEK 30,Region C,Site 011,Salesman 04,SCHOOL,Available,2026-07-23,1,1,0,0,0
+2026,November,WEEK 41,Region B,Site 003,Salesman 06,MAIN ROAD,No Photo,2026-11-03,7,0,0,0,7
+2026,February,WEEK 7,Region C,Site 012,Salesman 07,SPORT,Photo Issue,2026-02-18,8,0,0,8,0
+2026,July,WEEK 29,Region C,Site 009,Salesman 02,SCHOOL,Available,2026-07-22,8,8,0,0,0
+2026,August,WEEK 33,Region B,Site 004,Salesman 07,MAIN ROAD,No Photo,2026-08-18,11,0,0,0,11
+2026,June,WEEK 23,Region B,Site 001,Salesman 04,MAIN ROAD,Available,2026-06-06,10,10,0,0,0
+2026,May,WEEK 21,Region A,Site 004,Salesman 02,SCHOOL,Photo Issue,2026-05-27,1,0,0,1,0
+2026,October,WEEK 41,Region B,Site 007,Salesman 06,TOURISM,Available,2026-10-24,1,1,0,0,0
+2026,January,WEEK 1,Region B,Site 007,Salesman 01,SCHOOL,Available,2026-01-06,9,9,0,0,0
+2026,July,WEEK 27,Region B,Site 004,Salesman 07,SCHOOL,Photo Issue,2026-07-03,5,0,0,5,0
+2026,March,WEEK 9,Region B,Site 002,Salesman 04,SCHOOL,Available,2026-03-02,8,8,0,0,0
+2026,May,WEEK 18,Region B,Site 002,Salesman 02,MAIN ROAD,No Photo,2026-05-05,2,0,0,0,2
+2026,February,WEEK 7,Region C,Site 009,Salesman 05,MAIN ROAD,Available,2026-02-15,3,3,0,0,0
+2026,September,WEEK 37,Region B,Site 004,Salesman 06,TOURISM,Available,2026-09-11,6,6,0,0,0
+2026,May,WEEK 20,Region A,Site 002,Salesman 03,SCHOOL,Available,2026-05-18,1,1,0,0,0
+2026,May,WEEK 19,Region B,Site 012,Salesman 08,SCHOOL,No Photo,2026-05-09,7,0,0,0,7
+2026,March,WEEK 10,Region C,Site 009,Salesman 06,SPORT,Available,2026-03-05,12,12,0,0,0
+2026,October,WEEK 40,Region A,Site 001,Salesman 02,SPORT,No Display,2026-10-01,1,0,1,0,0
+2026,May,WEEK 21,Region B,Site 004,Salesman 08,SPORT,Available,2026-05-27,12,12,0,0,0
+2026,July,WEEK 29,Region A,Site 009,Salesman 07,SPORT,Available,2026-07-21,2,2,0,0,0
+2026,January,WEEK 3,Region B,Site 006,Salesman 07,SPORT,Available,2026-01-19,1,1,0,0,0
+2026,September,WEEK 38,Region C,Site 009,Salesman 07,SPORT,Available,2026-09-23,11,11,0,0,0
+2026,January,WEEK 3,Region B,Site 012,Salesman 06,SPORT,Available,2026-01-15,3,3,0,0,0
+2026,August,WEEK 34,Region C,Site 012,Salesman 05,TOURISM,Available,2026-08-23,10,10,0,0,0
+2026,January,WEEK 5,Region C,Site 002,Salesman 02,SCHOOL,Photo Issue,2026-01-29,8,0,0,8,0
+2026,May,WEEK 19,Region A,Site 012,Salesman 06,SCHOOL,Photo Issue,2026-05-09,2,0,0,2,0
+2026,July,WEEK 28,Region A,Site 007,Salesman 06,TOURISM,Available,2026-07-13,7,7,0,0,0
+2026,March,WEEK 9,Region A,Site 010,Salesman 08,TOURISM,Available,2026-03-03,11,11,0,0,0
+2026,February,WEEK 5,Region B,Site 004,Salesman 06,SPORT,Available,2026-02-03,3,3,0,0,0
+2026,October,WEEK 41,Region B,Site 011,Salesman 04,SPORT,Available,2026-10-21,8,8,0,0,0
+2026,July,WEEK 29,Region A,Site 007,Salesman 01,SCHOOL,Available,2026-07-16,12,12,0,0,0
+2026,August,WEEK 31,Region C,Site 011,Salesman 05,SPORT,Photo Issue,2026-08-02,3,0,0,3,0
+2026,October,WEEK 41,Region A,Site 011,Salesman 04,MAIN ROAD,Available,2026-10-13,3,3,0,0,0
+2026,February,WEEK 7,Region A,Site 004,Salesman 05,SCHOOL,Available,2026-02-13,2,2,0,0,0
+2026,July,WEEK 28,Region A,Site 009,Salesman 06,SCHOOL,Available,2026-07-09,8,8,0,0,0
+2026,January,WEEK 4,Region A,Site 004,Salesman 01,TOURISM,No Display,2026-01-28,11,0,11,0,0
+2026,February,WEEK 8,Region B,Site 009,Salesman 06,SCHOOL,Available,2026-02-25,12,12,0,0,0
+2026,March,WEEK 10,Region B,Site 012,Salesman 01,SCHOOL,Photo Issue,2026-03-07,1,0,0,1,0
+2026,March,WEEK 10,Region C,Site 005,Salesman 06,MAIN ROAD,Available,2026-03-10,8,8,0,0,0
+2026,October,WEEK 40,Region A,Site 011,Salesman 04,SCHOOL,Available,2026-10-07,8,8,0,0,0
+2026,May,WEEK 20,Region C,Site 009,Salesman 04,SPORT,Available,2026-05-14,1,1,0,0,0
+2026,August,WEEK 34,Region C,Site 011,Salesman 02,PUBLIC TRANSPORT,Available,2026-08-25,5,5,0,0,0
+2026,September,WEEK 39,Region C,Site 008,Salesman 05,TOURISM,Photo Issue,2026-09-26,1,0,0,1,0
+2026,August,WEEK 32,Region C,Site 003,Salesman 08,SPORT,No Display,2026-08-11,11,0,11,0,0
+2026,March,WEEK 12,Region B,Site 012,Salesman 02,SPORT,Available,2026-03-22,10,10,0,0,0
+2026,October,WEEK 41,Region B,Site 001,Salesman 07,SCHOOL,Available,2026-10-11,6,6,0,0,0
+2026,September,WEEK 38,Region A,Site 003,Salesman 04,MAIN ROAD,Available,2026-09-23,1,1,0,0,0
+2026,June,WEEK 23,Region C,Site 007,Salesman 01,SPORT,Available,2026-06-09,9,9,0,0,0
+2026,June,WEEK 26,Region B,Site 007,Salesman 02,MAIN ROAD,No Photo,2026-06-28,7,0,0,0,7
+2026,April,WEEK 17,Region C,Site 003,Salesman 01,SPORT,Available,2026-04-25,9,9,0,0,0
+2026,March,WEEK 9,Region B,Site 007,Salesman 05,SCHOOL,Available,2026-03-04,6,6,0,0,0
+2026,January,WEEK 3,Region C,Site 010,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-01-16,8,0,0,8,0
+2026,November,WEEK 41,Region C,Site 008,Salesman 07,MAIN ROAD,Photo Issue,2026-11-04,4,0,0,4,0
+2026,August,WEEK 35,Region B,Site 011,Salesman 01,MAIN ROAD,Available,2026-08-27,4,4,0,0,0
+2026,June,WEEK 24,Region C,Site 002,Salesman 03,MAIN ROAD,Available,2026-06-16,7,7,0,0,0
+2026,February,WEEK 7,Region C,Site 011,Salesman 05,SPORT,No Photo,2026-02-16,10,0,0,0,10
+2026,April,WEEK 16,Region A,Site 001,Salesman 04,SPORT,Available,2026-04-16,6,6,0,0,0
+2026,July,WEEK 27,Region B,Site 008,Salesman 04,MAIN ROAD,Available,2026-07-08,2,2,0,0,0
+2026,February,WEEK 9,Region B,Site 003,Salesman 01,SCHOOL,Available,2026-02-27,3,3,0,0,0
+2026,March,WEEK 9,Region B,Site 012,Salesman 04,SPORT,No Display,2026-03-01,9,0,9,0,0
+2026,April,WEEK 15,Region A,Site 001,Salesman 02,TOURISM,Photo Issue,2026-04-14,10,0,0,10,0
+2026,July,WEEK 30,Region C,Site 007,Salesman 07,SCHOOL,No Display,2026-07-28,10,0,10,0,0
+2026,April,WEEK 17,Region B,Site 008,Salesman 03,TOURISM,Photo Issue,2026-04-23,6,0,0,6,0
+2026,July,WEEK 29,Region A,Site 009,Salesman 01,TOURISM,Available,2026-07-18,11,11,0,0,0
+2026,September,WEEK 38,Region B,Site 001,Salesman 01,PUBLIC TRANSPORT,Available,2026-09-17,7,7,0,0,0
+2026,September,WEEK 36,Region B,Site 005,Salesman 04,SPORT,Photo Issue,2026-09-07,12,0,0,12,0
+2026,November,WEEK 41,Region C,Site 007,Salesman 07,SCHOOL,No Display,2026-11-06,2,0,2,0,0
+2026,January,WEEK 4,Region A,Site 001,Salesman 08,PUBLIC TRANSPORT,Photo Issue,2026-01-22,10,0,0,10,0
+2026,September,WEEK 38,Region B,Site 005,Salesman 01,MAIN ROAD,Available,2026-09-19,12,12,0,0,0
+2026,August,WEEK 32,Region C,Site 009,Salesman 07,PUBLIC TRANSPORT,Photo Issue,2026-08-11,8,0,0,8,0
+2026,May,WEEK 21,Region A,Site 010,Salesman 06,PUBLIC TRANSPORT,No Display,2026-05-23,3,0,3,0,0
+2026,August,WEEK 35,Region A,Site 002,Salesman 05,TOURISM,Photo Issue,2026-08-31,11,0,0,11,0
+2026,July,WEEK 30,Region A,Site 007,Salesman 02,SCHOOL,No Photo,2026-07-28,12,0,0,0,12
+2026,September,WEEK 39,Region C,Site 010,Salesman 06,SCHOOL,Available,2026-09-30,8,8,0,0,0
+2026,August,WEEK 31,Region B,Site 005,Salesman 07,PUBLIC TRANSPORT,Available,2026-08-03,9,9,0,0,0
+2026,March,WEEK 10,Region A,Site 010,Salesman 01,MAIN ROAD,Photo Issue,2026-03-08,4,0,0,4,0
+2026,August,WEEK 31,Region B,Site 012,Salesman 05,TOURISM,Available,2026-08-05,2,2,0,0,0
+2026,August,WEEK 35,Region A,Site 003,Salesman 03,PUBLIC TRANSPORT,Photo Issue,2026-08-31,1,0,0,1,0
+2026,June,WEEK 22,Region C,Site 005,Salesman 05,MAIN ROAD,Available,2026-06-03,5,5,0,0,0
+2026,September,WEEK 37,Region B,Site 003,Salesman 07,SPORT,Available,2026-09-12,1,1,0,0,0
+2026,May,WEEK 18,Region A,Site 004,Salesman 07,PUBLIC TRANSPORT,Available,2026-05-02,12,12,0,0,0
+2026,September,WEEK 39,Region A,Site 005,Salesman 07,PUBLIC TRANSPORT,Available,2026-09-25,2,2,0,0,0
+2026,October,WEEK 40,Region C,Site 012,Salesman 04,SPORT,Available,2026-10-01,6,6,0,0,0
+2026,May,WEEK 21,Region B,Site 001,Salesman 04,MAIN ROAD,Available,2026-05-27,12,12,0,0,0
+2026,January,WEEK 3,Region B,Site 004,Salesman 02,TOURISM,No Display,2026-01-18,5,0,5,0,0
+2026,January,WEEK 1,Region A,Site 005,Salesman 01,SCHOOL,Available,2026-01-02,6,6,0,0,0
+2026,April,WEEK 16,Region B,Site 012,Salesman 07,PUBLIC TRANSPORT,No Display,2026-04-20,2,0,2,0,0
+2026,July,WEEK 28,Region C,Site 003,Salesman 07,SCHOOL,Photo Issue,2026-07-09,1,0,0,1,0
+2026,April,WEEK 16,Region A,Site 008,Salesman 03,SPORT,No Photo,2026-04-20,4,0,0,0,4
+2026,June,WEEK 23,Region C,Site 004,Salesman 02,MAIN ROAD,Available,2026-06-10,12,12,0,0,0
+2026,March,WEEK 10,Region A,Site 008,Salesman 02,MAIN ROAD,Available,2026-03-08,2,2,0,0,0
+2026,January,WEEK 5,Region C,Site 001,Salesman 06,PUBLIC TRANSPORT,Available,2026-01-31,10,10,0,0,0
+2026,July,WEEK 27,Region B,Site 006,Salesman 08,PUBLIC TRANSPORT,Available,2026-07-07,6,6,0,0,0
+2026,June,WEEK 26,Region B,Site 011,Salesman 03,SCHOOL,Photo Issue,2026-06-25,8,0,0,8,0
+2026,October,WEEK 41,Region C,Site 005,Salesman 06,MAIN ROAD,Available,2026-10-23,5,5,0,0,0
+2026,April,WEEK 15,Region A,Site 003,Salesman 07,TOURISM,Available,2026-04-09,5,5,0,0,0
+2026,November,WEEK 41,Region C,Site 010,Salesman 03,SPORT,Available,2026-11-01,4,4,0,0,0
+2026,March,WEEK 9,Region B,Site 006,Salesman 01,SPORT,Photo Issue,2026-03-01,2,0,0,2,0
+2026,February,WEEK 5,Region B,Site 004,Salesman 01,PUBLIC TRANSPORT,Available,2026-02-04,5,5,0,0,0
+2026,November,WEEK 41,Region A,Site 004,Salesman 05,SCHOOL,No Display,2026-11-04,11,0,11,0,0
+2026,February,WEEK 5,Region A,Site 005,Salesman 06,SCHOOL,Available,2026-02-01,2,2,0,0,0
+2026,June,WEEK 24,Region A,Site 010,Salesman 04,MAIN ROAD,Available,2026-06-11,4,4,0,0,0
+2026,June,WEEK 24,Region A,Site 007,Salesman 08,TOURISM,Photo Issue,2026-06-16,11,0,0,11,0
+2026,June,WEEK 26,Region B,Site 011,Salesman 07,SCHOOL,Available,2026-06-28,6,6,0,0,0
+2026,May,WEEK 21,Region C,Site 001,Salesman 06,TOURISM,Available,2026-05-23,2,2,0,0,0
+2026,October,WEEK 41,Region A,Site 003,Salesman 01,SPORT,Available,2026-10-13,10,10,0,0,0
+2026,June,WEEK 25,Region A,Site 005,Salesman 02,MAIN ROAD,Photo Issue,2026-06-23,6,0,0,6,0
+2026,May,WEEK 19,Region B,Site 005,Salesman 01,SCHOOL,No Photo,2026-05-11,12,0,0,0,12
+2026,October,WEEK 41,Region C,Site 004,Salesman 05,SCHOOL,Available,2026-10-11,11,11,0,0,0
+2026,January,WEEK 1,Region A,Site 007,Salesman 01,TOURISM,Photo Issue,2026-01-03,10,0,0,10,0
+2026,September,WEEK 36,Region B,Site 001,Salesman 05,MAIN ROAD,No Photo,2026-09-04,11,0,0,0,11
+2026,May,WEEK 20,Region C,Site 007,Salesman 04,PUBLIC TRANSPORT,Available,2026-05-16,6,6,0,0,0
+2026,October,WEEK 41,Region B,Site 001,Salesman 04,SCHOOL,Available,2026-10-13,12,12,0,0,0
+2026,January,WEEK 2,Region A,Site 009,Salesman 04,SCHOOL,Photo Issue,2026-01-11,3,0,0,3,0
+2026,July,WEEK 30,Region A,Site 010,Salesman 05,SCHOOL,No Display,2026-07-23,2,0,2,0,0
+2026,April,WEEK 17,Region A,Site 005,Salesman 06,SPORT,Photo Issue,2026-04-27,3,0,0,3,0
+2026,February,WEEK 8,Region B,Site 012,Salesman 06,TOURISM,Photo Issue,2026-02-19,8,0,0,8,0
+2026,February,WEEK 8,Region A,Site 002,Salesman 08,MAIN ROAD,Available,2026-02-22,3,3,0,0,0
+2026,March,WEEK 11,Region B,Site 007,Salesman 03,SPORT,Available,2026-03-16,5,5,0,0,0
+2026,May,WEEK 19,Region B,Site 009,Salesman 08,MAIN ROAD,Available,2026-05-08,2,2,0,0,0
+2026,April,WEEK 15,Region B,Site 011,Salesman 07,SCHOOL,Available,2026-04-12,2,2,0,0,0
+2026,October,WEEK 41,Region C,Site 011,Salesman 04,MAIN ROAD,Available,2026-10-23,11,11,0,0,0
+2026,July,WEEK 30,Region C,Site 010,Salesman 05,PUBLIC TRANSPORT,Photo Issue,2026-07-25,4,0,0,4,0
+2026,June,WEEK 24,Region B,Site 003,Salesman 07,SPORT,Photo Issue,2026-06-15,11,0,0,11,0
+2026,April,WEEK 17,Region C,Site 001,Salesman 04,MAIN ROAD,Available,2026-04-29,11,11,0,0,0
+2026,October,WEEK 41,Region B,Site 009,Salesman 05,SCHOOL,No Display,2026-10-24,7,0,7,0,0
